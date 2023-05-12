@@ -1,0 +1,251 @@
+2021-01-01 15:30:45.634581: I tensorflow/stream_executor/platform/default/dso_loader.cc:48] Successfully opened dynamic library libcudart.so.10.1
+2021-01-01 15:30:48.719193: I tensorflow/stream_executor/platform/default/dso_loader.cc:48] Successfully opened dynamic library libcudart.so.10.1
+[1]<stderr>:2021-01-01 15:30:50.912890: I tensorflow/stream_executor/platform/default/dso_loader.cc:48] Successfully opened dynamic library libcudart.so.10.1
+[0]<stderr>:2021-01-01 15:30:50.913619: I tensorflow/stream_executor/platform/default/dso_loader.cc:48] Successfully opened dynamic library libcudart.so.10.1
+[1]<stderr>:2021-01-01 15:30:55.335288: I tensorflow/stream_executor/platform/default/dso_loader.cc:48] Successfully opened dynamic library libcuda.so.1
+[0]<stderr>:2021-01-01 15:30:55.335450: I tensorflow/stream_executor/platform/default/dso_loader.cc:48] Successfully opened dynamic library libcuda.so.1
+[1]<stderr>:2021-01-01 15:30:55.336610: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1716] Found device 0 with properties: 
+[1]<stderr>:pciBusID: 0000:5c:00.0 name: Tesla P100-PCIE-16GB computeCapability: 6.0
+[1]<stderr>:coreClock: 1.3285GHz coreCount: 56 deviceMemorySize: 15.90GiB deviceMemoryBandwidth: 681.88GiB/s
+[0]<stderr>:2021-01-01 15:30:55.336660: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1716] Found device 0 with properties: 
+[0]<stderr>:pciBusID: 0000:5c:00.0 name: Tesla P100-PCIE-16GB computeCapability: 6.0
+[0]<stderr>:coreClock: 1.3285GHz coreCount: 56 deviceMemorySize: 15.90GiB deviceMemoryBandwidth: 681.88GiB/s
+[0]<stderr>:2021-01-01 15:30:55.337845: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1716] Found device 1 with properties: 
+[0]<stderr>:pciBusID: 0000:d8:00.0 name: Tesla P100-PCIE-16GB computeCapability: 6.0
+[0]<stderr>:coreClock: 1.3285GHz coreCount: 56 deviceMemorySize: 15.90GiB deviceMemoryBandwidth: 681.88GiB/s
+[0]<stderr>:2021-01-01 15:30:55.337864: I tensorflow/stream_executor/platform/default/dso_loader.cc:48] Successfully opened dynamic library libcudart.so.10.1
+[1]<stderr>:2021-01-01 15:30:55.337861: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1716] Found device 1 with properties: 
+[1]<stderr>:pciBusID: 0000:d8:00.0 name: Tesla P100-PCIE-16GB computeCapability: 6.0
+[1]<stderr>:coreClock: 1.3285GHz coreCount: 56 deviceMemorySize: 15.90GiB deviceMemoryBandwidth: 681.88GiB/s
+[1]<stderr>:2021-01-01 15:30:55.337882: I tensorflow/stream_executor/platform/default/dso_loader.cc:48] Successfully opened dynamic library libcudart.so.10.1
+[1]<stderr>:2021-01-01 15:30:55.384863: I tensorflow/stream_executor/platform/default/dso_loader.cc:48] Successfully opened dynamic library libcublas.so.10
+[0]<stderr>:2021-01-01 15:30:55.386150: I tensorflow/stream_executor/platform/default/dso_loader.cc:48] Successfully opened dynamic library libcublas.so.10
+[0]<stderr>:2021-01-01 15:30:55.421089: I tensorflow/stream_executor/platform/default/dso_loader.cc:48] Successfully opened dynamic library libcufft.so.10
+[1]<stderr>:2021-01-01 15:30:55.421160: I tensorflow/stream_executor/platform/default/dso_loader.cc:48] Successfully opened dynamic library libcufft.so.10
+[0]<stderr>:2021-01-01 15:30:55.472572: I tensorflow/stream_executor/platform/default/dso_loader.cc:48] Successfully opened dynamic library libcurand.so.10
+[1]<stderr>:2021-01-01 15:30:55.472663: I tensorflow/stream_executor/platform/default/dso_loader.cc:48] Successfully opened dynamic library libcurand.so.10
+[0]<stderr>:2021-01-01 15:30:55.472640: I tensorflow/stream_executor/platform/default/dso_loader.cc:48] Successfully opened dynamic library libcusolver.so.10
+[1]<stderr>:2021-01-01 15:30:55.472785: I tensorflow/stream_executor/platform/default/dso_loader.cc:48] Successfully opened dynamic library libcusolver.so.10
+[0]<stderr>:2021-01-01 15:30:55.495062: I tensorflow/stream_executor/platform/default/dso_loader.cc:48] Successfully opened dynamic library libcusparse.so.10
+[1]<stderr>:2021-01-01 15:30:55.495359: I tensorflow/stream_executor/platform/default/dso_loader.cc:48] Successfully opened dynamic library libcusparse.so.10
+[0]<stderr>:2021-01-01 15:30:55.560872: I tensorflow/stream_executor/platform/default/dso_loader.cc:48] Successfully opened dynamic library libcudnn.so.7
+[1]<stderr>:2021-01-01 15:30:55.561444: I tensorflow/stream_executor/platform/default/dso_loader.cc:48] Successfully opened dynamic library libcudnn.so.7
+[0]<stderr>:2021-01-01 15:30:55.564378: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1858] Adding visible gpu devices: 0, 1
+[0]<stdout>:pid=0, total processes=2
+[1]<stderr>:2021-01-01 15:30:55.565252: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1858] Adding visible gpu devices: 0, 1
+[1]<stdout>:pid=1, total processes=2
+[0]<stdout>:['/lustre/scratch/lul/tfdata/50hz_data220/valid/sim_000199_00.msgpack.zst'] 
+[1]<stdout>:['/lustre/scratch/lul/tfdata/50hz_data220/valid/sim_000199_00.msgpack.zst'] 
+[0]<stdout>:['/lustre/scratch/lul/tfdata/50hz_data220/train/sim_000000_00.msgpack.zst', '/lustre/scratch/lul/tfdata/50hz_data220/train/sim_000001_00.msgpack.zst', '/lustre/scratch/lul/tfdata/50hz_data220/train/sim_000002_00.msgpack.zst', '/lustre/scratch/lul/tfdata/50hz_data220/train/sim_000003_00.msgpack.zst', '/lustre/scratch/lul/tfdata/50hz_data220/train/sim_000004_00.msgpack.zst', '/lustre/scratch/lul/tfdata/50hz_data220/train/sim_000005_00.msgpack.zst', '/lustre/scratch/lul/tfdata/50hz_data220/train/sim_000006_00.msgpack.zst', '/lustre/scratch/lul/tfdata/50hz_data220/train/sim_000007_00.msgpack.zst', '/lustre/scratch/lul/tfdata/50hz_data220/train/sim_000008_00.msgpack.zst', '/lustre/scratch/lul/tfdata/50hz_data220/train/sim_000009_00.msgpack.zst', '/lustre/scratch/lul/tfdata/50hz_data220/train/sim_000010_00.msgpack.zst', '/lustre/scratch/lul/tfdata/50hz_data220/train/sim_000011_00.msgpack.zst', '/lustre/scratch/lul/tfdata/50hz_data220/train/sim_000012_00.msgpack.zst', '/lustre/scratch/lul/tfdata/50hz_data220/train/sim_000013_00.msgpack.zst', '/lustre/scratch/lul/tfdata/50hz_data220/train/sim_000014_00.msgpack.zst', '/lustre/scratch/lul/tfdata/50hz_data220/train/sim_000015_00.msgpack.zst', '/lustre/scratch/lul/tfdata/50hz_data220/train/sim_000016_00.msgpack.zst', '/lustre/scratch/lul/tfdata/50hz_data220/train/sim_000017_00.msgpack.zst', '/lustre/scratch/lul/tfdata/50hz_data220/train/sim_000018_00.msgpack.zst', '/lustre/scratch/lul/tfdata/50hz_data220/train/sim_000019_00.msgpack.zst'] ...
+[0]<stdout>:[32m[0101 15:30:55 @parallel.py:340][0m [MultiProcessRunnerZMQ] Will fork a dataflow more than one times. This assumes the datapoints are i.i.d.
+[1]<stdout>:['/lustre/scratch/lul/tfdata/50hz_data220/train/sim_000000_00.msgpack.zst', '/lustre/scratch/lul/tfdata/50hz_data220/train/sim_000001_00.msgpack.zst', '/lustre/scratch/lul/tfdata/50hz_data220/train/sim_000002_00.msgpack.zst', '/lustre/scratch/lul/tfdata/50hz_data220/train/sim_000003_00.msgpack.zst', '/lustre/scratch/lul/tfdata/50hz_data220/train/sim_000004_00.msgpack.zst', '/lustre/scratch/lul/tfdata/50hz_data220/train/sim_000005_00.msgpack.zst', '/lustre/scratch/lul/tfdata/50hz_data220/train/sim_000006_00.msgpack.zst', '/lustre/scratch/lul/tfdata/50hz_data220/train/sim_000007_00.msgpack.zst', '/lustre/scratch/lul/tfdata/50hz_data220/train/sim_000008_00.msgpack.zst', '/lustre/scratch/lul/tfdata/50hz_data220/train/sim_000009_00.msgpack.zst', '/lustre/scratch/lul/tfdata/50hz_data220/train/sim_000010_00.msgpack.zst', '/lustre/scratch/lul/tfdata/50hz_data220/train/sim_000011_00.msgpack.zst', '/lustre/scratch/lul/tfdata/50hz_data220/train/sim_000012_00.msgpack.zst', '/lustre/scratch/lul/tfdata/50hz_data220/train/sim_000013_00.msgpack.zst', '/lustre/scratch/lul/tfdata/50hz_data220/train/sim_000014_00.msgpack.zst', '/lustre/scratch/lul/tfdata/50hz_data220/train/sim_000015_00.msgpack.zst', '/lustre/scratch/lul/tfdata/50hz_data220/train/sim_000016_00.msgpack.zst', '/lustre/scratch/lul/tfdata/50hz_data220/train/sim_000017_00.msgpack.zst', '/lustre/scratch/lul/tfdata/50hz_data220/train/sim_000018_00.msgpack.zst', '/lustre/scratch/lul/tfdata/50hz_data220/train/sim_000019_00.msgpack.zst'] ...
+[1]<stdout>:[32m[0101 15:30:55 @parallel.py:340][0m [MultiProcessRunnerZMQ] Will fork a dataflow more than one times. This assumes the datapoints are i.i.d.
+[1]<stderr>:2021-01-01 15:30:55.822969: I tensorflow/stream_executor/platform/default/dso_loader.cc:48] Successfully opened dynamic library libcudart.so.10.1
+[0]<stderr>:2021-01-01 15:30:55.828546: I tensorflow/stream_executor/platform/default/dso_loader.cc:48] Successfully opened dynamic library libcudart.so.10.1
+[1]<stderr>:2021-01-01 15:30:56.107712: I tensorflow/stream_executor/platform/default/dso_loader.cc:48] Successfully opened dynamic library libcudart.so.10.1
+[0]<stderr>:2021-01-01 15:30:56.107719: I tensorflow/stream_executor/platform/default/dso_loader.cc:48] Successfully opened dynamic library libcudart.so.10.1
+[1]<stderr>:2021-01-01 15:30:56.107896: I tensorflow/stream_executor/platform/default/dso_loader.cc:48] Successfully opened dynamic library libcudart.so.10.1
+[0]<stderr>:2021-01-01 15:30:56.107943: I tensorflow/stream_executor/platform/default/dso_loader.cc:48] Successfully opened dynamic library libcudart.so.10.1
+[0]<stderr>:2021-01-01 15:30:56.476768: I tensorflow/core/platform/cpu_feature_guard.cc:142] This TensorFlow binary is optimized with oneAPI Deep Neural Network Library (oneDNN)to use the following CPU instructions in performance-critical operations:  AVX2 AVX512F FMA
+[0]<stderr>:To enable them in other operations, rebuild TensorFlow with the appropriate compiler flags.
+[1]<stderr>:2021-01-01 15:30:56.478958: I tensorflow/core/platform/cpu_feature_guard.cc:142] This TensorFlow binary is optimized with oneAPI Deep Neural Network Library (oneDNN)to use the following CPU instructions in performance-critical operations:  AVX2 AVX512F FMA
+[1]<stderr>:To enable them in other operations, rebuild TensorFlow with the appropriate compiler flags.
+[0]<stderr>:2021-01-01 15:30:56.485126: I tensorflow/core/platform/profile_utils/cpu_utils.cc:104] CPU Frequency: 2400000000 Hz
+[0]<stderr>:2021-01-01 15:30:56.486834: I tensorflow/compiler/xla/service/service.cc:168] XLA service 0x55d2f3746f50 initialized for platform Host (this does not guarantee that XLA will be used). Devices:
+[0]<stderr>:2021-01-01 15:30:56.486861: I tensorflow/compiler/xla/service/service.cc:176]   StreamExecutor device (0): Host, Default Version
+[1]<stderr>:2021-01-01 15:30:56.487746: I tensorflow/core/platform/profile_utils/cpu_utils.cc:104] CPU Frequency: 2400000000 Hz
+[1]<stderr>:2021-01-01 15:30:56.489245: I tensorflow/compiler/xla/service/service.cc:168] XLA service 0x5654d2f22770 initialized for platform Host (this does not guarantee that XLA will be used). Devices:
+[1]<stderr>:2021-01-01 15:30:56.489263: I tensorflow/compiler/xla/service/service.cc:176]   StreamExecutor device (0): Host, Default Version
+[0]<stderr>:2021-01-01 15:30:56.489528: I tensorflow/compiler/xla/service/service.cc:168] XLA service 0x55d2f37b3840 initialized for platform CUDA (this does not guarantee that XLA will be used). Devices:
+[0]<stderr>:2021-01-01 15:30:56.489545: I tensorflow/compiler/xla/service/service.cc:176]   StreamExecutor device (0): Tesla P100-PCIE-16GB, Compute Capability 6.0
+[0]<stderr>:2021-01-01 15:30:56.490251: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1716] Found device 0 with properties: 
+[0]<stderr>:pciBusID: 0000:5c:00.0 name: Tesla P100-PCIE-16GB computeCapability: 6.0
+[0]<stderr>:coreClock: 1.3285GHz coreCount: 56 deviceMemorySize: 15.90GiB deviceMemoryBandwidth: 681.88GiB/s
+[0]<stderr>:2021-01-01 15:30:56.490285: I tensorflow/stream_executor/platform/default/dso_loader.cc:48] Successfully opened dynamic library libcudart.so.10.1
+[0]<stderr>:2021-01-01 15:30:56.490334: I tensorflow/stream_executor/platform/default/dso_loader.cc:48] Successfully opened dynamic library libcublas.so.10
+[0]<stderr>:2021-01-01 15:30:56.490348: I tensorflow/stream_executor/platform/default/dso_loader.cc:48] Successfully opened dynamic library libcufft.so.10
+[0]<stderr>:2021-01-01 15:30:56.490363: I tensorflow/stream_executor/platform/default/dso_loader.cc:48] Successfully opened dynamic library libcurand.so.10
+[0]<stderr>:2021-01-01 15:30:56.490373: I tensorflow/stream_executor/platform/default/dso_loader.cc:48] Successfully opened dynamic library libcusolver.so.10
+[0]<stderr>:2021-01-01 15:30:56.490384: I tensorflow/stream_executor/platform/default/dso_loader.cc:48] Successfully opened dynamic library libcusparse.so.10
+[0]<stderr>:2021-01-01 15:30:56.490394: I tensorflow/stream_executor/platform/default/dso_loader.cc:48] Successfully opened dynamic library libcudnn.so.7
+[0]<stderr>:2021-01-01 15:30:56.491583: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1858] Adding visible gpu devices: 0
+[1]<stderr>:2021-01-01 15:30:56.492512: I tensorflow/compiler/xla/service/service.cc:168] XLA service 0x5654d2f8f1f0 initialized for platform CUDA (this does not guarantee that XLA will be used). Devices:
+[1]<stderr>:2021-01-01 15:30:56.492528: I tensorflow/compiler/xla/service/service.cc:176]   StreamExecutor device (0): Tesla P100-PCIE-16GB, Compute Capability 6.0
+[1]<stderr>:2021-01-01 15:30:56.493648: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1716] Found device 0 with properties: 
+[1]<stderr>:pciBusID: 0000:d8:00.0 name: Tesla P100-PCIE-16GB computeCapability: 6.0
+[1]<stderr>:coreClock: 1.3285GHz coreCount: 56 deviceMemorySize: 15.90GiB deviceMemoryBandwidth: 681.88GiB/s
+[1]<stderr>:2021-01-01 15:30:56.493678: I tensorflow/stream_executor/platform/default/dso_loader.cc:48] Successfully opened dynamic library libcudart.so.10.1
+[1]<stderr>:2021-01-01 15:30:56.493712: I tensorflow/stream_executor/platform/default/dso_loader.cc:48] Successfully opened dynamic library libcublas.so.10
+[1]<stderr>:2021-01-01 15:30:56.493724: I tensorflow/stream_executor/platform/default/dso_loader.cc:48] Successfully opened dynamic library libcufft.so.10
+[1]<stderr>:2021-01-01 15:30:56.493736: I tensorflow/stream_executor/platform/default/dso_loader.cc:48] Successfully opened dynamic library libcurand.so.10
+[1]<stderr>:2021-01-01 15:30:56.493767: I tensorflow/stream_executor/platform/default/dso_loader.cc:48] Successfully opened dynamic library libcusolver.so.10
+[1]<stderr>:2021-01-01 15:30:56.493778: I tensorflow/stream_executor/platform/default/dso_loader.cc:48] Successfully opened dynamic library libcusparse.so.10
+[1]<stderr>:2021-01-01 15:30:56.493794: I tensorflow/stream_executor/platform/default/dso_loader.cc:48] Successfully opened dynamic library libcudnn.so.7
+[1]<stderr>:2021-01-01 15:30:56.494796: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1858] Adding visible gpu devices: 1
+[0]<stderr>:2021-01-01 15:30:57.412070: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1257] Device interconnect StreamExecutor with strength 1 edge matrix:
+[0]<stderr>:2021-01-01 15:30:57.412105: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1263]      0 
+[0]<stderr>:2021-01-01 15:30:57.412116: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1276] 0:   N 
+[0]<stderr>:2021-01-01 15:30:57.413601: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1402] Created TensorFlow device (/job:localhost/replica:0/task:0/device:GPU:0 with 14644 MB memory) -> physical GPU (device: 0, name: Tesla P100-PCIE-16GB, pci bus id: 0000:5c:00.0, compute capability: 6.0)
+[0]<stdout>:Create model with particle radius of: 0.012500 filterExtent of 0.037500
+[1]<stderr>:2021-01-01 15:30:57.476389: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1257] Device interconnect StreamExecutor with strength 1 edge matrix:
+[1]<stderr>:2021-01-01 15:30:57.476425: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1263]      1 
+[1]<stderr>:2021-01-01 15:30:57.476433: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1276] 1:   N 
+[1]<stderr>:2021-01-01 15:30:57.477868: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1402] Created TensorFlow device (/job:localhost/replica:0/task:0/device:GPU:0 with 14674 MB memory) -> physical GPU (device: 1, name: Tesla P100-PCIE-16GB, pci bus id: 0000:d8:00.0, compute capability: 6.0)
+[1]<stdout>:Create model with particle radius of: 0.012500 filterExtent of 0.037500
+[0]<stdout>:# 2021-01-01 15:30:57        0 n/a ips                 n/a rem | 
+[1]<stdout>:# 2021-01-01 15:30:57        0 n/a ips                 n/a rem | 
+[0]<stderr>:2021-01-01 15:30:59.363684: I tensorflow/stream_executor/platform/default/dso_loader.cc:48] Successfully opened dynamic library libcuda.so.1
+[0]<stderr>:2021-01-01 15:30:59.364388: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1716] Found device 0 with properties: 
+[0]<stderr>:pciBusID: 0000:5c:00.0 name: Tesla P100-PCIE-16GB computeCapability: 6.0
+[0]<stderr>:coreClock: 1.3285GHz coreCount: 56 deviceMemorySize: 15.90GiB deviceMemoryBandwidth: 681.88GiB/s
+[1]<stderr>:2021-01-01 15:30:59.364570: I tensorflow/stream_executor/platform/default/dso_loader.cc:48] Successfully opened dynamic library libcuda.so.1
+[0]<stderr>:2021-01-01 15:30:59.365031: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1716] Found device 1 with properties: 
+[0]<stderr>:pciBusID: 0000:d8:00.0 name: Tesla P100-PCIE-16GB computeCapability: 6.0
+[0]<stderr>:coreClock: 1.3285GHz coreCount: 56 deviceMemorySize: 15.90GiB deviceMemoryBandwidth: 681.88GiB/s
+[0]<stderr>:2021-01-01 15:30:59.365055: I tensorflow/stream_executor/platform/default/dso_loader.cc:48] Successfully opened dynamic library libcudart.so.10.1
+[1]<stderr>:2021-01-01 15:30:59.365415: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1716] Found device 0 with properties: 
+[1]<stderr>:pciBusID: 0000:5c:00.0 name: Tesla P100-PCIE-16GB computeCapability: 6.0
+[1]<stderr>:coreClock: 1.3285GHz coreCount: 56 deviceMemorySize: 15.90GiB deviceMemoryBandwidth: 681.88GiB/s
+[1]<stderr>:2021-01-01 15:30:59.365943: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1716] Found device 1 with properties: 
+[1]<stderr>:pciBusID: 0000:d8:00.0 name: Tesla P100-PCIE-16GB computeCapability: 6.0
+[1]<stderr>:coreClock: 1.3285GHz coreCount: 56 deviceMemorySize: 15.90GiB deviceMemoryBandwidth: 681.88GiB/s
+[1]<stderr>:2021-01-01 15:30:59.365966: I tensorflow/stream_executor/platform/default/dso_loader.cc:48] Successfully opened dynamic library libcudart.so.10.1
+[0]<stderr>:2021-01-01 15:30:59.366752: I tensorflow/stream_executor/platform/default/dso_loader.cc:48] Successfully opened dynamic library libcublas.so.10
+[1]<stderr>:2021-01-01 15:30:59.367437: I tensorflow/stream_executor/platform/default/dso_loader.cc:48] Successfully opened dynamic library libcublas.so.10
+[0]<stderr>:2021-01-01 15:30:59.368459: I tensorflow/stream_executor/platform/default/dso_loader.cc:48] Successfully opened dynamic library libcufft.so.10
+[1]<stderr>:2021-01-01 15:30:59.368883: I tensorflow/stream_executor/platform/default/dso_loader.cc:48] Successfully opened dynamic library libcufft.so.10
+[0]<stderr>:2021-01-01 15:30:59.369262: I tensorflow/stream_executor/platform/default/dso_loader.cc:48] Successfully opened dynamic library libcurand.so.10
+[0]<stderr>:2021-01-01 15:30:59.369292: I tensorflow/stream_executor/platform/default/dso_loader.cc:48] Successfully opened dynamic library libcusolver.so.10
+[1]<stderr>:2021-01-01 15:30:59.369604: I tensorflow/stream_executor/platform/default/dso_loader.cc:48] Successfully opened dynamic library libcurand.so.10
+[1]<stderr>:2021-01-01 15:30:59.369635: I tensorflow/stream_executor/platform/default/dso_loader.cc:48] Successfully opened dynamic library libcusolver.so.10
+[0]<stderr>:2021-01-01 15:30:59.370387: I tensorflow/stream_executor/platform/default/dso_loader.cc:48] Successfully opened dynamic library libcusparse.so.10
+[1]<stderr>:2021-01-01 15:30:59.370585: I tensorflow/stream_executor/platform/default/dso_loader.cc:48] Successfully opened dynamic library libcusparse.so.10
+[0]<stderr>:2021-01-01 15:30:59.374199: I tensorflow/stream_executor/platform/default/dso_loader.cc:48] Successfully opened dynamic library libcudnn.so.7
+[1]<stderr>:2021-01-01 15:30:59.374201: I tensorflow/stream_executor/platform/default/dso_loader.cc:48] Successfully opened dynamic library libcudnn.so.7
+[1]<stderr>:2021-01-01 15:30:59.378223: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1858] Adding visible gpu devices: 0, 1
+[0]<stderr>:2021-01-01 15:30:59.378211: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1858] Adding visible gpu devices: 0, 1
+[1]<stdout>:pid=1, total processes=2
+[0]<stdout>:pid=0, total processes=2
+[1]<stderr>:2021-01-01 15:31:21.427593: I tensorflow/stream_executor/platform/default/dso_loader.cc:48] Successfully opened dynamic library libcublas.so.10
+[0]<stderr>:2021-01-01 15:31:23.278659: I tensorflow/stream_executor/platform/default/dso_loader.cc:48] Successfully opened dynamic library libcublas.so.10
+[1]<stdout>:evaluating.. sim_000199 {'err_n1': 0.004990402050316334, 'err_n2': 0.013747104629874229}
+[1]<stdout>:done
+[0]<stdout>:evaluating.. sim_000199 {'err_n1': 0.004990402050316334, 'err_n2': 0.013747104629874229}
+[0]<stdout>:done
+[1]<stderr>:Traceback (most recent call last):
+[1]<stderr>:  File "mfix_train_network_tfDMP.py", line 203, in <module>
+[1]<stderr>:    sys.exit(main())
+[1]<stderr>:  File "mfix_train_network_tfDMP.py", line 178, in main
+[1]<stderr>:    current_loss = train(model, batch_tf, first_batch)
+[1]<stderr>:  File "/nfs/apps/Compilers/Python/Anaconda/3.8/lib/python3.8/site-packages/tensorflow/python/eager/def_function.py", line 780, in __call__
+[1]<stderr>:    result = self._call(*args, **kwds)
+[1]<stderr>:  File "/nfs/apps/Compilers/Python/Anaconda/3.8/lib/python3.8/site-packages/tensorflow/python/eager/def_function.py", line 807, in _call
+[1]<stderr>:    return self._stateless_fn(*args, **kwds)  # pylint: disable=not-callable
+[1]<stderr>:  File "/nfs/apps/Compilers/Python/Anaconda/3.8/lib/python3.8/site-packages/tensorflow/python/eager/function.py", line 2829, in __call__
+[1]<stderr>:    return graph_function._filtered_call(args, kwargs)  # pylint: disable=protected-access
+[1]<stderr>:  File "/nfs/apps/Compilers/Python/Anaconda/3.8/lib/python3.8/site-packages/tensorflow/python/eager/function.py", line 1843, in _filtered_call
+[1]<stderr>:    return self._call_flat(
+[1]<stderr>:  File "/nfs/apps/Compilers/Python/Anaconda/3.8/lib/python3.8/site-packages/tensorflow/python/eager/function.py", line 1923, in _call_flat
+[1]<stderr>:    return self._build_call_outputs(self._inference_function.call(
+[1]<stderr>:  File "/nfs/apps/Compilers/Python/Anaconda/3.8/lib/python3.8/site-packages/tensorflow/python/eager/function.py", line 545, in call
+[1]<stderr>:    outputs = execute.execute(
+[1]<stderr>:  File "/nfs/apps/Compilers/Python/Anaconda/3.8/lib/python3.8/site-packages/tensorflow/python/eager/execute.py", line 59, in quick_execute
+[1]<stderr>:    tensors = pywrap_tfe.TFE_Py_Execute(ctx._handle, device_name, op_name,
+[1]<stderr>:tensorflow.python.framework.errors_impl.InvalidArgumentError: 2 root error(s) found.
+[1]<stderr>:  (0) Invalid argument:  Incompatible shapes: [0] vs. [4288]
+[1]<stderr>:	 [[node gradient_tape/pow_37/mul (defined at /nfs/home/6/lul/.local/lib/python3.8/site-packages/horovod/tensorflow/__init__.py:687) ]]
+[1]<stderr>:	 [[DistributedGradientTape_Allreduce/cond_9/AddN_202/_77/_834]]
+[1]<stderr>:  (1) Invalid argument:  Incompatible shapes: [0] vs. [4288]
+[1]<stderr>:	 [[node gradient_tape/pow_37/mul (defined at /nfs/home/6/lul/.local/lib/python3.8/site-packages/horovod/tensorflow/__init__.py:687) ]]
+[1]<stderr>:0 successful operations.
+[1]<stderr>:0 derived errors ignored. [Op:__inference_train_101194]
+[1]<stderr>:
+[1]<stderr>:Errors may have originated from an input operation.
+[1]<stderr>:Input Source operations connected to node gradient_tape/pow_37/mul:
+[1]<stderr>: pow_37/y (defined at mfix_train_network_tfDMP.py:107)
+[1]<stderr>:
+[1]<stderr>:Input Source operations connected to node gradient_tape/pow_37/mul:
+[1]<stderr>: pow_37/y (defined at mfix_train_network_tfDMP.py:107)
+[1]<stderr>:
+[1]<stderr>:Function call stack:
+[1]<stderr>:train -> train
+[1]<stderr>:
+[0]<stderr>:[2021-01-01 15:32:03.234180: E /tmp/pip-install-o_fozvls/horovod_5b429c05da934fe8b0640ed77c14eb02/horovod/common/operations.cc:546] Horovod background loop uncaught exception: [/tmp/pip-install-o_fozvls/horovod_5b429c05da934fe8b0640ed77c14eb02/third_party/compatible_gloo/gloo/transport/tcp/pair.cc:575] Connection closed by peer [127.0.0.1]:21152
+[1]<stdout>:MultiProcessRunnerZMQ successfully cleaned-up.
+[1]<stdout>:MultiProcessRunnerZMQ successfully cleaned-up.
+[0]<stderr>:2021-01-01 15:32:03.829778: W tensorflow/core/framework/op_kernel.cc:1767] OP_REQUIRES failed at mpi_ops.cc:412 : Unknown: Horovod has been shut down. This was caused by an exception on one of the ranks or an attempt to allreduce, allgather or broadcast a tensor after one of the ranks finished execution. If the shutdown was caused by an exception, you should see the exception in the log before the first shutdown message.
+[0]<stderr>:2021-01-01 15:32:03.833673: W tensorflow/core/framework/op_kernel.cc:1767] OP_REQUIRES failed at mpi_ops.cc:412 : Unknown: Horovod has been shut down. This was caused by an exception on one of the ranks or an attempt to allreduce, allgather or broadcast a tensor after one of the ranks finished execution. If the shutdown was caused by an exception, you should see the exception in the log before the first shutdown message.
+[0]<stderr>:2021-01-01 15:32:03.835067: W tensorflow/core/framework/op_kernel.cc:1767] OP_REQUIRES failed at mpi_ops.cc:412 : Unknown: Horovod has been shut down. This was caused by an exception on one of the ranks or an attempt to allreduce, allgather or broadcast a tensor after one of the ranks finished execution. If the shutdown was caused by an exception, you should see the exception in the log before the first shutdown message.
+[0]<stderr>:2021-01-01 15:32:03.835668: W tensorflow/core/framework/op_kernel.cc:1767] OP_REQUIRES failed at mpi_ops.cc:412 : Unknown: Horovod has been shut down. This was caused by an exception on one of the ranks or an attempt to allreduce, allgather or broadcast a tensor after one of the ranks finished execution. If the shutdown was caused by an exception, you should see the exception in the log before the first shutdown message.
+[0]<stderr>:2021-01-01 15:32:03.851872: W tensorflow/core/framework/op_kernel.cc:1767] OP_REQUIRES failed at mpi_ops.cc:412 : Unknown: Horovod has been shut down. This was caused by an exception on one of the ranks or an attempt to allreduce, allgather or broadcast a tensor after one of the ranks finished execution. If the shutdown was caused by an exception, you should see the exception in the log before the first shutdown message.
+[0]<stderr>:2021-01-01 15:32:03.851903: W tensorflow/core/framework/op_kernel.cc:1767] OP_REQUIRES failed at mpi_ops.cc:412 : Unknown: Horovod has been shut down. This was caused by an exception on one of the ranks or an attempt to allreduce, allgather or broadcast a tensor after one of the ranks finished execution. If the shutdown was caused by an exception, you should see the exception in the log before the first shutdown message.
+[0]<stderr>:2021-01-01 15:32:03.852277: W tensorflow/core/framework/op_kernel.cc:1767] OP_REQUIRES failed at mpi_ops.cc:412 : Unknown: Horovod has been shut down. This was caused by an exception on one of the ranks or an attempt to allreduce, allgather or broadcast a tensor after one of the ranks finished execution. If the shutdown was caused by an exception, you should see the exception in the log before the first shutdown message.
+[0]<stderr>:2021-01-01 15:32:03.853524: W tensorflow/core/framework/op_kernel.cc:1767] OP_REQUIRES failed at mpi_ops.cc:412 : Unknown: Horovod has been shut down. This was caused by an exception on one of the ranks or an attempt to allreduce, allgather or broadcast a tensor after one of the ranks finished execution. If the shutdown was caused by an exception, you should see the exception in the log before the first shutdown message.
+[0]<stderr>:2021-01-01 15:32:03.860322: W tensorflow/core/framework/op_kernel.cc:1767] OP_REQUIRES failed at mpi_ops.cc:412 : Unknown: Horovod has been shut down. This was caused by an exception on one of the ranks or an attempt to allreduce, allgather or broadcast a tensor after one of the ranks finished execution. If the shutdown was caused by an exception, you should see the exception in the log before the first shutdown message.
+[0]<stderr>:2021-01-01 15:32:03.860342: W tensorflow/core/framework/op_kernel.cc:1767] OP_REQUIRES failed at mpi_ops.cc:412 : Unknown: Horovod has been shut down. This was caused by an exception on one of the ranks or an attempt to allreduce, allgather or broadcast a tensor after one of the ranks finished execution. If the shutdown was caused by an exception, you should see the exception in the log before the first shutdown message.
+[0]<stderr>:2021-01-01 15:32:03.860351: W tensorflow/core/framework/op_kernel.cc:1767] OP_REQUIRES failed at mpi_ops.cc:412 : Unknown: Horovod has been shut down. This was caused by an exception on one of the ranks or an attempt to allreduce, allgather or broadcast a tensor after one of the ranks finished execution. If the shutdown was caused by an exception, you should see the exception in the log before the first shutdown message.
+[0]<stderr>:2021-01-01 15:32:03.860357: W tensorflow/core/framework/op_kernel.cc:1767] OP_REQUIRES failed at mpi_ops.cc:412 : Unknown: Horovod has been shut down. This was caused by an exception on one of the ranks or an attempt to allreduce, allgather or broadcast a tensor after one of the ranks finished execution. If the shutdown was caused by an exception, you should see the exception in the log before the first shutdown message.
+[0]<stderr>:2021-01-01 15:32:03.860918: W tensorflow/core/framework/op_kernel.cc:1767] OP_REQUIRES failed at mpi_ops.cc:412 : Unknown: Horovod has been shut down. This was caused by an exception on one of the ranks or an attempt to allreduce, allgather or broadcast a tensor after one of the ranks finished execution. If the shutdown was caused by an exception, you should see the exception in the log before the first shutdown message.
+[0]<stderr>:2021-01-01 15:32:03.860930: W tensorflow/core/framework/op_kernel.cc:1767] OP_REQUIRES failed at mpi_ops.cc:412 : Unknown: Horovod has been shut down. This was caused by an exception on one of the ranks or an attempt to allreduce, allgather or broadcast a tensor after one of the ranks finished execution. If the shutdown was caused by an exception, you should see the exception in the log before the first shutdown message.
+[0]<stderr>:2021-01-01 15:32:03.860933: W tensorflow/core/framework/op_kernel.cc:1767] OP_REQUIRES failed at mpi_ops.cc:412 : Unknown: Horovod has been shut down. This was caused by an exception on one of the ranks or an attempt to allreduce, allgather or broadcast a tensor after one of the ranks finished execution. If the shutdown was caused by an exception, you should see the exception in the log before the first shutdown message.
+[0]<stderr>:2021-01-01 15:32:03.860944: W tensorflow/core/framework/op_kernel.cc:1767] OP_REQUIRES failed at mpi_ops.cc:412 : Unknown: Horovod has been shut down. This was caused by an exception on one of the ranks or an attempt to allreduce, allgather or broadcast a tensor after one of the ranks finished execution. If the shutdown was caused by an exception, you should see the exception in the log before the first shutdown message.
+[0]<stderr>:2021-01-01 15:32:03.860947: W tensorflow/core/framework/op_kernel.cc:1767] OP_REQUIRES failed at mpi_ops.cc:412 : Unknown: Horovod has been shut down. This was caused by an exception on one of the ranks or an attempt to allreduce, allgather or broadcast a tensor after one of the ranks finished execution. If the shutdown was caused by an exception, you should see the exception in the log before the first shutdown message.
+[0]<stderr>:2021-01-01 15:32:03.860998: W tensorflow/core/framework/op_kernel.cc:1767] OP_REQUIRES failed at mpi_ops.cc:412 : Unknown: Horovod has been shut down. This was caused by an exception on one of the ranks or an attempt to allreduce, allgather or broadcast a tensor after one of the ranks finished execution. If the shutdown was caused by an exception, you should see the exception in the log before the first shutdown message.
+[0]<stderr>:Traceback (most recent call last):
+[0]<stderr>:  File "mfix_train_network_tfDMP.py", line 203, in <module>
+[0]<stderr>:    sys.exit(main())
+[0]<stderr>:  File "mfix_train_network_tfDMP.py", line 178, in main
+[0]<stderr>:    current_loss = train(model, batch_tf, first_batch)
+[0]<stderr>:  File "/nfs/apps/Compilers/Python/Anaconda/3.8/lib/python3.8/site-packages/tensorflow/python/eager/def_function.py", line 780, in __call__
+[0]<stderr>:    result = self._call(*args, **kwds)
+[0]<stderr>:  File "/nfs/apps/Compilers/Python/Anaconda/3.8/lib/python3.8/site-packages/tensorflow/python/eager/def_function.py", line 807, in _call
+[0]<stderr>:    return self._stateless_fn(*args, **kwds)  # pylint: disable=not-callable
+[0]<stderr>:  File "/nfs/apps/Compilers/Python/Anaconda/3.8/lib/python3.8/site-packages/tensorflow/python/eager/function.py", line 2829, in __call__
+[0]<stderr>:    return graph_function._filtered_call(args, kwargs)  # pylint: disable=protected-access
+[0]<stderr>:  File "/nfs/apps/Compilers/Python/Anaconda/3.8/lib/python3.8/site-packages/tensorflow/python/eager/function.py", line 1843, in _filtered_call
+[0]<stderr>:    return self._call_flat(
+[0]<stderr>:  File "/nfs/apps/Compilers/Python/Anaconda/3.8/lib/python3.8/site-packages/tensorflow/python/eager/function.py", line 1923, in _call_flat
+[0]<stderr>:    return self._build_call_outputs(self._inference_function.call(
+[0]<stderr>:  File "/nfs/apps/Compilers/Python/Anaconda/3.8/lib/python3.8/site-packages/tensorflow/python/eager/function.py", line 545, in call
+[0]<stderr>:    outputs = execute.execute(
+[0]<stderr>:  File "/nfs/apps/Compilers/Python/Anaconda/3.8/lib/python3.8/site-packages/tensorflow/python/eager/execute.py", line 59, in quick_execute
+[0]<stderr>:    tensors = pywrap_tfe.TFE_Py_Execute(ctx._handle, device_name, op_name,
+[0]<stderr>:tensorflow.python.framework.errors_impl.UnknownError: 2 root error(s) found.
+[0]<stderr>:  (0) Unknown:  Horovod has been shut down. This was caused by an exception on one of the ranks or an attempt to allreduce, allgather or broadcast a tensor after one of the ranks finished execution. If the shutdown was caused by an exception, you should see the exception in the log before the first shutdown message.
+[0]<stderr>:	 [[{{node DistributedGradientTape_Allreduce/cond_16/then/_128/DistributedGradientTape_Allreduce/cond_16/HorovodAllreduce_AddN_209_0}}]]
+[0]<stderr>:	 [[DistributedGradientTape_Allreduce/cond_17/then/_136/DistributedGradientTape_Allreduce/cond_17/HorovodAllreduce_AddN_210_0/_882]]
+[0]<stderr>:  (1) Unknown:  Horovod has been shut down. This was caused by an exception on one of the ranks or an attempt to allreduce, allgather or broadcast a tensor after one of the ranks finished execution. If the shutdown was caused by an exception, you should see the exception in the log before the first shutdown message.
+[0]<stderr>:	 [[{{node DistributedGradientTape_Allreduce/cond_16/then/_128/DistributedGradientTape_Allreduce/cond_16/HorovodAllreduce_AddN_209_0}}]]
+[0]<stderr>:0 successful operations.
+[0]<stderr>:0 derived errors ignored. [Op:__inference_train_101194]
+[0]<stderr>:
+[0]<stderr>:Function call stack:
+[0]<stderr>:train -> train
+[0]<stderr>:
+[0]<stdout>:MultiProcessRunnerZMQ successfully cleaned-up.
+[0]<stdout>:MultiProcessRunnerZMQ successfully cleaned-up.
+Process 1 exit with status code 1.
+Process 0 exit with status code 1.
+Traceback (most recent call last):
+  File "/nfs/home/6/lul/.local/bin/horovodrun", line 8, in <module>
+    sys.exit(run_commandline())
+  File "/nfs/home/6/lul/.local/lib/python3.8/site-packages/horovod/runner/launch.py", line 768, in run_commandline
+    _run(args)
+  File "/nfs/home/6/lul/.local/lib/python3.8/site-packages/horovod/runner/launch.py", line 758, in _run
+    return _run_static(args)
+  File "/nfs/home/6/lul/.local/lib/python3.8/site-packages/horovod/runner/launch.py", line 615, in _run_static
+    _launch_job(args, settings, nics, command)
+  File "/nfs/home/6/lul/.local/lib/python3.8/site-packages/horovod/runner/launch.py", line 728, in _launch_job
+    run_controller(args.use_gloo, gloo_run_fn,
+  File "/nfs/home/6/lul/.local/lib/python3.8/site-packages/horovod/runner/launch.py", line 704, in run_controller
+    gloo_run()
+  File "/nfs/home/6/lul/.local/lib/python3.8/site-packages/horovod/runner/launch.py", line 720, in gloo_run_fn
+    gloo_run(settings, nics, env, driver_ip, command)
+  File "/nfs/home/6/lul/.local/lib/python3.8/site-packages/horovod/runner/gloo_run.py", line 284, in gloo_run
+    launch_gloo(command, exec_command, settings, nics, env, server_ip)
+  File "/nfs/home/6/lul/.local/lib/python3.8/site-packages/horovod/runner/gloo_run.py", line 268, in launch_gloo
+    raise RuntimeError('Horovod detected that one or more processes exited with non-zero '
+RuntimeError: Horovod detected that one or more processes exited with non-zero status, thus causing the job to be terminated. The first process to do so was:
+Process name: 1
+Exit code: 1
+

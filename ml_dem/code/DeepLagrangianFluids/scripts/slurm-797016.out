@@ -1,0 +1,735 @@
+2021-02-16 09:54:36.154896: I tensorflow/stream_executor/platform/default/dso_loader.cc:48] Successfully opened dynamic library libcudart.so.10.1
+2021-02-16 09:54:39.151586: I tensorflow/stream_executor/platform/default/dso_loader.cc:48] Successfully opened dynamic library libcuda.so.1
+2021-02-16 09:54:39.401960: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1716] Found device 0 with properties: 
+pciBusID: 0000:5c:00.0 name: Tesla P100-PCIE-16GB computeCapability: 6.0
+coreClock: 1.3285GHz coreCount: 56 deviceMemorySize: 15.90GiB deviceMemoryBandwidth: 681.88GiB/s
+2021-02-16 09:54:39.402797: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1716] Found device 1 with properties: 
+pciBusID: 0000:d8:00.0 name: Tesla P100-PCIE-16GB computeCapability: 6.0
+coreClock: 1.3285GHz coreCount: 56 deviceMemorySize: 15.90GiB deviceMemoryBandwidth: 681.88GiB/s
+2021-02-16 09:54:39.402823: I tensorflow/stream_executor/platform/default/dso_loader.cc:48] Successfully opened dynamic library libcudart.so.10.1
+2021-02-16 09:54:39.453524: I tensorflow/stream_executor/platform/default/dso_loader.cc:48] Successfully opened dynamic library libcublas.so.10
+2021-02-16 09:54:39.496578: I tensorflow/stream_executor/platform/default/dso_loader.cc:48] Successfully opened dynamic library libcufft.so.10
+2021-02-16 09:54:39.553544: I tensorflow/stream_executor/platform/default/dso_loader.cc:48] Successfully opened dynamic library libcurand.so.10
+2021-02-16 09:54:39.588354: I tensorflow/stream_executor/platform/default/dso_loader.cc:48] Successfully opened dynamic library libcusolver.so.10
+2021-02-16 09:54:39.617631: I tensorflow/stream_executor/platform/default/dso_loader.cc:48] Successfully opened dynamic library libcusparse.so.10
+2021-02-16 09:54:39.683491: I tensorflow/stream_executor/platform/default/dso_loader.cc:48] Successfully opened dynamic library libcudnn.so.7
+2021-02-16 09:54:39.686782: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1858] Adding visible gpu devices: 0, 1
+pid=0, total processes=1
+['/lustre/scratch/lul/tfdata/50hzhopper5cm_dataf200/valid/sim_000010_00.msgpack.zst'] 
+['/lustre/scratch/lul/tfdata/50hzhopper5cm_dataf200/train/sim_000000_00.msgpack.zst', '/lustre/scratch/lul/tfdata/50hzhopper5cm_dataf200/train/sim_000001_00.msgpack.zst', '/lustre/scratch/lul/tfdata/50hzhopper5cm_dataf200/train/sim_000002_00.msgpack.zst', '/lustre/scratch/lul/tfdata/50hzhopper5cm_dataf200/train/sim_000003_00.msgpack.zst', '/lustre/scratch/lul/tfdata/50hzhopper5cm_dataf200/train/sim_000004_00.msgpack.zst', '/lustre/scratch/lul/tfdata/50hzhopper5cm_dataf200/train/sim_000005_00.msgpack.zst', '/lustre/scratch/lul/tfdata/50hzhopper5cm_dataf200/train/sim_000006_00.msgpack.zst', '/lustre/scratch/lul/tfdata/50hzhopper5cm_dataf200/train/sim_000007_00.msgpack.zst', '/lustre/scratch/lul/tfdata/50hzhopper5cm_dataf200/train/sim_000008_00.msgpack.zst', '/lustre/scratch/lul/tfdata/50hzhopper5cm_dataf200/train/sim_000009_00.msgpack.zst'] 
+[32m[0216 09:54:39 @parallel.py:340][0m [MultiProcessRunnerZMQ] Will fork a dataflow more than one times. This assumes the datapoints are i.i.d.
+2021-02-16 09:54:40.352310: I tensorflow/stream_executor/platform/default/dso_loader.cc:48] Successfully opened dynamic library libcudart.so.10.1
+2021-02-16 09:54:40.352333: I tensorflow/stream_executor/platform/default/dso_loader.cc:48] Successfully opened dynamic library libcudart.so.10.1
+2021-02-16 09:54:41.871992: I tensorflow/stream_executor/platform/default/dso_loader.cc:48] Successfully opened dynamic library libcuda.so.1
+2021-02-16 09:54:41.872208: I tensorflow/stream_executor/platform/default/dso_loader.cc:48] Successfully opened dynamic library libcuda.so.1
+2021-02-16 09:54:41.881292: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1716] Found device 0 with properties: 
+pciBusID: 0000:5c:00.0 name: Tesla P100-PCIE-16GB computeCapability: 6.0
+coreClock: 1.3285GHz coreCount: 56 deviceMemorySize: 15.90GiB deviceMemoryBandwidth: 681.88GiB/s
+2021-02-16 09:54:41.882615: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1716] Found device 0 with properties: 
+pciBusID: 0000:5c:00.0 name: Tesla P100-PCIE-16GB computeCapability: 6.0
+coreClock: 1.3285GHz coreCount: 56 deviceMemorySize: 15.90GiB deviceMemoryBandwidth: 681.88GiB/s
+2021-02-16 09:54:41.882667: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1716] Found device 1 with properties: 
+pciBusID: 0000:d8:00.0 name: Tesla P100-PCIE-16GB computeCapability: 6.0
+coreClock: 1.3285GHz coreCount: 56 deviceMemorySize: 15.90GiB deviceMemoryBandwidth: 681.88GiB/s
+2021-02-16 09:54:41.882686: I tensorflow/stream_executor/platform/default/dso_loader.cc:48] Successfully opened dynamic library libcudart.so.10.1
+2021-02-16 09:54:41.883416: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1716] Found device 1 with properties: 
+pciBusID: 0000:d8:00.0 name: Tesla P100-PCIE-16GB computeCapability: 6.0
+coreClock: 1.3285GHz coreCount: 56 deviceMemorySize: 15.90GiB deviceMemoryBandwidth: 681.88GiB/s
+2021-02-16 09:54:41.883435: I tensorflow/stream_executor/platform/default/dso_loader.cc:48] Successfully opened dynamic library libcudart.so.10.1
+2021-02-16 09:54:41.884332: I tensorflow/stream_executor/platform/default/dso_loader.cc:48] Successfully opened dynamic library libcublas.so.10
+2021-02-16 09:54:41.884994: I tensorflow/stream_executor/platform/default/dso_loader.cc:48] Successfully opened dynamic library libcublas.so.10
+2021-02-16 09:54:41.886224: I tensorflow/stream_executor/platform/default/dso_loader.cc:48] Successfully opened dynamic library libcufft.so.10
+2021-02-16 09:54:41.886474: I tensorflow/stream_executor/platform/default/dso_loader.cc:48] Successfully opened dynamic library libcufft.so.10
+2021-02-16 09:54:41.886843: I tensorflow/stream_executor/platform/default/dso_loader.cc:48] Successfully opened dynamic library libcurand.so.10
+2021-02-16 09:54:41.886887: I tensorflow/stream_executor/platform/default/dso_loader.cc:48] Successfully opened dynamic library libcurand.so.10
+2021-02-16 09:54:41.888623: I tensorflow/stream_executor/platform/default/dso_loader.cc:48] Successfully opened dynamic library libcusolver.so.10
+2021-02-16 09:54:41.888624: I tensorflow/stream_executor/platform/default/dso_loader.cc:48] Successfully opened dynamic library libcusolver.so.10
+2021-02-16 09:54:41.889623: I tensorflow/stream_executor/platform/default/dso_loader.cc:48] Successfully opened dynamic library libcusparse.so.10
+2021-02-16 09:54:41.889627: I tensorflow/stream_executor/platform/default/dso_loader.cc:48] Successfully opened dynamic library libcusparse.so.10
+2021-02-16 09:54:41.893414: I tensorflow/stream_executor/platform/default/dso_loader.cc:48] Successfully opened dynamic library libcudnn.so.7
+2021-02-16 09:54:41.893415: I tensorflow/stream_executor/platform/default/dso_loader.cc:48] Successfully opened dynamic library libcudnn.so.7
+2021-02-16 09:54:41.899524: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1858] Adding visible gpu devices: 0, 1
+2021-02-16 09:54:41.899571: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1858] Adding visible gpu devices: 0, 1
+2021-02-16 09:54:42.502658: I tensorflow/stream_executor/platform/default/dso_loader.cc:48] Successfully opened dynamic library libcudart.so.10.1
+2021-02-16 09:54:43.202622: I tensorflow/core/platform/cpu_feature_guard.cc:142] This TensorFlow binary is optimized with oneAPI Deep Neural Network Library (oneDNN)to use the following CPU instructions in performance-critical operations:  AVX2 AVX512F FMA
+To enable them in other operations, rebuild TensorFlow with the appropriate compiler flags.
+2021-02-16 09:54:43.210489: I tensorflow/core/platform/profile_utils/cpu_utils.cc:104] CPU Frequency: 2400000000 Hz
+2021-02-16 09:54:43.211808: I tensorflow/compiler/xla/service/service.cc:168] XLA service 0x559db7c66710 initialized for platform Host (this does not guarantee that XLA will be used). Devices:
+2021-02-16 09:54:43.211826: I tensorflow/compiler/xla/service/service.cc:176]   StreamExecutor device (0): Host, Default Version
+2021-02-16 09:54:43.214472: I tensorflow/compiler/xla/service/service.cc:168] XLA service 0x559db7cd3000 initialized for platform CUDA (this does not guarantee that XLA will be used). Devices:
+2021-02-16 09:54:43.214489: I tensorflow/compiler/xla/service/service.cc:176]   StreamExecutor device (0): Tesla P100-PCIE-16GB, Compute Capability 6.0
+2021-02-16 09:54:43.215420: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1716] Found device 0 with properties: 
+pciBusID: 0000:5c:00.0 name: Tesla P100-PCIE-16GB computeCapability: 6.0
+coreClock: 1.3285GHz coreCount: 56 deviceMemorySize: 15.90GiB deviceMemoryBandwidth: 681.88GiB/s
+2021-02-16 09:54:43.215448: I tensorflow/stream_executor/platform/default/dso_loader.cc:48] Successfully opened dynamic library libcudart.so.10.1
+2021-02-16 09:54:43.215467: I tensorflow/stream_executor/platform/default/dso_loader.cc:48] Successfully opened dynamic library libcublas.so.10
+2021-02-16 09:54:43.215477: I tensorflow/stream_executor/platform/default/dso_loader.cc:48] Successfully opened dynamic library libcufft.so.10
+2021-02-16 09:54:43.215488: I tensorflow/stream_executor/platform/default/dso_loader.cc:48] Successfully opened dynamic library libcurand.so.10
+2021-02-16 09:54:43.215496: I tensorflow/stream_executor/platform/default/dso_loader.cc:48] Successfully opened dynamic library libcusolver.so.10
+2021-02-16 09:54:43.215505: I tensorflow/stream_executor/platform/default/dso_loader.cc:48] Successfully opened dynamic library libcusparse.so.10
+2021-02-16 09:54:43.215516: I tensorflow/stream_executor/platform/default/dso_loader.cc:48] Successfully opened dynamic library libcudnn.so.7
+2021-02-16 09:54:43.217021: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1858] Adding visible gpu devices: 0
+2021-02-16 09:54:43.911520: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1257] Device interconnect StreamExecutor with strength 1 edge matrix:
+2021-02-16 09:54:43.911555: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1263]      0 
+2021-02-16 09:54:43.911561: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1276] 0:   N 
+2021-02-16 09:54:43.913274: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1402] Created TensorFlow device (/job:localhost/replica:0/task:0/device:GPU:0 with 14914 MB memory) -> physical GPU (device: 0, name: Tesla P100-PCIE-16GB, pci bus id: 0000:5c:00.0, compute capability: 6.0)
+2021-02-16 09:57:23.001578: I tensorflow/stream_executor/platform/default/dso_loader.cc:48] Successfully opened dynamic library libcublas.so.10
+WARNING:tensorflow:5 out of the last 5 calls to <function main.<locals>.train at 0x2ba403e8c790> triggered tf.function retracing. Tracing is expensive and the excessive number of tracings could be due to (1) creating @tf.function repeatedly in a loop, (2) passing tensors with different shapes, (3) passing Python objects instead of tensors. For (1), please define your @tf.function outside of the loop. For (2), @tf.function has experimental_relax_shapes=True option that relaxes argument shapes that can avoid unnecessary retracing. For (3), please refer to https://www.tensorflow.org/tutorials/customization/performance#python_or_tensor_args and https://www.tensorflow.org/api_docs/python/tf/function for  more details.
+WARNING - 2021-02-16 10:06:16,715 - def_function - 5 out of the last 5 calls to <function main.<locals>.train at 0x2ba403e8c790> triggered tf.function retracing. Tracing is expensive and the excessive number of tracings could be due to (1) creating @tf.function repeatedly in a loop, (2) passing tensors with different shapes, (3) passing Python objects instead of tensors. For (1), please define your @tf.function outside of the loop. For (2), @tf.function has experimental_relax_shapes=True option that relaxes argument shapes that can avoid unnecessary retracing. For (3), please refer to https://www.tensorflow.org/tutorials/customization/performance#python_or_tensor_args and https://www.tensorflow.org/api_docs/python/tf/function for  more details.
+WARNING:tensorflow:6 out of the last 6 calls to <function main.<locals>.train at 0x2ba403e8c790> triggered tf.function retracing. Tracing is expensive and the excessive number of tracings could be due to (1) creating @tf.function repeatedly in a loop, (2) passing tensors with different shapes, (3) passing Python objects instead of tensors. For (1), please define your @tf.function outside of the loop. For (2), @tf.function has experimental_relax_shapes=True option that relaxes argument shapes that can avoid unnecessary retracing. For (3), please refer to https://www.tensorflow.org/tutorials/customization/performance#python_or_tensor_args and https://www.tensorflow.org/api_docs/python/tf/function for  more details.
+WARNING - 2021-02-16 10:08:49,726 - def_function - 6 out of the last 6 calls to <function main.<locals>.train at 0x2ba403e8c790> triggered tf.function retracing. Tracing is expensive and the excessive number of tracings could be due to (1) creating @tf.function repeatedly in a loop, (2) passing tensors with different shapes, (3) passing Python objects instead of tensors. For (1), please define your @tf.function outside of the loop. For (2), @tf.function has experimental_relax_shapes=True option that relaxes argument shapes that can avoid unnecessary retracing. For (3), please refer to https://www.tensorflow.org/tutorials/customization/performance#python_or_tensor_args and https://www.tensorflow.org/api_docs/python/tf/function for  more details.
+Create model with particle radius of: 0.025000 filterExtent of 9.000000 dp timestep=0.020000
+restoring from  /lustre/scratch/lul/tfdata/50hzhopper5cm_dataf200/baseloss5050f200b128/checkpoints/ckpt-4
+# 2021-02-16 10:08:49       10 n/a ips     8 days, 3:25:12 rem | loss 0.29426881670951843
+WARNING:tensorflow:7 out of the last 7 calls to <function main.<locals>.train at 0x2ba403e8c790> triggered tf.function retracing. Tracing is expensive and the excessive number of tracings could be due to (1) creating @tf.function repeatedly in a loop, (2) passing tensors with different shapes, (3) passing Python objects instead of tensors. For (1), please define your @tf.function outside of the loop. For (2), @tf.function has experimental_relax_shapes=True option that relaxes argument shapes that can avoid unnecessary retracing. For (3), please refer to https://www.tensorflow.org/tutorials/customization/performance#python_or_tensor_args and https://www.tensorflow.org/api_docs/python/tf/function for  more details.
+WARNING - 2021-02-16 10:11:24,550 - def_function - 7 out of the last 7 calls to <function main.<locals>.train at 0x2ba403e8c790> triggered tf.function retracing. Tracing is expensive and the excessive number of tracings could be due to (1) creating @tf.function repeatedly in a loop, (2) passing tensors with different shapes, (3) passing Python objects instead of tensors. For (1), please define your @tf.function outside of the loop. For (2), @tf.function has experimental_relax_shapes=True option that relaxes argument shapes that can avoid unnecessary retracing. For (3), please refer to https://www.tensorflow.org/tutorials/customization/performance#python_or_tensor_args and https://www.tensorflow.org/api_docs/python/tf/function for  more details.
+saving /lustre/scratch/lul/tfdata/50hzhopper5cm_dataf200/baseloss5050f200b128/checkpoints/ckpt-11
+WARNING:tensorflow:8 out of the last 8 calls to <function main.<locals>.train at 0x2ba403e8c790> triggered tf.function retracing. Tracing is expensive and the excessive number of tracings could be due to (1) creating @tf.function repeatedly in a loop, (2) passing tensors with different shapes, (3) passing Python objects instead of tensors. For (1), please define your @tf.function outside of the loop. For (2), @tf.function has experimental_relax_shapes=True option that relaxes argument shapes that can avoid unnecessary retracing. For (3), please refer to https://www.tensorflow.org/tutorials/customization/performance#python_or_tensor_args and https://www.tensorflow.org/api_docs/python/tf/function for  more details.
+WARNING - 2021-02-16 10:13:57,729 - def_function - 8 out of the last 8 calls to <function main.<locals>.train at 0x2ba403e8c790> triggered tf.function retracing. Tracing is expensive and the excessive number of tracings could be due to (1) creating @tf.function repeatedly in a loop, (2) passing tensors with different shapes, (3) passing Python objects instead of tensors. For (1), please define your @tf.function outside of the loop. For (2), @tf.function has experimental_relax_shapes=True option that relaxes argument shapes that can avoid unnecessary retracing. For (3), please refer to https://www.tensorflow.org/tutorials/customization/performance#python_or_tensor_args and https://www.tensorflow.org/api_docs/python/tf/function for  more details.
+# 2021-02-16 10:14:58       20      0.03 ips     4 days, 9:02:19 rem | loss 0.3243051767349243
+# 2021-02-16 10:16:16       30      0.13 ips    2 days, 20:38:14 rem | loss 0.2922406792640686
+# 2021-02-16 10:17:31       40      0.13 ips     2 days, 4:21:13 rem | loss 0.2777206599712372
+# 2021-02-16 10:18:56       50      0.12 ips     1 day, 19:24:20 rem | loss 0.20991337299346924
+# 2021-02-16 10:20:12       60      0.13 ips     1 day, 13:26:56 rem | loss 0.3052573800086975
+# 2021-02-16 10:21:27       70      0.13 ips      1 day, 9:16:07 rem | loss 0.30396977066993713
+# 2021-02-16 10:22:37       80      0.14 ips      1 day, 6:05:50 rem | loss 0.2670906186103821
+# 2021-02-16 10:24:02       90      0.12 ips      1 day, 3:53:08 rem | loss 0.23481294512748718
+saving /lustre/scratch/lul/tfdata/50hzhopper5cm_dataf200/baseloss5050f200b128/checkpoints/ckpt-100
+# 2021-02-16 10:25:23      100      0.12 ips      1 day, 2:05:05 rem | loss 0.24061250686645508
+evaluating.. sim_000010 {'err_n1': 0.002157973652356304, 'err_n2': 0.005645840222132392}
+done
+# 2021-02-16 10:26:41      110      0.13 ips      1 day, 0:34:08 rem | loss 0.23949195444583893
+# 2021-02-16 10:28:00      120      0.13 ips            23:19:49 rem | loss 0.22739434242248535
+# 2021-02-16 10:29:17      130      0.13 ips            22:15:35 rem | loss 0.24211139976978302
+# 2021-02-16 10:30:40      140      0.12 ips            21:24:29 rem | loss 0.23287197947502136
+# 2021-02-16 10:31:47      150      0.15 ips            20:31:16 rem | loss 0.15150199830532074
+# 2021-02-16 10:33:02      160      0.13 ips            19:48:22 rem | loss 0.20544594526290894
+# 2021-02-16 10:34:16      170      0.13 ips            19:10:30 rem | loss 0.21877484023571014
+# 2021-02-16 10:35:33      180      0.13 ips            18:38:04 rem | loss 0.24257279932498932
+# 2021-02-16 10:36:45      190      0.14 ips            18:06:56 rem | loss 0.22366321086883545
+saving /lustre/scratch/lul/tfdata/50hzhopper5cm_dataf200/baseloss5050f200b128/checkpoints/ckpt-200
+# 2021-02-16 10:37:53      200      0.15 ips            17:37:08 rem | loss 0.19987232983112335
+evaluating.. sim_000010 {'err_n1': 0.0019169871717167552, 'err_n2': 0.004728047593380325}
+done
+# 2021-02-16 10:39:18      210      0.12 ips            17:16:37 rem | loss 0.18222570419311523
+# 2021-02-16 10:40:42      220      0.12 ips            16:57:19 rem | loss 0.17836104333400726
+# 2021-02-16 10:42:11      230      0.11 ips            16:41:31 rem | loss 0.19555363059043884
+# 2021-02-16 10:43:26      240      0.13 ips            16:22:20 rem | loss 0.22315268218517303
+# 2021-02-16 10:44:39      250      0.14 ips            16:03:58 rem | loss 0.18074777722358704
+# 2021-02-16 10:46:04      260      0.12 ips            15:50:41 rem | loss 0.1842954009771347
+# 2021-02-16 10:47:07      270      0.16 ips            15:31:35 rem | loss 0.18436142802238464
+# 2021-02-16 10:48:20      280      0.14 ips            15:16:40 rem | loss 0.16148804128170013
+# 2021-02-16 10:49:29      290      0.14 ips            15:01:51 rem | loss 0.19162046909332275
+saving /lustre/scratch/lul/tfdata/50hzhopper5cm_dataf200/baseloss5050f200b128/checkpoints/ckpt-300
+# 2021-02-16 10:50:49      300      0.12 ips            14:50:44 rem | loss 0.19857054948806763
+evaluating.. sim_000010 {'err_n1': 0.0018583052660687827, 'err_n2': 0.0044323416237602945}
+done
+# 2021-02-16 10:52:12      310      0.12 ips            14:40:48 rem | loss 0.19463743269443512
+# 2021-02-16 10:53:43      320      0.11 ips            14:33:41 rem | loss 0.20627696812152863
+# 2021-02-16 10:55:01      330      0.13 ips            14:23:42 rem | loss 0.1775159239768982
+# 2021-02-16 10:56:12      340      0.14 ips            14:12:42 rem | loss 0.16444021463394165
+# 2021-02-16 10:57:25      350      0.14 ips            14:02:27 rem | loss 0.1643930971622467
+# 2021-02-16 10:58:42      360      0.13 ips            13:53:46 rem | loss 0.22464607656002045
+# 2021-02-16 10:59:53      370      0.14 ips            13:44:19 rem | loss 0.17323307693004608
+# 2021-02-16 11:01:17      380      0.12 ips            13:37:53 rem | loss 0.1814526915550232
+# 2021-02-16 11:02:22      390      0.15 ips            13:27:54 rem | loss 0.16505572199821472
+saving /lustre/scratch/lul/tfdata/50hzhopper5cm_dataf200/baseloss5050f200b128/checkpoints/ckpt-400
+# 2021-02-16 11:03:43      400      0.12 ips            13:21:19 rem | loss 0.20000943541526794
+evaluating.. sim_000010 {'err_n1': 0.0018121837772923754, 'err_n2': 0.004246680751384702}
+done
+# 2021-02-16 11:05:16      410      0.11 ips            13:17:26 rem | loss 0.20474939048290253
+# 2021-02-16 11:06:50      420      0.11 ips            13:13:56 rem | loss 0.19018813967704773
+# 2021-02-16 11:07:54      430      0.16 ips            13:04:55 rem | loss 0.1904297024011612
+# 2021-02-16 11:08:53      440      0.17 ips            12:55:37 rem | loss 0.184369757771492
+# 2021-02-16 11:10:05      450      0.14 ips            12:48:47 rem | loss 0.1893199235200882
+# 2021-02-16 11:11:21      460      0.13 ips            12:42:52 rem | loss 0.1393096148967743
+# 2021-02-16 11:12:41      470      0.12 ips            12:37:52 rem | loss 0.1993779093027115
+# 2021-02-16 11:13:50      480      0.15 ips            12:31:11 rem | loss 0.16922399401664734
+# 2021-02-16 11:15:06      490      0.13 ips            12:25:49 rem | loss 0.1943504810333252
+saving /lustre/scratch/lul/tfdata/50hzhopper5cm_dataf200/baseloss5050f200b128/checkpoints/ckpt-500
+# 2021-02-16 11:16:28      500      0.12 ips            12:21:32 rem | loss 0.18356363475322723
+evaluating.. sim_000010 {'err_n1': 0.001792866623873124, 'err_n2': 0.004115926296799443}
+done
+# 2021-02-16 11:17:45      510      0.13 ips            12:16:44 rem | loss 0.1929604411125183
+# 2021-02-16 11:18:53      520      0.15 ips            12:10:40 rem | loss 0.20894873142242432
+# 2021-02-16 11:20:17      530      0.12 ips            12:07:04 rem | loss 0.1455901563167572
+# 2021-02-16 11:21:38      540      0.12 ips            12:03:12 rem | loss 0.19095903635025024
+# 2021-02-16 11:23:04      550      0.12 ips            12:00:01 rem | loss 0.15795107185840607
+# 2021-02-16 11:24:17      560      0.14 ips            11:55:11 rem | loss 0.12662221491336823
+# 2021-02-16 11:25:24      570      0.15 ips            11:49:44 rem | loss 0.18044351041316986
+# 2021-02-16 11:26:41      580      0.13 ips            11:45:35 rem | loss 0.1506337970495224
+# 2021-02-16 11:28:03      590      0.12 ips            11:42:19 rem | loss 0.1698315441608429
+saving /lustre/scratch/lul/tfdata/50hzhopper5cm_dataf200/baseloss5050f200b128/checkpoints/ckpt-600
+# 2021-02-16 11:29:28      600      0.12 ips            11:39:28 rem | loss 0.17092540860176086
+evaluating.. sim_000010 {'err_n1': 0.00178113490837859, 'err_n2': 0.004010872870276216}
+done
+# 2021-02-16 11:30:52      610      0.12 ips            11:36:27 rem | loss 0.1938309371471405
+# 2021-02-16 11:32:02      620      0.14 ips            11:31:51 rem | loss 0.16070537269115448
+# 2021-02-16 11:33:14      630      0.14 ips            11:27:41 rem | loss 0.1639789640903473
+# 2021-02-16 11:34:25      640      0.14 ips            11:23:25 rem | loss 0.16479553282260895
+# 2021-02-16 11:35:46      650      0.12 ips            11:20:23 rem | loss 0.1635863184928894
+# 2021-02-16 11:37:11      660      0.12 ips            11:17:48 rem | loss 0.16289319097995758
+# 2021-02-16 11:38:22      670      0.14 ips            11:13:52 rem | loss 0.16490960121154785
+# 2021-02-16 11:39:31      680      0.15 ips            11:09:38 rem | loss 0.16396372020244598
+# 2021-02-16 11:40:41      690      0.14 ips            11:05:44 rem | loss 0.1536203920841217
+saving /lustre/scratch/lul/tfdata/50hzhopper5cm_dataf200/baseloss5050f200b128/checkpoints/ckpt-700
+# 2021-02-16 11:42:06      700      0.12 ips            11:03:23 rem | loss 0.18344703316688538
+evaluating.. sim_000010 {'err_n1': 0.0017647733402554877, 'err_n2': 0.003923245012992993}
+done
+# 2021-02-16 11:43:24      710      0.13 ips            11:00:25 rem | loss 0.1717233955860138
+# 2021-02-16 11:44:51      720      0.12 ips            10:58:15 rem | loss 0.17908558249473572
+# 2021-02-16 11:46:02      730      0.14 ips            10:54:41 rem | loss 0.1296001672744751
+# 2021-02-16 11:47:11      740      0.15 ips            10:50:53 rem | loss 0.14898644387722015
+# 2021-02-16 11:48:34      750      0.12 ips            10:48:36 rem | loss 0.19149990379810333
+# 2021-02-16 11:49:57      760      0.12 ips            10:46:16 rem | loss 0.1520545333623886
+# 2021-02-16 11:51:17      770      0.13 ips            10:43:37 rem | loss 0.17010816931724548
+# 2021-02-16 11:52:24      780      0.15 ips            10:39:56 rem | loss 0.1542072743177414
+# 2021-02-16 11:53:31      790      0.15 ips            10:36:18 rem | loss 0.1492588222026825
+saving /lustre/scratch/lul/tfdata/50hzhopper5cm_dataf200/baseloss5050f200b128/checkpoints/ckpt-800
+# 2021-02-16 11:54:44      800      0.14 ips            10:33:11 rem | loss 0.1564929485321045
+evaluating.. sim_000010 {'err_n1': 0.0017666987347183748, 'err_n2': 0.0038999521100777203}
+done
+# 2021-02-16 11:56:12      810      0.11 ips            10:31:31 rem | loss 0.18286122381687164
+# 2021-02-16 11:57:39      820      0.12 ips            10:29:39 rem | loss 0.190261572599411
+# 2021-02-16 11:58:45      830      0.15 ips            10:26:08 rem | loss 0.18329182267189026
+# 2021-02-16 11:59:59      840      0.14 ips            10:23:17 rem | loss 0.1593744158744812
+# 2021-02-16 12:01:12      850      0.14 ips            10:20:25 rem | loss 0.14536893367767334
+# 2021-02-16 12:02:37      860      0.12 ips            10:18:32 rem | loss 0.16257216036319733
+# 2021-02-16 12:03:55      870      0.13 ips            10:16:06 rem | loss 0.197808176279068
+# 2021-02-16 12:05:04      880      0.15 ips            10:12:59 rem | loss 0.16547662019729614
+# 2021-02-16 12:06:29      890      0.12 ips            10:11:12 rem | loss 0.1569312959909439
+saving /lustre/scratch/lul/tfdata/50hzhopper5cm_dataf200/baseloss5050f200b128/checkpoints/ckpt-900
+# 2021-02-16 12:07:47      900      0.13 ips            10:08:53 rem | loss 0.15245144069194794
+evaluating.. sim_000010 {'err_n1': 0.0017459360453358386, 'err_n2': 0.00390972175373463}
+done
+# 2021-02-16 12:08:57      910      0.14 ips            10:05:57 rem | loss 0.1535789668560028
+# 2021-02-16 12:10:07      920      0.14 ips            10:03:02 rem | loss 0.15411219000816345
+# 2021-02-16 12:11:25      930      0.13 ips            10:00:49 rem | loss 0.1827344298362732
+# 2021-02-16 12:12:55      940      0.11 ips             9:59:24 rem | loss 0.17472496628761292
+# 2021-02-16 12:14:08      950      0.14 ips             9:56:48 rem | loss 0.15807604789733887
+# 2021-02-16 12:15:26      960      0.13 ips             9:54:39 rem | loss 0.16776546835899353
+# 2021-02-16 12:16:48      970      0.12 ips             9:52:42 rem | loss 0.14625631272792816
+# 2021-02-16 12:18:07      980      0.13 ips             9:50:37 rem | loss 0.16062024235725403
+# 2021-02-16 12:19:29      990      0.12 ips             9:48:44 rem | loss 0.14975717663764954
+saving /lustre/scratch/lul/tfdata/50hzhopper5cm_dataf200/baseloss5050f200b128/checkpoints/ckpt-1000
+# 2021-02-16 12:20:45     1000      0.13 ips             9:46:28 rem | loss 0.16271978616714478
+evaluating.. sim_000010 {'err_n1': 0.001743664014065871, 'err_n2': 0.0037528691726038234}
+done
+# 2021-02-16 12:22:00     1010      0.13 ips             9:44:09 rem | loss 0.14249451458454132
+# 2021-02-16 12:23:13     1020      0.14 ips             9:41:42 rem | loss 0.13940240442752838
+# 2021-02-16 12:24:27     1030      0.13 ips             9:39:22 rem | loss 0.17949360609054565
+# 2021-02-16 12:25:42     1040      0.13 ips             9:37:04 rem | loss 0.1542479395866394
+# 2021-02-16 12:27:00     1050      0.13 ips             9:35:02 rem | loss 0.15059955418109894
+# 2021-02-16 12:28:11     1060      0.14 ips             9:32:34 rem | loss 0.1732509583234787
+# 2021-02-16 12:29:24     1070      0.14 ips             9:30:15 rem | loss 0.16736993193626404
+# 2021-02-16 12:30:43     1080      0.13 ips             9:28:17 rem | loss 0.14570371806621552
+# 2021-02-16 12:32:02     1090      0.13 ips             9:26:20 rem | loss 0.17688679695129395
+saving /lustre/scratch/lul/tfdata/50hzhopper5cm_dataf200/baseloss5050f200b128/checkpoints/ckpt-1100
+# 2021-02-16 12:33:28     1100      0.12 ips             9:24:53 rem | loss 0.13882699608802795
+evaluating.. sim_000010 {'err_n1': 0.001723765213682782, 'err_n2': 0.003744696966896299}
+done
+# 2021-02-16 12:34:51     1110      0.12 ips             9:23:11 rem | loss 0.15917274355888367
+# 2021-02-16 12:36:01     1120      0.14 ips             9:20:46 rem | loss 0.17900848388671875
+# 2021-02-16 12:37:07     1130      0.15 ips             9:18:08 rem | loss 0.21242891252040863
+# 2021-02-16 12:38:29     1140      0.12 ips             9:16:26 rem | loss 0.13277652859687805
+# 2021-02-16 12:39:44     1150      0.13 ips             9:14:19 rem | loss 0.14226406812667847
+# 2021-02-16 12:40:54     1160      0.14 ips             9:11:59 rem | loss 0.17392411828041077
+# 2021-02-16 12:42:22     1170      0.11 ips             9:10:40 rem | loss 0.1529158353805542
+# 2021-02-16 12:43:38     1180      0.13 ips             9:08:40 rem | loss 0.15938128530979156
+# 2021-02-16 12:44:49     1190      0.14 ips             9:06:23 rem | loss 0.15305878221988678
+saving /lustre/scratch/lul/tfdata/50hzhopper5cm_dataf200/baseloss5050f200b128/checkpoints/ckpt-1200
+# 2021-02-16 12:46:18     1200      0.11 ips             9:05:07 rem | loss 0.142545685172081
+evaluating.. sim_000010 {'err_n1': 0.0017236617946764453, 'err_n2': 0.003736297336581629}
+done
+# 2021-02-16 12:47:34     1210      0.13 ips             9:03:09 rem | loss 0.17780801653862
+# 2021-02-16 12:48:39     1220      0.15 ips             9:00:39 rem | loss 0.1738542765378952
+# 2021-02-16 12:50:00     1230      0.12 ips             8:58:58 rem | loss 0.1476932317018509
+# 2021-02-16 12:51:18     1240      0.13 ips             8:57:10 rem | loss 0.1502477526664734
+# 2021-02-16 12:52:36     1250      0.13 ips             8:55:21 rem | loss 0.1798657327890396
+# 2021-02-16 12:53:48     1260      0.14 ips             8:53:15 rem | loss 0.1384553611278534
+# 2021-02-16 12:54:57     1270      0.15 ips             8:50:59 rem | loss 0.15167327225208282
+# 2021-02-16 12:56:25     1280      0.11 ips             8:49:42 rem | loss 0.1516123116016388
+# 2021-02-16 12:57:50     1290      0.12 ips             8:48:16 rem | loss 0.13707801699638367
+saving /lustre/scratch/lul/tfdata/50hzhopper5cm_dataf200/baseloss5050f200b128/checkpoints/ckpt-1300
+# 2021-02-16 12:59:01     1300      0.14 ips             8:46:08 rem | loss 0.17044876515865326
+evaluating.. sim_000010 {'err_n1': 0.0017148018967418465, 'err_n2': 0.0036648893103119915}
+done
+# 2021-02-16 13:00:22     1310      0.12 ips             8:44:32 rem | loss 0.16184987127780914
+# 2021-02-16 13:01:38     1320      0.13 ips             8:42:40 rem | loss 0.1761525422334671
+# 2021-02-16 13:02:41     1330      0.16 ips             8:40:12 rem | loss 0.1420997530221939
+# 2021-02-16 13:04:07     1340      0.12 ips             8:38:51 rem | loss 0.18096208572387695
+# 2021-02-16 13:05:26     1350      0.13 ips             8:37:08 rem | loss 0.18346522748470306
+# 2021-02-16 13:06:45     1360      0.13 ips             8:35:26 rem | loss 0.16936437785625458
+# 2021-02-16 13:08:03     1370      0.13 ips             8:33:43 rem | loss 0.16951270401477814
+# 2021-02-16 13:09:18     1380      0.13 ips             8:31:52 rem | loss 0.14013324677944183
+# 2021-02-16 13:10:37     1390      0.13 ips             8:30:13 rem | loss 0.1291595995426178
+saving /lustre/scratch/lul/tfdata/50hzhopper5cm_dataf200/baseloss5050f200b128/checkpoints/ckpt-1400
+# 2021-02-16 13:11:49     1400      0.14 ips             8:28:14 rem | loss 0.17853549122810364
+evaluating.. sim_000010 {'err_n1': 0.001709085913898889, 'err_n2': 0.0036831894190981983}
+done
+# 2021-02-16 13:13:06     1410      0.13 ips             8:26:32 rem | loss 0.16262196004390717
+# 2021-02-16 13:14:25     1420      0.13 ips             8:24:52 rem | loss 0.1789952963590622
+# 2021-02-16 13:15:36     1430      0.14 ips             8:22:54 rem | loss 0.16036085784435272
+# 2021-02-16 13:16:49     1440      0.14 ips             8:21:01 rem | loss 0.13367711007595062
+# 2021-02-16 13:17:54     1450      0.15 ips             8:18:49 rem | loss 0.14080150425434113
+# 2021-02-16 13:19:18     1460      0.12 ips             8:17:23 rem | loss 0.12951631844043732
+# 2021-02-16 13:20:42     1470      0.12 ips             8:15:59 rem | loss 0.15813983976840973
+# 2021-02-16 13:22:09     1480      0.12 ips             8:14:39 rem | loss 0.14158783853054047
+# 2021-02-16 13:23:22     1490      0.14 ips             8:12:49 rem | loss 0.16008275747299194
+saving /lustre/scratch/lul/tfdata/50hzhopper5cm_dataf200/baseloss5050f200b128/checkpoints/ckpt-1500
+# 2021-02-16 13:24:41     1500      0.13 ips             8:11:13 rem | loss 0.15936845541000366
+evaluating.. sim_000010 {'err_n1': 0.0016956178871623707, 'err_n2': 0.0035990844524349088}
+done
+# 2021-02-16 13:25:59     1510      0.13 ips             8:09:35 rem | loss 0.15501870214939117
+# 2021-02-16 13:27:15     1520      0.13 ips             8:07:50 rem | loss 0.14822417497634888
+# 2021-02-16 13:28:32     1530      0.13 ips             8:06:11 rem | loss 0.15386682748794556
+# 2021-02-16 13:29:41     1540      0.15 ips             8:04:12 rem | loss 0.11100323498249054
+# 2021-02-16 13:30:59     1550      0.13 ips             8:02:36 rem | loss 0.14926941692829132
+# 2021-02-16 13:32:14     1560      0.13 ips             8:00:52 rem | loss 0.1555010825395584
+# 2021-02-16 13:33:36     1570      0.12 ips             7:59:23 rem | loss 0.1305401623249054
+# 2021-02-16 13:34:50     1580      0.14 ips             7:57:38 rem | loss 0.17918160557746887
+# 2021-02-16 13:36:12     1590      0.12 ips             7:56:10 rem | loss 0.17940345406532288
+saving /lustre/scratch/lul/tfdata/50hzhopper5cm_dataf200/baseloss5050f200b128/checkpoints/ckpt-1600
+# 2021-02-16 13:37:36     1600      0.12 ips             7:54:48 rem | loss 0.16447782516479492
+evaluating.. sim_000010 {'err_n1': 0.00168763426845544, 'err_n2': 0.0035937076252594126}
+done
+# 2021-02-16 13:38:50     1610      0.14 ips             7:53:03 rem | loss 0.1498841941356659
+# 2021-02-16 13:39:54     1620      0.16 ips             7:50:58 rem | loss 0.1591992825269699
+# 2021-02-16 13:41:10     1630      0.13 ips             7:49:18 rem | loss 0.13700103759765625
+# 2021-02-16 13:42:25     1640      0.13 ips             7:47:37 rem | loss 0.15925592184066772
+# 2021-02-16 13:43:48     1650      0.12 ips             7:46:13 rem | loss 0.14393673837184906
+# 2021-02-16 13:45:00     1660      0.14 ips             7:44:27 rem | loss 0.16370810568332672
+# 2021-02-16 13:46:18     1670      0.13 ips             7:42:51 rem | loss 0.14645418524742126
+# 2021-02-16 13:47:34     1680      0.13 ips             7:41:14 rem | loss 0.14473490417003632
+# 2021-02-16 13:48:47     1690      0.14 ips             7:39:30 rem | loss 0.183137446641922
+saving /lustre/scratch/lul/tfdata/50hzhopper5cm_dataf200/baseloss5050f200b128/checkpoints/ckpt-1700
+# 2021-02-16 13:50:04     1700      0.13 ips             7:37:55 rem | loss 0.12544144690036774
+evaluating.. sim_000010 {'err_n1': 0.0016784757317509502, 'err_n2': 0.0035909165831981226}
+done
+# 2021-02-16 13:51:27     1710      0.12 ips             7:36:31 rem | loss 0.1695573925971985
+# 2021-02-16 13:52:51     1720      0.12 ips             7:35:08 rem | loss 0.14226654171943665
+# 2021-02-16 13:54:01     1730      0.14 ips             7:33:20 rem | loss 0.15228505432605743
+# 2021-02-16 13:55:15     1740      0.13 ips             7:31:40 rem | loss 0.14731165766716003
+# 2021-02-16 13:56:22     1750      0.15 ips             7:29:47 rem | loss 0.1209288164973259
+# 2021-02-16 13:57:42     1760      0.12 ips             7:28:19 rem | loss 0.14893214404582977
+# 2021-02-16 13:59:05     1770      0.12 ips             7:26:55 rem | loss 0.16305117309093475
+# 2021-02-16 14:00:15     1780      0.14 ips             7:25:09 rem | loss 0.15290941298007965
+# 2021-02-16 14:01:27     1790      0.14 ips             7:23:27 rem | loss 0.15376445651054382
+saving /lustre/scratch/lul/tfdata/50hzhopper5cm_dataf200/baseloss5050f200b128/checkpoints/ckpt-1800
+# 2021-02-16 14:02:48     1800      0.12 ips             7:21:59 rem | loss 0.1274596005678177
+evaluating.. sim_000010 {'err_n1': 0.0016841730692249257, 'err_n2': 0.0035733413009438665}
+done
+# 2021-02-16 14:04:10     1810      0.12 ips             7:20:35 rem | loss 0.18376901745796204
+# 2021-02-16 14:05:26     1820      0.13 ips             7:19:01 rem | loss 0.15748727321624756
+# 2021-02-16 14:06:48     1830      0.12 ips             7:17:36 rem | loss 0.15857769548892975
+# 2021-02-16 14:08:03     1840      0.13 ips             7:16:01 rem | loss 0.17999893426895142
+# 2021-02-16 14:09:18     1850      0.13 ips             7:14:24 rem | loss 0.19775386154651642
+# 2021-02-16 14:10:29     1860      0.14 ips             7:12:41 rem | loss 0.13680611550807953
+# 2021-02-16 14:11:54     1870      0.12 ips             7:11:23 rem | loss 0.16126111149787903
+# 2021-02-16 14:13:18     1880      0.12 ips             7:10:01 rem | loss 0.14245566725730896
+# 2021-02-16 14:14:29     1890      0.14 ips             7:08:20 rem | loss 0.14548158645629883
+saving /lustre/scratch/lul/tfdata/50hzhopper5cm_dataf200/baseloss5050f200b128/checkpoints/ckpt-1900
+# 2021-02-16 14:15:39     1900      0.14 ips             7:06:36 rem | loss 0.1527683287858963
+evaluating.. sim_000010 {'err_n1': 0.0016840062471601414, 'err_n2': 0.003548951743869111}
+done
+# 2021-02-16 14:16:48     1910      0.15 ips             7:04:52 rem | loss 0.16453450918197632
+# 2021-02-16 14:18:16     1920      0.11 ips             7:03:38 rem | loss 0.16125500202178955
+# 2021-02-16 14:19:40     1930      0.12 ips             7:02:18 rem | loss 0.1703414022922516
+# 2021-02-16 14:20:52     1940      0.14 ips             7:00:39 rem | loss 0.1356179565191269
+# 2021-02-16 14:22:09     1950      0.13 ips             6:59:07 rem | loss 0.17045298218727112
+# 2021-02-16 14:23:27     1960      0.13 ips             6:57:39 rem | loss 0.15023769438266754
+# 2021-02-16 14:24:31     1970      0.16 ips             6:55:49 rem | loss 0.16610762476921082
+# 2021-02-16 14:25:45     1980      0.14 ips             6:54:12 rem | loss 0.18096409738063812
+# 2021-02-16 14:27:09     1990      0.12 ips             6:52:53 rem | loss 0.16255131363868713
+saving /lustre/scratch/lul/tfdata/50hzhopper5cm_dataf200/baseloss5050f200b128/checkpoints/ckpt-2000
+# 2021-02-16 14:28:18     2000      0.15 ips             6:51:11 rem | loss 0.15079878270626068
+evaluating.. sim_000010 {'err_n1': 0.0016692312598024727, 'err_n2': 0.0035008196893613784}
+done
+# 2021-02-16 14:29:41     2010      0.12 ips             6:49:49 rem | loss 0.14335383474826813
+# 2021-02-16 14:30:58     2020      0.13 ips             6:48:19 rem | loss 0.14369386434555054
+# 2021-02-16 14:32:18     2030      0.12 ips             6:46:54 rem | loss 0.1653883457183838
+# 2021-02-16 14:33:46     2040      0.11 ips             6:45:41 rem | loss 0.1479460597038269
+# 2021-02-16 14:35:03     2050      0.13 ips             6:44:11 rem | loss 0.12850673496723175
+# 2021-02-16 14:36:18     2060      0.13 ips             6:42:38 rem | loss 0.15937599539756775
+# 2021-02-16 14:37:34     2070      0.13 ips             6:41:07 rem | loss 0.16721229255199432
+# 2021-02-16 14:38:45     2080      0.14 ips             6:39:29 rem | loss 0.17675641179084778
+# 2021-02-16 14:40:07     2090      0.12 ips             6:38:08 rem | loss 0.17985928058624268
+saving /lustre/scratch/lul/tfdata/50hzhopper5cm_dataf200/baseloss5050f200b128/checkpoints/ckpt-2100
+# 2021-02-16 14:41:37     2100      0.11 ips             6:36:56 rem | loss 0.1512312889099121
+evaluating.. sim_000010 {'err_n1': 0.0016555925914872205, 'err_n2': 0.0034942131460411474}
+done
+# 2021-02-16 14:42:46     2110      0.15 ips             6:35:15 rem | loss 0.15077921748161316
+# 2021-02-16 14:44:01     2120      0.13 ips             6:33:44 rem | loss 0.16211669147014618
+# 2021-02-16 14:45:28     2130      0.11 ips             6:32:29 rem | loss 0.13845524191856384
+# 2021-02-16 14:46:41     2140      0.14 ips             6:30:54 rem | loss 0.11959433555603027
+# 2021-02-16 14:47:44     2150      0.16 ips             6:29:07 rem | loss 0.14542007446289062
+# 2021-02-16 14:48:58     2160      0.13 ips             6:27:35 rem | loss 0.15962457656860352
+# 2021-02-16 14:50:18     2170      0.12 ips             6:26:11 rem | loss 0.14581705629825592
+# 2021-02-16 14:51:31     2180      0.14 ips             6:24:37 rem | loss 0.15807726979255676
+# 2021-02-16 14:52:39     2190      0.15 ips             6:22:57 rem | loss 0.15570388734340668
+saving /lustre/scratch/lul/tfdata/50hzhopper5cm_dataf200/baseloss5050f200b128/checkpoints/ckpt-2200
+# 2021-02-16 14:53:53     2200      0.14 ips             6:21:26 rem | loss 0.1304495632648468
+evaluating.. sim_000010 {'err_n1': 0.00166643936681794, 'err_n2': 0.003509726721676998}
+done
+# 2021-02-16 14:55:20     2210      0.11 ips             6:20:11 rem | loss 0.15267494320869446
+# 2021-02-16 14:56:32     2220      0.14 ips             6:18:38 rem | loss 0.1535359025001526
+# 2021-02-16 14:57:44     2230      0.14 ips             6:17:04 rem | loss 0.15132097899913788
+# 2021-02-16 14:59:12     2240      0.11 ips             6:15:49 rem | loss 0.18235079944133759
+# 2021-02-16 15:00:32     2250      0.13 ips             6:14:25 rem | loss 0.16276726126670837
+# 2021-02-16 15:01:58     2260      0.12 ips             6:13:09 rem | loss 0.13980023562908173
+# 2021-02-16 15:03:13     2270      0.13 ips             6:11:39 rem | loss 0.16325782239437103
+# 2021-02-16 15:04:26     2280      0.14 ips             6:10:07 rem | loss 0.15990521013736725
+# 2021-02-16 15:05:52     2290      0.12 ips             6:08:51 rem | loss 0.15497060120105743
+saving /lustre/scratch/lul/tfdata/50hzhopper5cm_dataf200/baseloss5050f200b128/checkpoints/ckpt-2300
+# 2021-02-16 15:07:04     2300      0.14 ips             6:07:17 rem | loss 0.1610499918460846
+evaluating.. sim_000010 {'err_n1': 0.0016568178984016414, 'err_n2': 0.0034716520240181126}
+done
+# 2021-02-16 15:08:02     2310      0.17 ips             6:05:28 rem | loss 0.1282733529806137
+# 2021-02-16 15:09:12     2320      0.14 ips             6:03:53 rem | loss 0.14315615594387054
+# 2021-02-16 15:10:37     2330      0.12 ips             6:02:37 rem | loss 0.12520718574523926
+# 2021-02-16 15:12:04     2340      0.12 ips             6:01:21 rem | loss 0.14544686675071716
+# 2021-02-16 15:13:29     2350      0.12 ips             6:00:03 rem | loss 0.15703819692134857
+# 2021-02-16 15:14:36     2360      0.15 ips             5:58:25 rem | loss 0.1466856747865677
+# 2021-02-16 15:15:57     2370      0.12 ips             5:57:03 rem | loss 0.15642395615577698
+# 2021-02-16 15:17:16     2380      0.13 ips             5:55:40 rem | loss 0.14869239926338196
+# 2021-02-16 15:18:31     2390      0.13 ips             5:54:11 rem | loss 0.1647089719772339
+saving /lustre/scratch/lul/tfdata/50hzhopper5cm_dataf200/baseloss5050f200b128/checkpoints/ckpt-2400
+# 2021-02-16 15:19:45     2400      0.14 ips             5:52:42 rem | loss 0.16746379435062408
+evaluating.. sim_000010 {'err_n1': 0.0016522670059202938, 'err_n2': 0.0034492039361794014}
+done
+# 2021-02-16 15:20:58     2410      0.14 ips             5:51:12 rem | loss 0.13191701471805573
+# 2021-02-16 15:22:23     2420      0.12 ips             5:49:53 rem | loss 0.15082906186580658
+# 2021-02-16 15:23:41     2430      0.13 ips             5:48:28 rem | loss 0.1757308840751648
+# 2021-02-16 15:24:54     2440      0.14 ips             5:46:58 rem | loss 0.1479259580373764
+# 2021-02-16 15:26:09     2450      0.13 ips             5:45:31 rem | loss 0.17088860273361206
+# 2021-02-16 15:27:24     2460      0.13 ips             5:44:02 rem | loss 0.155492901802063
+# 2021-02-16 15:28:36     2470      0.14 ips             5:42:32 rem | loss 0.15709029138088226
+# 2021-02-16 15:29:59     2480      0.12 ips             5:41:12 rem | loss 0.13958188891410828
+# 2021-02-16 15:31:13     2490      0.13 ips             5:39:44 rem | loss 0.12730297446250916
+saving /lustre/scratch/lul/tfdata/50hzhopper5cm_dataf200/baseloss5050f200b128/checkpoints/ckpt-2500
+# 2021-02-16 15:32:26     2500      0.14 ips             5:38:14 rem | loss 0.16903987526893616
+evaluating.. sim_000010 {'err_n1': 0.0016467468289192767, 'err_n2': 0.0034335617812757844}
+done
+# 2021-02-16 15:33:41     2510      0.13 ips             5:36:47 rem | loss 0.13247472047805786
+# 2021-02-16 15:34:57     2520      0.13 ips             5:35:21 rem | loss 0.1221952885389328
+# 2021-02-16 15:36:10     2530      0.14 ips             5:33:52 rem | loss 0.18866893649101257
+# 2021-02-16 15:37:31     2540      0.12 ips             5:32:31 rem | loss 0.12623749673366547
+# 2021-02-16 15:38:50     2550      0.13 ips             5:31:08 rem | loss 0.15118801593780518
+# 2021-02-16 15:40:15     2560      0.12 ips             5:29:51 rem | loss 0.11553390324115753
+# 2021-02-16 15:41:45     2570      0.11 ips             5:28:37 rem | loss 0.1376468986272812
+# 2021-02-16 15:42:52     2580      0.15 ips             5:27:03 rem | loss 0.13195672631263733
+# 2021-02-16 15:43:54     2590      0.16 ips             5:25:24 rem | loss 0.15584862232208252
+saving /lustre/scratch/lul/tfdata/50hzhopper5cm_dataf200/baseloss5050f200b128/checkpoints/ckpt-2600
+# 2021-02-16 15:45:13     2600      0.13 ips             5:24:01 rem | loss 0.14795227348804474
+evaluating.. sim_000010 {'err_n1': 0.0016389919579523848, 'err_n2': 0.003379943181789713}
+done
+# 2021-02-16 15:46:29     2610      0.13 ips             5:22:35 rem | loss 0.13177120685577393
+# 2021-02-16 15:47:49     2620      0.13 ips             5:21:13 rem | loss 0.17480407655239105
+# 2021-02-16 15:49:10     2630      0.12 ips             5:19:53 rem | loss 0.17247344553470612
+# 2021-02-16 15:50:24     2640      0.14 ips             5:18:25 rem | loss 0.15145251154899597
+# 2021-02-16 15:51:39     2650      0.13 ips             5:16:59 rem | loss 0.1553410440683365
+# 2021-02-16 15:52:54     2660      0.13 ips             5:15:33 rem | loss 0.15587180852890015
+# 2021-02-16 15:54:12     2670      0.13 ips             5:14:09 rem | loss 0.14575207233428955
+# 2021-02-16 15:55:33     2680      0.12 ips             5:12:49 rem | loss 0.1284717321395874
+# 2021-02-16 15:56:49     2690      0.13 ips             5:11:24 rem | loss 0.14808541536331177
+saving /lustre/scratch/lul/tfdata/50hzhopper5cm_dataf200/baseloss5050f200b128/checkpoints/ckpt-2700
+# 2021-02-16 15:58:09     2700      0.13 ips             5:10:02 rem | loss 0.14945997297763824
+evaluating.. sim_000010 {'err_n1': 0.0016337704208126524, 'err_n2': 0.003361478089937009}
+done
+# 2021-02-16 15:59:25     2710      0.13 ips             5:08:37 rem | loss 0.11567235738039017
+# 2021-02-16 16:00:49     2720      0.12 ips             5:07:19 rem | loss 0.15167084336280823
+# 2021-02-16 16:02:05     2730      0.13 ips             5:05:54 rem | loss 0.15334859490394592
+# 2021-02-16 16:03:11     2740      0.15 ips             5:04:21 rem | loss 0.12977227568626404
+# 2021-02-16 16:04:17     2750      0.15 ips             5:02:48 rem | loss 0.14669206738471985
+# 2021-02-16 16:05:30     2760      0.14 ips             5:01:21 rem | loss 0.1556694358587265
+# 2021-02-16 16:07:00     2770      0.11 ips             5:00:07 rem | loss 0.12981563806533813
+# 2021-02-16 16:08:21     2780      0.12 ips             4:58:47 rem | loss 0.1323433816432953
+# 2021-02-16 16:09:42     2790      0.12 ips             4:57:27 rem | loss 0.131966233253479
+saving /lustre/scratch/lul/tfdata/50hzhopper5cm_dataf200/baseloss5050f200b128/checkpoints/ckpt-2800
+# 2021-02-16 16:10:55     2800      0.14 ips             4:55:59 rem | loss 0.1341889202594757
+evaluating.. sim_000010 {'err_n1': 0.0016311877268890384, 'err_n2': 0.003348118096619146}
+done
+# 2021-02-16 16:12:04     2810      0.14 ips             4:54:30 rem | loss 0.13159289956092834
+# 2021-02-16 16:13:14     2820      0.14 ips             4:53:01 rem | loss 0.13681232929229736
+# 2021-02-16 16:14:39     2830      0.12 ips             4:51:44 rem | loss 0.13578884303569794
+# 2021-02-16 16:16:04     2840      0.12 ips             4:50:26 rem | loss 0.16185249388217926
+# 2021-02-16 16:17:15     2850      0.14 ips             4:48:58 rem | loss 0.14973020553588867
+# 2021-02-16 16:18:34     2860      0.13 ips             4:47:36 rem | loss 0.12389802187681198
+# 2021-02-16 16:19:49     2870      0.13 ips             4:46:12 rem | loss 0.14568620920181274
+# 2021-02-16 16:20:57     2880      0.15 ips             4:44:42 rem | loss 0.15645070374011993
+# 2021-02-16 16:22:20     2890      0.12 ips             4:43:23 rem | loss 0.13873125612735748
+saving /lustre/scratch/lul/tfdata/50hzhopper5cm_dataf200/baseloss5050f200b128/checkpoints/ckpt-2900
+# 2021-02-16 16:23:33     2900      0.14 ips             4:41:57 rem | loss 0.1594846099615097
+evaluating.. sim_000010 {'err_n1': 0.0016300329109071754, 'err_n2': 0.003341137035749853}
+done
+# 2021-02-16 16:24:49     2910      0.13 ips             4:40:33 rem | loss 0.1531209945678711
+# 2021-02-16 16:26:15     2920      0.12 ips             4:39:16 rem | loss 0.1320970207452774
+# 2021-02-16 16:27:38     2930      0.12 ips             4:37:57 rem | loss 0.16279354691505432
+# 2021-02-16 16:28:58     2940      0.12 ips             4:36:37 rem | loss 0.1769443154335022
+# 2021-02-16 16:30:11     2950      0.14 ips             4:35:11 rem | loss 0.14575064182281494
+# 2021-02-16 16:31:24     2960      0.14 ips             4:33:45 rem | loss 0.1527402549982071
+# 2021-02-16 16:32:37     2970      0.14 ips             4:32:19 rem | loss 0.14602354168891907
+# 2021-02-16 16:34:00     2980      0.12 ips             4:31:00 rem | loss 0.12872570753097534
+# 2021-02-16 16:35:12     2990      0.14 ips             4:29:34 rem | loss 0.14007821679115295
+saving /lustre/scratch/lul/tfdata/50hzhopper5cm_dataf200/baseloss5050f200b128/checkpoints/ckpt-3000
+# 2021-02-16 16:36:20     3000      0.15 ips             4:28:06 rem | loss 0.13740743696689606
+evaluating.. sim_000010 {'err_n1': 0.0016311803770804544, 'err_n2': 0.0033289380036876535}
+done
+# 2021-02-16 16:37:50     3010      0.11 ips             4:26:51 rem | loss 0.16872934997081757
+# 2021-02-16 16:39:02     3020      0.14 ips             4:25:25 rem | loss 0.1633548140525818
+# 2021-02-16 16:40:17     3030      0.13 ips             4:24:01 rem | loss 0.13776704668998718
+# 2021-02-16 16:41:27     3040      0.14 ips             4:22:34 rem | loss 0.15113842487335205
+# 2021-02-16 16:42:54     3050      0.11 ips             4:21:18 rem | loss 0.12692253291606903
+# 2021-02-16 16:44:30     3060      0.10 ips             4:20:07 rem | loss 0.13856194913387299
+# 2021-02-16 16:45:34     3070      0.16 ips             4:18:37 rem | loss 0.13332101702690125
+# 2021-02-16 16:46:43     3080      0.15 ips             4:17:09 rem | loss 0.1763567328453064
+# 2021-02-16 16:47:59     3090      0.13 ips             4:15:46 rem | loss 0.13167627155780792
+saving /lustre/scratch/lul/tfdata/50hzhopper5cm_dataf200/baseloss5050f200b128/checkpoints/ckpt-3100
+# 2021-02-16 16:49:10     3100      0.14 ips             4:14:20 rem | loss 0.14353038370609283
+evaluating.. sim_000010 {'err_n1': 0.0016260166517895413, 'err_n2': 0.003320331752911443}
+done
+# 2021-02-16 16:50:32     3110      0.12 ips             4:13:01 rem | loss 0.15023201704025269
+# 2021-02-16 16:51:48     3120      0.13 ips             4:11:38 rem | loss 0.14290258288383484
+# 2021-02-16 16:53:09     3130      0.12 ips             4:10:18 rem | loss 0.12883703410625458
+# 2021-02-16 16:54:26     3140      0.13 ips             4:08:56 rem | loss 0.17133033275604248
+# 2021-02-16 16:55:50     3150      0.12 ips             4:07:38 rem | loss 0.13348083198070526
+# 2021-02-16 16:57:12     3160      0.12 ips             4:06:18 rem | loss 0.1592879295349121
+# 2021-02-16 16:58:18     3170      0.15 ips             4:04:50 rem | loss 0.12389130145311356
+# 2021-02-16 16:59:32     3180      0.14 ips             4:03:26 rem | loss 0.14691326022148132
+# 2021-02-16 17:00:39     3190      0.15 ips             4:01:58 rem | loss 0.11986476182937622
+saving /lustre/scratch/lul/tfdata/50hzhopper5cm_dataf200/baseloss5050f200b128/checkpoints/ckpt-3200
+# 2021-02-16 17:02:00     3200      0.12 ips             4:00:38 rem | loss 0.13842424750328064
+evaluating.. sim_000010 {'err_n1': 0.0016264585559838452, 'err_n2': 0.003314400483213831}
+done
+# 2021-02-16 17:03:20     3210      0.12 ips             3:59:18 rem | loss 0.14815039932727814
+# 2021-02-16 17:04:33     3220      0.14 ips             3:57:54 rem | loss 0.13765227794647217
+# 2021-02-16 17:05:43     3230      0.14 ips             3:56:28 rem | loss 0.14445538818836212
+# 2021-02-16 17:07:10     3240      0.12 ips             3:55:11 rem | loss 0.16442716121673584
+# 2021-02-16 17:08:26     3250      0.13 ips             3:53:49 rem | loss 0.1441921889781952
+# 2021-02-16 17:09:36     3260      0.14 ips             3:52:23 rem | loss 0.1196918785572052
+# 2021-02-16 17:10:47     3270      0.14 ips             3:50:58 rem | loss 0.13091598451137543
+# 2021-02-16 17:11:59     3280      0.14 ips             3:49:34 rem | loss 0.1684095412492752
+# 2021-02-16 17:13:28     3290      0.11 ips             3:48:19 rem | loss 0.15882697701454163
+saving /lustre/scratch/lul/tfdata/50hzhopper5cm_dataf200/baseloss5050f200b128/checkpoints/ckpt-3300
+# 2021-02-16 17:14:57     3300      0.11 ips             3:47:03 rem | loss 0.13606540858745575
+evaluating.. sim_000010 {'err_n1': 0.0016241697725490668, 'err_n2': 0.003301903680403484}
+done
+# 2021-02-16 17:16:16     3310      0.13 ips             3:45:43 rem | loss 0.10503887385129929
+# 2021-02-16 17:17:28     3320      0.14 ips             3:44:18 rem | loss 0.12185893952846527
+# 2021-02-16 17:18:39     3330      0.14 ips             3:42:53 rem | loss 0.10840748995542526
+# 2021-02-16 17:19:47     3340      0.15 ips             3:41:27 rem | loss 0.14069002866744995
+# 2021-02-16 17:20:58     3350      0.14 ips             3:40:03 rem | loss 0.16126811504364014
+# 2021-02-16 17:22:24     3360      0.12 ips             3:38:46 rem | loss 0.15217550098896027
+# 2021-02-16 17:23:45     3370      0.12 ips             3:37:26 rem | loss 0.18930105865001678
+# 2021-02-16 17:25:09     3380      0.12 ips             3:36:08 rem | loss 0.11978552490472794
+# 2021-02-16 17:26:23     3390      0.13 ips             3:34:45 rem | loss 0.12441781163215637
+saving /lustre/scratch/lul/tfdata/50hzhopper5cm_dataf200/baseloss5050f200b128/checkpoints/ckpt-3400
+# 2021-02-16 17:27:46     3400      0.12 ips             3:33:26 rem | loss 0.15413352847099304
+evaluating.. sim_000010 {'err_n1': 0.0016231105975748506, 'err_n2': 0.0032963063291390426}
+done
+# 2021-02-16 17:28:57     3410      0.14 ips             3:32:02 rem | loss 0.1317146122455597
+# 2021-02-16 17:30:13     3420      0.13 ips             3:30:40 rem | loss 0.13613231480121613
+# 2021-02-16 17:31:29     3430      0.13 ips             3:29:19 rem | loss 0.15478533506393433
+# 2021-02-16 17:32:44     3440      0.13 ips             3:27:56 rem | loss 0.12401833385229111
+# 2021-02-16 17:34:02     3450      0.13 ips             3:26:35 rem | loss 0.15488900244235992
+# 2021-02-16 17:35:20     3460      0.13 ips             3:25:15 rem | loss 0.15804703533649445
+# 2021-02-16 17:36:34     3470      0.14 ips             3:23:52 rem | loss 0.15488256514072418
+# 2021-02-16 17:37:50     3480      0.13 ips             3:22:30 rem | loss 0.11726607382297516
+# 2021-02-16 17:39:12     3490      0.12 ips             3:21:11 rem | loss 0.14741429686546326
+saving /lustre/scratch/lul/tfdata/50hzhopper5cm_dataf200/baseloss5050f200b128/checkpoints/ckpt-3500
+# 2021-02-16 17:40:17     3500      0.15 ips             3:19:45 rem | loss 0.11872819066047668
+evaluating.. sim_000010 {'err_n1': 0.0016211934249440673, 'err_n2': 0.0033055006606446113}
+done
+# 2021-02-16 17:41:41     3510      0.12 ips             3:18:27 rem | loss 0.11183078587055206
+# 2021-02-16 17:43:04     3520      0.12 ips             3:17:08 rem | loss 0.1598283052444458
+# 2021-02-16 17:44:23     3530      0.13 ips             3:15:48 rem | loss 0.1627197414636612
+# 2021-02-16 17:45:38     3540      0.13 ips             3:14:26 rem | loss 0.14637237787246704
+# 2021-02-16 17:46:56     3550      0.13 ips             3:13:05 rem | loss 0.12783183157444
+# 2021-02-16 17:48:16     3560      0.13 ips             3:11:45 rem | loss 0.15309536457061768
+# 2021-02-16 17:49:37     3570      0.12 ips             3:10:26 rem | loss 0.16877354681491852
+# 2021-02-16 17:50:43     3580      0.15 ips             3:09:00 rem | loss 0.1336519867181778
+# 2021-02-16 17:51:56     3590      0.14 ips             3:07:38 rem | loss 0.18067464232444763
+saving /lustre/scratch/lul/tfdata/50hzhopper5cm_dataf200/baseloss5050f200b128/checkpoints/ckpt-3600
+# 2021-02-16 17:53:24     3600      0.11 ips             3:06:21 rem | loss 0.12999621033668518
+evaluating.. sim_000010 {'err_n1': 0.001621242980399984, 'err_n2': 0.003288782229356002}
+done
+# 2021-02-16 17:54:38     3610      0.14 ips             3:04:59 rem | loss 0.11493560671806335
+# 2021-02-16 17:55:51     3620      0.14 ips             3:03:36 rem | loss 0.1622980237007141
+# 2021-02-16 17:57:05     3630      0.13 ips             3:02:15 rem | loss 0.15273848176002502
+# 2021-02-16 17:58:19     3640      0.14 ips             3:00:52 rem | loss 0.13882094621658325
+# 2021-02-16 17:59:34     3650      0.13 ips             2:59:31 rem | loss 0.15441744029521942
+# 2021-02-16 18:00:50     3660      0.13 ips             2:58:10 rem | loss 0.16998150944709778
+# 2021-02-16 18:02:09     3670      0.13 ips             2:56:50 rem | loss 0.14896637201309204
+# 2021-02-16 18:03:28     3680      0.13 ips             2:55:30 rem | loss 0.15698111057281494
+# 2021-02-16 18:04:41     3690      0.14 ips             2:54:07 rem | loss 0.14988777041435242
+saving /lustre/scratch/lul/tfdata/50hzhopper5cm_dataf200/baseloss5050f200b128/checkpoints/ckpt-3700
+# 2021-02-16 18:06:00     3700      0.13 ips             2:52:47 rem | loss 0.15563267469406128
+evaluating.. sim_000010 {'err_n1': 0.001620596358770854, 'err_n2': 0.003291681857808726}
+done
+# 2021-02-16 18:07:13     3710      0.14 ips             2:51:25 rem | loss 0.15998417139053345
+# 2021-02-16 18:08:35     3720      0.12 ips             2:50:06 rem | loss 0.15007051825523376
+# 2021-02-16 18:09:51     3730      0.13 ips             2:48:45 rem | loss 0.16397856175899506
+# 2021-02-16 18:11:07     3740      0.13 ips             2:47:24 rem | loss 0.13638421893119812
+# 2021-02-16 18:12:28     3750      0.12 ips             2:46:05 rem | loss 0.11207519471645355
+# 2021-02-16 18:13:53     3760      0.12 ips             2:44:47 rem | loss 0.13675108551979065
+# 2021-02-16 18:15:05     3770      0.14 ips             2:43:25 rem | loss 0.13947857916355133
+# 2021-02-16 18:16:22     3780      0.13 ips             2:42:04 rem | loss 0.1648063212633133
+# 2021-02-16 18:17:43     3790      0.12 ips             2:40:45 rem | loss 0.13149483501911163
+saving /lustre/scratch/lul/tfdata/50hzhopper5cm_dataf200/baseloss5050f200b128/checkpoints/ckpt-3800
+# 2021-02-16 18:18:51     3800      0.15 ips             2:39:21 rem | loss 0.1507890224456787
+evaluating.. sim_000010 {'err_n1': 0.0016199286586925155, 'err_n2': 0.003285653781495057}
+done
+# 2021-02-16 18:20:19     3810      0.11 ips             2:38:04 rem | loss 0.1553226262331009
+# 2021-02-16 18:21:25     3820      0.15 ips             2:36:41 rem | loss 0.13848373293876648
+# 2021-02-16 18:22:35     3830      0.14 ips             2:35:18 rem | loss 0.11915183812379837
+# 2021-02-16 18:23:41     3840      0.15 ips             2:33:54 rem | loss 0.14520816504955292
+# 2021-02-16 18:25:01     3850      0.13 ips             2:32:35 rem | loss 0.12999527156352997
+# 2021-02-16 18:26:25     3860      0.12 ips             2:31:16 rem | loss 0.16600430011749268
+# 2021-02-16 18:27:48     3870      0.12 ips             2:29:58 rem | loss 0.14008910953998566
+# 2021-02-16 18:29:10     3880      0.12 ips             2:28:39 rem | loss 0.1501007080078125
+# 2021-02-16 18:30:22     3890      0.14 ips             2:27:17 rem | loss 0.13165238499641418
+saving /lustre/scratch/lul/tfdata/50hzhopper5cm_dataf200/baseloss5050f200b128/checkpoints/ckpt-3900
+# 2021-02-16 18:31:35     3900      0.14 ips             2:25:55 rem | loss 0.15446804463863373
+evaluating.. sim_000010 {'err_n1': 0.0016209248944505817, 'err_n2': 0.00327753734527505}
+done
+# 2021-02-16 18:32:47     3910      0.14 ips             2:24:34 rem | loss 0.1572962999343872
+# 2021-02-16 18:34:14     3920      0.12 ips             2:23:16 rem | loss 0.144613116979599
+# 2021-02-16 18:35:38     3930      0.12 ips             2:21:58 rem | loss 0.11377006769180298
+# 2021-02-16 18:36:44     3940      0.15 ips             2:20:34 rem | loss 0.1306614875793457
+# 2021-02-16 18:38:02     3950      0.13 ips             2:19:14 rem | loss 0.13526767492294312
+# 2021-02-16 18:39:17     3960      0.13 ips             2:17:54 rem | loss 0.14891228079795837
+# 2021-02-16 18:40:37     3970      0.12 ips             2:16:34 rem | loss 0.12908205389976501
+# 2021-02-16 18:41:54     3980      0.13 ips             2:15:14 rem | loss 0.12123974412679672
+# 2021-02-16 18:42:55     3990      0.16 ips             2:13:50 rem | loss 0.14513705670833588
+saving /lustre/scratch/lul/tfdata/50hzhopper5cm_dataf200/baseloss5050f200b128/checkpoints/ckpt-4000
+# 2021-02-16 18:44:06     4000      0.14 ips             2:12:28 rem | loss 0.13160234689712524
+evaluating.. sim_000010 {'err_n1': 0.001619553184718825, 'err_n2': 0.0032799991589854472}
+done
+# 2021-02-16 18:45:32     4010      0.12 ips             2:11:10 rem | loss 0.1271810680627823
+# 2021-02-16 18:47:02     4020      0.11 ips             2:09:53 rem | loss 0.13969305157661438
+# 2021-02-16 18:48:15     4030      0.14 ips             2:08:32 rem | loss 0.1222987100481987
+# 2021-02-16 18:49:33     4040      0.13 ips             2:07:12 rem | loss 0.13271255791187286
+# 2021-02-16 18:50:53     4050      0.13 ips             2:05:53 rem | loss 0.13994017243385315
+# 2021-02-16 18:52:07     4060      0.14 ips             2:04:32 rem | loss 0.15582069754600525
+# 2021-02-16 18:53:19     4070      0.14 ips             2:03:11 rem | loss 0.1519940346479416
+# 2021-02-16 18:54:39     4080      0.13 ips             2:01:51 rem | loss 0.13882575929164886
+# 2021-02-16 18:55:56     4090      0.13 ips             2:00:31 rem | loss 0.17024534940719604
+saving /lustre/scratch/lul/tfdata/50hzhopper5cm_dataf200/baseloss5050f200b128/checkpoints/ckpt-4100
+# 2021-02-16 18:57:14     4100      0.13 ips             1:59:12 rem | loss 0.16124416887760162
+evaluating.. sim_000010 {'err_n1': 0.001619565032160608, 'err_n2': 0.003278644604142755}
+done
+# 2021-02-16 18:58:35     4110      0.12 ips             1:57:53 rem | loss 0.143227219581604
+# 2021-02-16 18:59:56     4120      0.12 ips             1:56:33 rem | loss 0.12588989734649658
+# 2021-02-16 19:01:12     4130      0.13 ips             1:55:13 rem | loss 0.1530124992132187
+# 2021-02-16 19:02:26     4140      0.14 ips             1:53:53 rem | loss 0.15156514942646027
+# 2021-02-16 19:03:42     4150      0.13 ips             1:52:32 rem | loss 0.1381690949201584
+# 2021-02-16 19:04:55     4160      0.14 ips             1:51:12 rem | loss 0.1454824060201645
+# 2021-02-16 19:06:12     4170      0.13 ips             1:49:52 rem | loss 0.17664164304733276
+# 2021-02-16 19:07:43     4180      0.11 ips             1:48:35 rem | loss 0.1403661072254181
+# 2021-02-16 19:09:00     4190      0.13 ips             1:47:15 rem | loss 0.1274489164352417
+saving /lustre/scratch/lul/tfdata/50hzhopper5cm_dataf200/baseloss5050f200b128/checkpoints/ckpt-4200
+# 2021-02-16 19:10:03     4200      0.16 ips             1:45:52 rem | loss 0.13262055814266205
+evaluating.. sim_000010 {'err_n1': 0.0016206042488192906, 'err_n2': 0.0032728323356423063}
+done
+# 2021-02-16 19:11:06     4210      0.16 ips             1:44:30 rem | loss 0.14636139571666718
+# 2021-02-16 19:12:23     4220      0.13 ips             1:43:10 rem | loss 0.1290939450263977
+# 2021-02-16 19:13:51     4230      0.11 ips             1:41:52 rem | loss 0.11690493673086166
+# 2021-02-16 19:15:03     4240      0.14 ips             1:40:31 rem | loss 0.15134555101394653
+# 2021-02-16 19:16:23     4250      0.12 ips             1:39:12 rem | loss 0.14650535583496094
+# 2021-02-16 19:17:43     4260      0.13 ips             1:37:53 rem | loss 0.1234164908528328
+# 2021-02-16 19:18:47     4270      0.15 ips             1:36:31 rem | loss 0.12082318216562271
+# 2021-02-16 19:20:06     4280      0.13 ips             1:35:11 rem | loss 0.1771068125963211
+# 2021-02-16 19:21:25     4290      0.13 ips             1:33:52 rem | loss 0.14426498115062714
+saving /lustre/scratch/lul/tfdata/50hzhopper5cm_dataf200/baseloss5050f200b128/checkpoints/ckpt-4300
+# 2021-02-16 19:22:50     4300      0.12 ips             1:32:34 rem | loss 0.14305147528648376
+evaluating.. sim_000010 {'err_n1': 0.0016164573156856933, 'err_n2': 0.0032764644776761996}
+done
+# 2021-02-16 19:24:13     4310      0.12 ips             1:31:15 rem | loss 0.13143852353096008
+# 2021-02-16 19:25:30     4320      0.13 ips             1:29:55 rem | loss 0.1828751266002655
+# 2021-02-16 19:26:42     4330      0.14 ips             1:28:35 rem | loss 0.14040392637252808
+# 2021-02-16 19:28:00     4340      0.13 ips             1:27:15 rem | loss 0.11923512816429138
+# 2021-02-16 19:29:14     4350      0.14 ips             1:25:55 rem | loss 0.09889238327741623
+# 2021-02-16 19:30:30     4360      0.13 ips             1:24:35 rem | loss 0.14389944076538086
+# 2021-02-16 19:31:40     4370      0.14 ips             1:23:15 rem | loss 0.14374764263629913
+# 2021-02-16 19:32:52     4380      0.14 ips             1:21:54 rem | loss 0.15560825169086456
+# 2021-02-16 19:34:16     4390      0.12 ips             1:20:36 rem | loss 0.15089015662670135
+saving /lustre/scratch/lul/tfdata/50hzhopper5cm_dataf200/baseloss5050f200b128/checkpoints/ckpt-4400
+# 2021-02-16 19:35:30     4400      0.14 ips             1:19:16 rem | loss 0.1464521288871765
+evaluating.. sim_000010 {'err_n1': 0.0016179524089238839, 'err_n2': 0.0032726428675232456}
+done
+# 2021-02-16 19:36:41     4410      0.14 ips             1:17:55 rem | loss 0.12887953221797943
+# 2021-02-16 19:38:03     4420      0.12 ips             1:16:36 rem | loss 0.16543808579444885
+# 2021-02-16 19:39:21     4430      0.13 ips             1:15:17 rem | loss 0.12687546014785767
+# 2021-02-16 19:40:40     4440      0.13 ips             1:13:58 rem | loss 0.15866892039775848
+# 2021-02-16 19:42:02     4450      0.12 ips             1:12:39 rem | loss 0.11650096625089645
+# 2021-02-16 19:43:24     4460      0.12 ips             1:11:20 rem | loss 0.16387039422988892
+# 2021-02-16 19:44:33     4470      0.15 ips             1:09:59 rem | loss 0.13126800954341888
+# 2021-02-16 19:45:52     4480      0.13 ips             1:08:40 rem | loss 0.13667990267276764
+# 2021-02-16 19:47:16     4490      0.12 ips             1:07:21 rem | loss 0.12761834263801575
+saving /lustre/scratch/lul/tfdata/50hzhopper5cm_dataf200/baseloss5050f200b128/checkpoints/ckpt-4500
+# 2021-02-16 19:48:33     4500      0.13 ips             1:06:02 rem | loss 0.1333318054676056
+evaluating.. sim_000010 {'err_n1': 0.001617320342847961, 'err_n2': 0.0032722366806410717}
+done
+# 2021-02-16 19:49:45     4510      0.14 ips             1:04:42 rem | loss 0.1343623399734497
+# 2021-02-16 19:51:03     4520      0.13 ips             1:03:22 rem | loss 0.1471838355064392
+# 2021-02-16 19:52:21     4530      0.13 ips             1:02:03 rem | loss 0.16322766244411469
+# 2021-02-16 19:53:30     4540      0.15 ips             1:00:43 rem | loss 0.1430007666349411
+# 2021-02-16 19:54:44     4550      0.14 ips             0:59:23 rem | loss 0.1553640365600586
+# 2021-02-16 19:56:00     4560      0.13 ips             0:58:04 rem | loss 0.14335843920707703
+# 2021-02-16 19:57:16     4570      0.13 ips             0:56:44 rem | loss 0.13077771663665771
+# 2021-02-16 19:58:48     4580      0.11 ips             0:55:26 rem | loss 0.14018292725086212
+# 2021-02-16 20:00:05     4590      0.13 ips             0:54:07 rem | loss 0.1264023631811142
+saving /lustre/scratch/lul/tfdata/50hzhopper5cm_dataf200/baseloss5050f200b128/checkpoints/ckpt-4600
+# 2021-02-16 20:01:09     4600      0.16 ips             0:52:46 rem | loss 0.16343580186367035
+evaluating.. sim_000010 {'err_n1': 0.0016187985758733703, 'err_n2': 0.003270916462497553}
+done
+# 2021-02-16 20:02:37     4610      0.11 ips             0:51:28 rem | loss 0.14060334861278534
+# 2021-02-16 20:03:52     4620      0.13 ips             0:50:08 rem | loss 0.12744760513305664
+# 2021-02-16 20:05:01     4630      0.14 ips             0:48:48 rem | loss 0.1667974591255188
+# 2021-02-16 20:06:14     4640      0.14 ips             0:47:29 rem | loss 0.13395462930202484
+# 2021-02-16 20:07:27     4650      0.14 ips             0:46:09 rem | loss 0.14801564812660217
+# 2021-02-16 20:08:42     4660      0.13 ips             0:44:50 rem | loss 0.13709938526153564
+# 2021-02-16 20:10:13     4670      0.11 ips             0:43:31 rem | loss 0.1644403040409088
+# 2021-02-16 20:11:37     4680      0.12 ips             0:42:13 rem | loss 0.16158394515514374
+# 2021-02-16 20:12:47     4690      0.14 ips             0:40:53 rem | loss 0.12764210999011993
+saving /lustre/scratch/lul/tfdata/50hzhopper5cm_dataf200/baseloss5050f200b128/checkpoints/ckpt-4700
+# 2021-02-16 20:13:58     4700      0.14 ips             0:39:33 rem | loss 0.158893421292305
+evaluating.. sim_000010 {'err_n1': 0.0016183265746803955, 'err_n2': 0.003266196606273297}
+done
+# 2021-02-16 20:15:09     4710      0.14 ips             0:38:13 rem | loss 0.15948468446731567
+# 2021-02-16 20:16:17     4720      0.15 ips             0:36:54 rem | loss 0.12357432395219803
+# 2021-02-16 20:17:48     4730      0.11 ips             0:35:35 rem | loss 0.1517046093940735
+# 2021-02-16 20:18:59     4740      0.14 ips             0:34:16 rem | loss 0.13716068863868713
+# 2021-02-16 20:20:16     4750      0.13 ips             0:32:57 rem | loss 0.14612825214862823
+# 2021-02-16 20:21:41     4760      0.12 ips             0:31:38 rem | loss 0.14725781977176666
+# 2021-02-16 20:23:06     4770      0.12 ips             0:30:19 rem | loss 0.14798817038536072
+# 2021-02-16 20:24:26     4780      0.12 ips             0:29:00 rem | loss 0.13378901779651642
+# 2021-02-16 20:25:34     4790      0.15 ips             0:27:40 rem | loss 0.13900141417980194
+saving /lustre/scratch/lul/tfdata/50hzhopper5cm_dataf200/baseloss5050f200b128/checkpoints/ckpt-4800
+# 2021-02-16 20:26:44     4800      0.14 ips             0:26:21 rem | loss 0.1480940580368042
+evaluating.. sim_000010 {'err_n1': 0.0016185113268875283, 'err_n2': 0.003268885971920099}
+done
+# 2021-02-16 20:27:56     4810      0.14 ips             0:25:01 rem | loss 0.1330312043428421
+# 2021-02-16 20:29:15     4820      0.13 ips             0:23:42 rem | loss 0.16669313609600067
+# 2021-02-16 20:30:28     4830      0.14 ips             0:22:23 rem | loss 0.13951794803142548
+# 2021-02-16 20:31:45     4840      0.13 ips             0:21:04 rem | loss 0.14431746304035187
+# 2021-02-16 20:33:09     4850      0.12 ips             0:19:45 rem | loss 0.13341261446475983
+# 2021-02-16 20:34:30     4860      0.12 ips             0:18:26 rem | loss 0.16380654275417328
+# 2021-02-16 20:35:47     4870      0.13 ips             0:17:07 rem | loss 0.1455306112766266
+# 2021-02-16 20:37:05     4880      0.13 ips             0:15:48 rem | loss 0.14695318043231964
+# 2021-02-16 20:38:19     4890      0.14 ips             0:14:29 rem | loss 0.10411527752876282
+saving /lustre/scratch/lul/tfdata/50hzhopper5cm_dataf200/baseloss5050f200b128/checkpoints/ckpt-4900
+# 2021-02-16 20:39:42     4900      0.12 ips             0:13:10 rem | loss 0.13953466713428497
+evaluating.. sim_000010 {'err_n1': 0.0016167168978427071, 'err_n2': 0.0032649098262481856}
+done
+# 2021-02-16 20:40:52     4910      0.14 ips             0:11:51 rem | loss 0.18265128135681152
+# 2021-02-16 20:42:14     4920      0.12 ips             0:10:32 rem | loss 0.12330091744661331
+# 2021-02-16 20:43:33     4930      0.13 ips             0:09:13 rem | loss 0.15561650693416595
+# 2021-02-16 20:44:52     4940      0.13 ips             0:07:54 rem | loss 0.13152463734149933
+# 2021-02-16 20:45:58     4950      0.15 ips             0:06:35 rem | loss 0.13464140892028809
+# 2021-02-16 20:47:03     4960      0.15 ips             0:05:15 rem | loss 0.17997649312019348
+# 2021-02-16 20:48:26     4970      0.12 ips             0:03:56 rem | loss 0.12665387988090515
+# 2021-02-16 20:49:53     4980      0.12 ips             0:02:37 rem | loss 0.14749789237976074
+# 2021-02-16 20:51:10     4990      0.13 ips             0:01:18 rem | loss 0.17127332091331482
+saving /lustre/scratch/lul/tfdata/50hzhopper5cm_dataf200/baseloss5050f200b128/checkpoints/ckpt-5000
+MultiProcessRunnerZMQ successfully cleaned-up.

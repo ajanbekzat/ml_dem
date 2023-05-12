@@ -1,0 +1,403 @@
+['/lustre/scratch/lul/tfdata/50hz500/sim2_000000', '/lustre/scratch/lul/tfdata/50hz500/sim2_000001', '/lustre/scratch/lul/tfdata/50hz500/sim2_000002', '/lustre/scratch/lul/tfdata/50hz500/sim2_000003', '/lustre/scratch/lul/tfdata/50hz500/sim2_000004', '/lustre/scratch/lul/tfdata/50hz500/sim2_000005', '/lustre/scratch/lul/tfdata/50hz500/sim2_000006', '/lustre/scratch/lul/tfdata/50hz500/sim2_000007', '/lustre/scratch/lul/tfdata/50hz500/sim2_000008', '/lustre/scratch/lul/tfdata/50hz500/sim2_000009', '/lustre/scratch/lul/tfdata/50hz500/sim2_000010', '/lustre/scratch/lul/tfdata/50hz500/sim2_000011', '/lustre/scratch/lul/tfdata/50hz500/sim2_000012', '/lustre/scratch/lul/tfdata/50hz500/sim2_000013', '/lustre/scratch/lul/tfdata/50hz500/sim2_000014', '/lustre/scratch/lul/tfdata/50hz500/sim2_000015', '/lustre/scratch/lul/tfdata/50hz500/sim2_000016', '/lustre/scratch/lul/tfdata/50hz500/sim2_000017', '/lustre/scratch/lul/tfdata/50hz500/sim2_000018', '/lustre/scratch/lul/tfdata/50hz500/sim2_000019', '/lustre/scratch/lul/tfdata/50hz500/sim2_000020', '/lustre/scratch/lul/tfdata/50hz500/sim2_000021', '/lustre/scratch/lul/tfdata/50hz500/sim2_000022', '/lustre/scratch/lul/tfdata/50hz500/sim2_000023', '/lustre/scratch/lul/tfdata/50hz500/sim2_000024', '/lustre/scratch/lul/tfdata/50hz500/sim2_000025', '/lustre/scratch/lul/tfdata/50hz500/sim2_000026', '/lustre/scratch/lul/tfdata/50hz500/sim2_000027', '/lustre/scratch/lul/tfdata/50hz500/sim2_000028', '/lustre/scratch/lul/tfdata/50hz500/sim2_000029', '/lustre/scratch/lul/tfdata/50hz500/sim2_000030', '/lustre/scratch/lul/tfdata/50hz500/sim2_000031', '/lustre/scratch/lul/tfdata/50hz500/sim2_000032', '/lustre/scratch/lul/tfdata/50hz500/sim2_000033', '/lustre/scratch/lul/tfdata/50hz500/sim2_000034', '/lustre/scratch/lul/tfdata/50hz500/sim2_000035', '/lustre/scratch/lul/tfdata/50hz500/sim2_000036', '/lustre/scratch/lul/tfdata/50hz500/sim2_000037', '/lustre/scratch/lul/tfdata/50hz500/sim2_000038', '/lustre/scratch/lul/tfdata/50hz500/sim2_000039', '/lustre/scratch/lul/tfdata/50hz500/sim2_000040', '/lustre/scratch/lul/tfdata/50hz500/sim2_000041', '/lustre/scratch/lul/tfdata/50hz500/sim2_000042', '/lustre/scratch/lul/tfdata/50hz500/sim2_000043', '/lustre/scratch/lul/tfdata/50hz500/sim2_000044', '/lustre/scratch/lul/tfdata/50hz500/sim2_000045', '/lustre/scratch/lul/tfdata/50hz500/sim2_000046', '/lustre/scratch/lul/tfdata/50hz500/sim2_000047', '/lustre/scratch/lul/tfdata/50hz500/sim2_000048', '/lustre/scratch/lul/tfdata/50hz500/sim2_000049', '/lustre/scratch/lul/tfdata/50hz500/sim2_000050', '/lustre/scratch/lul/tfdata/50hz500/sim2_000051', '/lustre/scratch/lul/tfdata/50hz500/sim2_000052', '/lustre/scratch/lul/tfdata/50hz500/sim2_000053', '/lustre/scratch/lul/tfdata/50hz500/sim2_000054', '/lustre/scratch/lul/tfdata/50hz500/sim2_000055', '/lustre/scratch/lul/tfdata/50hz500/sim2_000056', '/lustre/scratch/lul/tfdata/50hz500/sim2_000057', '/lustre/scratch/lul/tfdata/50hz500/sim2_000058', '/lustre/scratch/lul/tfdata/50hz500/sim2_000059', '/lustre/scratch/lul/tfdata/50hz500/sim2_000060', '/lustre/scratch/lul/tfdata/50hz500/sim2_000061', '/lustre/scratch/lul/tfdata/50hz500/sim2_000062', '/lustre/scratch/lul/tfdata/50hz500/sim2_000063', '/lustre/scratch/lul/tfdata/50hz500/sim2_000064', '/lustre/scratch/lul/tfdata/50hz500/sim2_000065', '/lustre/scratch/lul/tfdata/50hz500/sim2_000066', '/lustre/scratch/lul/tfdata/50hz500/sim2_000067', '/lustre/scratch/lul/tfdata/50hz500/sim2_000068', '/lustre/scratch/lul/tfdata/50hz500/sim2_000069', '/lustre/scratch/lul/tfdata/50hz500/sim2_000070', '/lustre/scratch/lul/tfdata/50hz500/sim2_000071', '/lustre/scratch/lul/tfdata/50hz500/sim2_000072', '/lustre/scratch/lul/tfdata/50hz500/sim2_000073', '/lustre/scratch/lul/tfdata/50hz500/sim2_000074', '/lustre/scratch/lul/tfdata/50hz500/sim2_000075', '/lustre/scratch/lul/tfdata/50hz500/sim2_000076', '/lustre/scratch/lul/tfdata/50hz500/sim2_000077', '/lustre/scratch/lul/tfdata/50hz500/sim2_000078', '/lustre/scratch/lul/tfdata/50hz500/sim2_000079', '/lustre/scratch/lul/tfdata/50hz500/sim2_000080', '/lustre/scratch/lul/tfdata/50hz500/sim2_000081', '/lustre/scratch/lul/tfdata/50hz500/sim2_000082', '/lustre/scratch/lul/tfdata/50hz500/sim2_000083', '/lustre/scratch/lul/tfdata/50hz500/sim2_000084', '/lustre/scratch/lul/tfdata/50hz500/sim2_000085', '/lustre/scratch/lul/tfdata/50hz500/sim2_000086', '/lustre/scratch/lul/tfdata/50hz500/sim2_000087', '/lustre/scratch/lul/tfdata/50hz500/sim2_000088', '/lustre/scratch/lul/tfdata/50hz500/sim2_000089', '/lustre/scratch/lul/tfdata/50hz500/sim2_000090', '/lustre/scratch/lul/tfdata/50hz500/sim2_000091', '/lustre/scratch/lul/tfdata/50hz500/sim2_000092', '/lustre/scratch/lul/tfdata/50hz500/sim2_000093', '/lustre/scratch/lul/tfdata/50hz500/sim2_000094', '/lustre/scratch/lul/tfdata/50hz500/sim2_000095', '/lustre/scratch/lul/tfdata/50hz500/sim2_000096', '/lustre/scratch/lul/tfdata/50hz500/sim2_000097', '/lustre/scratch/lul/tfdata/50hz500/sim2_000098', '/lustre/scratch/lul/tfdata/50hz500/sim2_000099', '/lustre/scratch/lul/tfdata/50hz500/sim2_000100', '/lustre/scratch/lul/tfdata/50hz500/sim2_000101', '/lustre/scratch/lul/tfdata/50hz500/sim2_000102', '/lustre/scratch/lul/tfdata/50hz500/sim2_000103', '/lustre/scratch/lul/tfdata/50hz500/sim2_000104', '/lustre/scratch/lul/tfdata/50hz500/sim2_000105', '/lustre/scratch/lul/tfdata/50hz500/sim2_000106', '/lustre/scratch/lul/tfdata/50hz500/sim2_000107', '/lustre/scratch/lul/tfdata/50hz500/sim2_000108', '/lustre/scratch/lul/tfdata/50hz500/sim2_000109', '/lustre/scratch/lul/tfdata/50hz500/sim2_000110', '/lustre/scratch/lul/tfdata/50hz500/sim2_000111', '/lustre/scratch/lul/tfdata/50hz500/sim2_000112', '/lustre/scratch/lul/tfdata/50hz500/sim2_000113', '/lustre/scratch/lul/tfdata/50hz500/sim2_000114', '/lustre/scratch/lul/tfdata/50hz500/sim2_000115', '/lustre/scratch/lul/tfdata/50hz500/sim2_000116', '/lustre/scratch/lul/tfdata/50hz500/sim2_000117', '/lustre/scratch/lul/tfdata/50hz500/sim2_000118', '/lustre/scratch/lul/tfdata/50hz500/sim2_000119', '/lustre/scratch/lul/tfdata/50hz500/sim2_000120', '/lustre/scratch/lul/tfdata/50hz500/sim2_000121', '/lustre/scratch/lul/tfdata/50hz500/sim2_000122', '/lustre/scratch/lul/tfdata/50hz500/sim2_000123', '/lustre/scratch/lul/tfdata/50hz500/sim2_000124', '/lustre/scratch/lul/tfdata/50hz500/sim2_000125', '/lustre/scratch/lul/tfdata/50hz500/sim2_000126', '/lustre/scratch/lul/tfdata/50hz500/sim2_000127', '/lustre/scratch/lul/tfdata/50hz500/sim2_000128', '/lustre/scratch/lul/tfdata/50hz500/sim2_000129', '/lustre/scratch/lul/tfdata/50hz500/sim2_000130', '/lustre/scratch/lul/tfdata/50hz500/sim2_000131', '/lustre/scratch/lul/tfdata/50hz500/sim2_000132', '/lustre/scratch/lul/tfdata/50hz500/sim2_000133', '/lustre/scratch/lul/tfdata/50hz500/sim2_000134', '/lustre/scratch/lul/tfdata/50hz500/sim2_000136', '/lustre/scratch/lul/tfdata/50hz500/sim2_000137', '/lustre/scratch/lul/tfdata/50hz500/sim2_000138', '/lustre/scratch/lul/tfdata/50hz500/sim2_000139', '/lustre/scratch/lul/tfdata/50hz500/sim2_000140', '/lustre/scratch/lul/tfdata/50hz500/sim2_000141', '/lustre/scratch/lul/tfdata/50hz500/sim2_000142', '/lustre/scratch/lul/tfdata/50hz500/sim2_000143', '/lustre/scratch/lul/tfdata/50hz500/sim2_000144', '/lustre/scratch/lul/tfdata/50hz500/sim2_000145', '/lustre/scratch/lul/tfdata/50hz500/sim2_000146', '/lustre/scratch/lul/tfdata/50hz500/sim2_000147', '/lustre/scratch/lul/tfdata/50hz500/sim2_000148', '/lustre/scratch/lul/tfdata/50hz500/sim2_000149', '/lustre/scratch/lul/tfdata/50hz500/sim2_000150', '/lustre/scratch/lul/tfdata/50hz500/sim2_000151', '/lustre/scratch/lul/tfdata/50hz500/sim2_000152', '/lustre/scratch/lul/tfdata/50hz500/sim2_000153', '/lustre/scratch/lul/tfdata/50hz500/sim2_000154', '/lustre/scratch/lul/tfdata/50hz500/sim2_000155', '/lustre/scratch/lul/tfdata/50hz500/sim2_000156', '/lustre/scratch/lul/tfdata/50hz500/sim2_000157', '/lustre/scratch/lul/tfdata/50hz500/sim2_000158', '/lustre/scratch/lul/tfdata/50hz500/sim2_000159', '/lustre/scratch/lul/tfdata/50hz500/sim2_000160', '/lustre/scratch/lul/tfdata/50hz500/sim2_000161', '/lustre/scratch/lul/tfdata/50hz500/sim2_000162', '/lustre/scratch/lul/tfdata/50hz500/sim2_000163', '/lustre/scratch/lul/tfdata/50hz500/sim2_000164', '/lustre/scratch/lul/tfdata/50hz500/sim2_000165', '/lustre/scratch/lul/tfdata/50hz500/sim2_000166', '/lustre/scratch/lul/tfdata/50hz500/sim2_000167', '/lustre/scratch/lul/tfdata/50hz500/sim2_000168', '/lustre/scratch/lul/tfdata/50hz500/sim2_000169', '/lustre/scratch/lul/tfdata/50hz500/sim2_000170', '/lustre/scratch/lul/tfdata/50hz500/sim2_000171', '/lustre/scratch/lul/tfdata/50hz500/sim2_000172', '/lustre/scratch/lul/tfdata/50hz500/sim2_000173', '/lustre/scratch/lul/tfdata/50hz500/sim2_000174', '/lustre/scratch/lul/tfdata/50hz500/sim2_000175', '/lustre/scratch/lul/tfdata/50hz500/sim2_000176', '/lustre/scratch/lul/tfdata/50hz500/sim2_000177', '/lustre/scratch/lul/tfdata/50hz500/sim2_000178', '/lustre/scratch/lul/tfdata/50hz500/sim2_000179', '/lustre/scratch/lul/tfdata/50hz500/sim2_000180', '/lustre/scratch/lul/tfdata/50hz500/sim2_000181', '/lustre/scratch/lul/tfdata/50hz500/sim2_000182', '/lustre/scratch/lul/tfdata/50hz500/sim2_000183', '/lustre/scratch/lul/tfdata/50hz500/sim2_000184', '/lustre/scratch/lul/tfdata/50hz500/sim2_000185', '/lustre/scratch/lul/tfdata/50hz500/sim2_000186', '/lustre/scratch/lul/tfdata/50hz500/sim2_000187', '/lustre/scratch/lul/tfdata/50hz500/sim2_000188', '/lustre/scratch/lul/tfdata/50hz500/sim2_000189', '/lustre/scratch/lul/tfdata/50hz500/sim2_000190', '/lustre/scratch/lul/tfdata/50hz500/sim2_000191', '/lustre/scratch/lul/tfdata/50hz500/sim2_000192', '/lustre/scratch/lul/tfdata/50hz500/sim2_000193', '/lustre/scratch/lul/tfdata/50hz500/sim2_000194', '/lustre/scratch/lul/tfdata/50hz500/sim2_000195', '/lustre/scratch/lul/tfdata/50hz500/sim2_000196', '/lustre/scratch/lul/tfdata/50hz500/sim2_000197', '/lustre/scratch/lul/tfdata/50hz500/sim2_000198', '/lustre/scratch/lul/tfdata/50hz500/sim2_000199', '/lustre/scratch/lul/tfdata/50hz500/sim2_000200', '/lustre/scratch/lul/tfdata/50hz500/sim2_000201', '/lustre/scratch/lul/tfdata/50hz500/sim2_000202', '/lustre/scratch/lul/tfdata/50hz500/sim2_000203', '/lustre/scratch/lul/tfdata/50hz500/sim2_000204', '/lustre/scratch/lul/tfdata/50hz500/sim2_000205', '/lustre/scratch/lul/tfdata/50hz500/sim2_000206', '/lustre/scratch/lul/tfdata/50hz500/sim2_000207', '/lustre/scratch/lul/tfdata/50hz500/sim2_000208', '/lustre/scratch/lul/tfdata/50hz500/sim2_000209', '/lustre/scratch/lul/tfdata/50hz500/sim2_000210', '/lustre/scratch/lul/tfdata/50hz500/sim2_000211', '/lustre/scratch/lul/tfdata/50hz500/sim2_000212', '/lustre/scratch/lul/tfdata/50hz500/sim2_000213', '/lustre/scratch/lul/tfdata/50hz500/sim2_000214', '/lustre/scratch/lul/tfdata/50hz500/sim2_000215', '/lustre/scratch/lul/tfdata/50hz500/sim2_000216', '/lustre/scratch/lul/tfdata/50hz500/sim2_000217', '/lustre/scratch/lul/tfdata/50hz500/sim2_000218', '/lustre/scratch/lul/tfdata/50hz500/sim2_000219', '/lustre/scratch/lul/tfdata/50hz500/sim2_000220', '/lustre/scratch/lul/tfdata/50hz500/sim2_000221', '/lustre/scratch/lul/tfdata/50hz500/sim2_000222', '/lustre/scratch/lul/tfdata/50hz500/sim2_000223', '/lustre/scratch/lul/tfdata/50hz500/sim2_000224', '/lustre/scratch/lul/tfdata/50hz500/sim2_000225', '/lustre/scratch/lul/tfdata/50hz500/sim2_000226', '/lustre/scratch/lul/tfdata/50hz500/sim2_000227', '/lustre/scratch/lul/tfdata/50hz500/sim2_000228', '/lustre/scratch/lul/tfdata/50hz500/sim2_000229', '/lustre/scratch/lul/tfdata/50hz500/sim2_000230', '/lustre/scratch/lul/tfdata/50hz500/sim2_000231', '/lustre/scratch/lul/tfdata/50hz500/sim2_000232', '/lustre/scratch/lul/tfdata/50hz500/sim2_000233', '/lustre/scratch/lul/tfdata/50hz500/sim2_000234', '/lustre/scratch/lul/tfdata/50hz500/sim2_000235', '/lustre/scratch/lul/tfdata/50hz500/sim2_000237', '/lustre/scratch/lul/tfdata/50hz500/sim2_000238', '/lustre/scratch/lul/tfdata/50hz500/sim2_000239', '/lustre/scratch/lul/tfdata/50hz500/sim2_000240', '/lustre/scratch/lul/tfdata/50hz500/sim2_000241', '/lustre/scratch/lul/tfdata/50hz500/sim2_000242', '/lustre/scratch/lul/tfdata/50hz500/sim2_000243', '/lustre/scratch/lul/tfdata/50hz500/sim2_000244', '/lustre/scratch/lul/tfdata/50hz500/sim2_000245', '/lustre/scratch/lul/tfdata/50hz500/sim2_000246', '/lustre/scratch/lul/tfdata/50hz500/sim2_000247', '/lustre/scratch/lul/tfdata/50hz500/sim2_000248', '/lustre/scratch/lul/tfdata/50hz500/sim2_000249', '/lustre/scratch/lul/tfdata/50hz500/sim2_000250', '/lustre/scratch/lul/tfdata/50hz500/sim2_000251', '/lustre/scratch/lul/tfdata/50hz500/sim2_000252', '/lustre/scratch/lul/tfdata/50hz500/sim2_000253', '/lustre/scratch/lul/tfdata/50hz500/sim2_000254', '/lustre/scratch/lul/tfdata/50hz500/sim2_000255', '/lustre/scratch/lul/tfdata/50hz500/sim2_000256', '/lustre/scratch/lul/tfdata/50hz500/sim2_000257', '/lustre/scratch/lul/tfdata/50hz500/sim2_000258', '/lustre/scratch/lul/tfdata/50hz500/sim2_000259', '/lustre/scratch/lul/tfdata/50hz500/sim2_000260', '/lustre/scratch/lul/tfdata/50hz500/sim2_000261', '/lustre/scratch/lul/tfdata/50hz500/sim2_000262', '/lustre/scratch/lul/tfdata/50hz500/sim2_000263', '/lustre/scratch/lul/tfdata/50hz500/sim2_000264', '/lustre/scratch/lul/tfdata/50hz500/sim2_000265', '/lustre/scratch/lul/tfdata/50hz500/sim2_000266', '/lustre/scratch/lul/tfdata/50hz500/sim2_000267', '/lustre/scratch/lul/tfdata/50hz500/sim2_000268', '/lustre/scratch/lul/tfdata/50hz500/sim2_000269', '/lustre/scratch/lul/tfdata/50hz500/sim2_000270', '/lustre/scratch/lul/tfdata/50hz500/sim2_000271', '/lustre/scratch/lul/tfdata/50hz500/sim2_000272', '/lustre/scratch/lul/tfdata/50hz500/sim2_000273', '/lustre/scratch/lul/tfdata/50hz500/sim2_000274', '/lustre/scratch/lul/tfdata/50hz500/sim2_000275', '/lustre/scratch/lul/tfdata/50hz500/sim2_000276', '/lustre/scratch/lul/tfdata/50hz500/sim2_000277', '/lustre/scratch/lul/tfdata/50hz500/sim2_000278', '/lustre/scratch/lul/tfdata/50hz500/sim2_000279', '/lustre/scratch/lul/tfdata/50hz500/sim2_000280', '/lustre/scratch/lul/tfdata/50hz500/sim2_000281', '/lustre/scratch/lul/tfdata/50hz500/sim2_000282', '/lustre/scratch/lul/tfdata/50hz500/sim2_000283', '/lustre/scratch/lul/tfdata/50hz500/sim2_000284', '/lustre/scratch/lul/tfdata/50hz500/sim2_000285', '/lustre/scratch/lul/tfdata/50hz500/sim2_000286', '/lustre/scratch/lul/tfdata/50hz500/sim2_000287', '/lustre/scratch/lul/tfdata/50hz500/sim2_000288', '/lustre/scratch/lul/tfdata/50hz500/sim2_000289', '/lustre/scratch/lul/tfdata/50hz500/sim2_000290', '/lustre/scratch/lul/tfdata/50hz500/sim2_000291', '/lustre/scratch/lul/tfdata/50hz500/sim2_000292', '/lustre/scratch/lul/tfdata/50hz500/sim2_000293', '/lustre/scratch/lul/tfdata/50hz500/sim2_000294', '/lustre/scratch/lul/tfdata/50hz500/sim2_000295', '/lustre/scratch/lul/tfdata/50hz500/sim2_000296', '/lustre/scratch/lul/tfdata/50hz500/sim2_000297', '/lustre/scratch/lul/tfdata/50hz500/sim2_000298', '/lustre/scratch/lul/tfdata/50hz500/sim2_000299', '/lustre/scratch/lul/tfdata/50hz500/sim2_000300', '/lustre/scratch/lul/tfdata/50hz500/sim2_000301', '/lustre/scratch/lul/tfdata/50hz500/sim2_000302', '/lustre/scratch/lul/tfdata/50hz500/sim2_000303', '/lustre/scratch/lul/tfdata/50hz500/sim2_000304', '/lustre/scratch/lul/tfdata/50hz500/sim2_000305', '/lustre/scratch/lul/tfdata/50hz500/sim2_000306', '/lustre/scratch/lul/tfdata/50hz500/sim2_000307', '/lustre/scratch/lul/tfdata/50hz500/sim2_000308', '/lustre/scratch/lul/tfdata/50hz500/sim2_000309', '/lustre/scratch/lul/tfdata/50hz500/sim2_000310', '/lustre/scratch/lul/tfdata/50hz500/sim2_000311', '/lustre/scratch/lul/tfdata/50hz500/sim2_000312', '/lustre/scratch/lul/tfdata/50hz500/sim2_000313', '/lustre/scratch/lul/tfdata/50hz500/sim2_000314', '/lustre/scratch/lul/tfdata/50hz500/sim2_000315', '/lustre/scratch/lul/tfdata/50hz500/sim2_000316', '/lustre/scratch/lul/tfdata/50hz500/sim2_000317', '/lustre/scratch/lul/tfdata/50hz500/sim2_000318', '/lustre/scratch/lul/tfdata/50hz500/sim2_000319', '/lustre/scratch/lul/tfdata/50hz500/sim2_000320', '/lustre/scratch/lul/tfdata/50hz500/sim2_000321', '/lustre/scratch/lul/tfdata/50hz500/sim2_000322', '/lustre/scratch/lul/tfdata/50hz500/sim2_000323', '/lustre/scratch/lul/tfdata/50hz500/sim2_000324', '/lustre/scratch/lul/tfdata/50hz500/sim2_000325', '/lustre/scratch/lul/tfdata/50hz500/sim2_000326', '/lustre/scratch/lul/tfdata/50hz500/sim2_000327', '/lustre/scratch/lul/tfdata/50hz500/sim2_000328', '/lustre/scratch/lul/tfdata/50hz500/sim2_000329', '/lustre/scratch/lul/tfdata/50hz500/sim2_000330', '/lustre/scratch/lul/tfdata/50hz500/sim2_000331', '/lustre/scratch/lul/tfdata/50hz500/sim2_000332', '/lustre/scratch/lul/tfdata/50hz500/sim2_000333', '/lustre/scratch/lul/tfdata/50hz500/sim2_000334', '/lustre/scratch/lul/tfdata/50hz500/sim2_000335', '/lustre/scratch/lul/tfdata/50hz500/sim2_000336', '/lustre/scratch/lul/tfdata/50hz500/sim2_000337', '/lustre/scratch/lul/tfdata/50hz500/sim2_000338', '/lustre/scratch/lul/tfdata/50hz500/sim2_000339', '/lustre/scratch/lul/tfdata/50hz500/sim2_000340', '/lustre/scratch/lul/tfdata/50hz500/sim2_000341', '/lustre/scratch/lul/tfdata/50hz500/sim2_000342', '/lustre/scratch/lul/tfdata/50hz500/sim2_000343', '/lustre/scratch/lul/tfdata/50hz500/sim2_000344', '/lustre/scratch/lul/tfdata/50hz500/sim2_000345', '/lustre/scratch/lul/tfdata/50hz500/sim2_000346', '/lustre/scratch/lul/tfdata/50hz500/sim2_000347', '/lustre/scratch/lul/tfdata/50hz500/sim2_000348', '/lustre/scratch/lul/tfdata/50hz500/sim2_000349', '/lustre/scratch/lul/tfdata/50hz500/sim2_000350', '/lustre/scratch/lul/tfdata/50hz500/sim2_000351', '/lustre/scratch/lul/tfdata/50hz500/sim2_000352', '/lustre/scratch/lul/tfdata/50hz500/sim2_000353', '/lustre/scratch/lul/tfdata/50hz500/sim2_000354', '/lustre/scratch/lul/tfdata/50hz500/sim2_000355', '/lustre/scratch/lul/tfdata/50hz500/sim2_000356', '/lustre/scratch/lul/tfdata/50hz500/sim2_000357', '/lustre/scratch/lul/tfdata/50hz500/sim2_000358', '/lustre/scratch/lul/tfdata/50hz500/sim2_000359', '/lustre/scratch/lul/tfdata/50hz500/sim2_000360', '/lustre/scratch/lul/tfdata/50hz500/sim2_000361', '/lustre/scratch/lul/tfdata/50hz500/sim2_000362', '/lustre/scratch/lul/tfdata/50hz500/sim2_000363', '/lustre/scratch/lul/tfdata/50hz500/sim2_000364', '/lustre/scratch/lul/tfdata/50hz500/sim2_000365', '/lustre/scratch/lul/tfdata/50hz500/sim2_000366', '/lustre/scratch/lul/tfdata/50hz500/sim2_000367', '/lustre/scratch/lul/tfdata/50hz500/sim2_000368', '/lustre/scratch/lul/tfdata/50hz500/sim2_000369', '/lustre/scratch/lul/tfdata/50hz500/sim2_000370', '/lustre/scratch/lul/tfdata/50hz500/sim2_000371', '/lustre/scratch/lul/tfdata/50hz500/sim2_000372', '/lustre/scratch/lul/tfdata/50hz500/sim2_000373', '/lustre/scratch/lul/tfdata/50hz500/sim2_000374', '/lustre/scratch/lul/tfdata/50hz500/sim2_000375', '/lustre/scratch/lul/tfdata/50hz500/sim2_000376', '/lustre/scratch/lul/tfdata/50hz500/sim2_000377', '/lustre/scratch/lul/tfdata/50hz500/sim2_000378', '/lustre/scratch/lul/tfdata/50hz500/sim2_000379', '/lustre/scratch/lul/tfdata/50hz500/sim2_000380', '/lustre/scratch/lul/tfdata/50hz500/sim2_000381', '/lustre/scratch/lul/tfdata/50hz500/sim2_000382', '/lustre/scratch/lul/tfdata/50hz500/sim2_000383', '/lustre/scratch/lul/tfdata/50hz500/sim2_000384', '/lustre/scratch/lul/tfdata/50hz500/sim2_000385', '/lustre/scratch/lul/tfdata/50hz500/sim2_000386', '/lustre/scratch/lul/tfdata/50hz500/sim2_000387', '/lustre/scratch/lul/tfdata/50hz500/sim2_000388', '/lustre/scratch/lul/tfdata/50hz500/sim2_000389', '/lustre/scratch/lul/tfdata/50hz500/sim2_000390', '/lustre/scratch/lul/tfdata/50hz500/sim2_000391', '/lustre/scratch/lul/tfdata/50hz500/sim2_000392', '/lustre/scratch/lul/tfdata/50hz500/sim2_000393', '/lustre/scratch/lul/tfdata/50hz500/sim2_000394', '/lustre/scratch/lul/tfdata/50hz500/sim2_000395', '/lustre/scratch/lul/tfdata/50hz500/sim2_000396', '/lustre/scratch/lul/tfdata/50hz500/sim2_000397', '/lustre/scratch/lul/tfdata/50hz500/sim2_000398', '/lustre/scratch/lul/tfdata/50hz500/sim2_000399', '/lustre/scratch/lul/tfdata/50hz500/sim2_000400', '/lustre/scratch/lul/tfdata/50hz500/sim2_000401', '/lustre/scratch/lul/tfdata/50hz500/sim2_000402', '/lustre/scratch/lul/tfdata/50hz500/sim2_000403', '/lustre/scratch/lul/tfdata/50hz500/sim2_000404', '/lustre/scratch/lul/tfdata/50hz500/sim2_000405', '/lustre/scratch/lul/tfdata/50hz500/sim2_000406', '/lustre/scratch/lul/tfdata/50hz500/sim2_000407', '/lustre/scratch/lul/tfdata/50hz500/sim2_000408', '/lustre/scratch/lul/tfdata/50hz500/sim2_000409', '/lustre/scratch/lul/tfdata/50hz500/sim2_000410', '/lustre/scratch/lul/tfdata/50hz500/sim2_000411', '/lustre/scratch/lul/tfdata/50hz500/sim2_000412', '/lustre/scratch/lul/tfdata/50hz500/sim2_000413', '/lustre/scratch/lul/tfdata/50hz500/sim2_000414', '/lustre/scratch/lul/tfdata/50hz500/sim2_000415', '/lustre/scratch/lul/tfdata/50hz500/sim2_000416', '/lustre/scratch/lul/tfdata/50hz500/sim2_000417', '/lustre/scratch/lul/tfdata/50hz500/sim2_000418', '/lustre/scratch/lul/tfdata/50hz500/sim2_000419', '/lustre/scratch/lul/tfdata/50hz500/sim2_000420', '/lustre/scratch/lul/tfdata/50hz500/sim2_000421', '/lustre/scratch/lul/tfdata/50hz500/sim2_000422', '/lustre/scratch/lul/tfdata/50hz500/sim2_000423', '/lustre/scratch/lul/tfdata/50hz500/sim2_000424', '/lustre/scratch/lul/tfdata/50hz500/sim2_000425', '/lustre/scratch/lul/tfdata/50hz500/sim2_000426', '/lustre/scratch/lul/tfdata/50hz500/sim2_000427', '/lustre/scratch/lul/tfdata/50hz500/sim2_000428', '/lustre/scratch/lul/tfdata/50hz500/sim2_000429', '/lustre/scratch/lul/tfdata/50hz500/sim2_000430', '/lustre/scratch/lul/tfdata/50hz500/sim2_000431', '/lustre/scratch/lul/tfdata/50hz500/sim2_000432', '/lustre/scratch/lul/tfdata/50hz500/sim2_000433', '/lustre/scratch/lul/tfdata/50hz500/sim2_000434', '/lustre/scratch/lul/tfdata/50hz500/sim2_000435', '/lustre/scratch/lul/tfdata/50hz500/sim2_000436', '/lustre/scratch/lul/tfdata/50hz500/sim2_000437', '/lustre/scratch/lul/tfdata/50hz500/sim2_000438', '/lustre/scratch/lul/tfdata/50hz500/sim2_000439', '/lustre/scratch/lul/tfdata/50hz500/sim2_000440', '/lustre/scratch/lul/tfdata/50hz500/sim2_000441', '/lustre/scratch/lul/tfdata/50hz500/sim2_000442', '/lustre/scratch/lul/tfdata/50hz500/sim2_000443', '/lustre/scratch/lul/tfdata/50hz500/sim2_000444', '/lustre/scratch/lul/tfdata/50hz500/sim2_000445', '/lustre/scratch/lul/tfdata/50hz500/sim2_000446', '/lustre/scratch/lul/tfdata/50hz500/sim2_000447', '/lustre/scratch/lul/tfdata/50hz500/sim2_000448', '/lustre/scratch/lul/tfdata/50hz500/sim2_000449', '/lustre/scratch/lul/tfdata/50hz500/sim2_000450', '/lustre/scratch/lul/tfdata/50hz500/sim2_000451', '/lustre/scratch/lul/tfdata/50hz500/sim2_000452', '/lustre/scratch/lul/tfdata/50hz500/sim2_000453', '/lustre/scratch/lul/tfdata/50hz500/sim2_000454', '/lustre/scratch/lul/tfdata/50hz500/sim2_000455', '/lustre/scratch/lul/tfdata/50hz500/sim2_000456', '/lustre/scratch/lul/tfdata/50hz500/sim2_000457', '/lustre/scratch/lul/tfdata/50hz500/sim2_000458', '/lustre/scratch/lul/tfdata/50hz500/sim2_000459', '/lustre/scratch/lul/tfdata/50hz500/sim2_000460', '/lustre/scratch/lul/tfdata/50hz500/sim2_000461', '/lustre/scratch/lul/tfdata/50hz500/sim2_000462', '/lustre/scratch/lul/tfdata/50hz500/sim2_000463', '/lustre/scratch/lul/tfdata/50hz500/sim2_000464', '/lustre/scratch/lul/tfdata/50hz500/sim2_000465', '/lustre/scratch/lul/tfdata/50hz500/sim2_000466', '/lustre/scratch/lul/tfdata/50hz500/sim2_000467', '/lustre/scratch/lul/tfdata/50hz500/sim2_000468', '/lustre/scratch/lul/tfdata/50hz500/sim2_000469', '/lustre/scratch/lul/tfdata/50hz500/sim2_000470', '/lustre/scratch/lul/tfdata/50hz500/sim2_000471', '/lustre/scratch/lul/tfdata/50hz500/sim2_000472', '/lustre/scratch/lul/tfdata/50hz500/sim2_000473', '/lustre/scratch/lul/tfdata/50hz500/sim2_000474', '/lustre/scratch/lul/tfdata/50hz500/sim2_000475', '/lustre/scratch/lul/tfdata/50hz500/sim2_000476', '/lustre/scratch/lul/tfdata/50hz500/sim2_000477', '/lustre/scratch/lul/tfdata/50hz500/sim2_000478', '/lustre/scratch/lul/tfdata/50hz500/sim2_000479', '/lustre/scratch/lul/tfdata/50hz500/sim2_000480', '/lustre/scratch/lul/tfdata/50hz500/sim2_000481', '/lustre/scratch/lul/tfdata/50hz500/sim2_000482', '/lustre/scratch/lul/tfdata/50hz500/sim2_000483', '/lustre/scratch/lul/tfdata/50hz500/sim2_000484', '/lustre/scratch/lul/tfdata/50hz500/sim2_000485', '/lustre/scratch/lul/tfdata/50hz500/sim2_000486', '/lustre/scratch/lul/tfdata/50hz500/sim2_000487', '/lustre/scratch/lul/tfdata/50hz500/sim2_000488', '/lustre/scratch/lul/tfdata/50hz500/sim2_000489', '/lustre/scratch/lul/tfdata/50hz500/sim2_000490', '/lustre/scratch/lul/tfdata/50hz500/sim2_000491', '/lustre/scratch/lul/tfdata/50hz500/sim2_000492', '/lustre/scratch/lul/tfdata/50hz500/sim2_000493', '/lustre/scratch/lul/tfdata/50hz500/sim2_000494', '/lustre/scratch/lul/tfdata/50hz500/sim2_000495', '/lustre/scratch/lul/tfdata/50hz500/sim2_000496', '/lustre/scratch/lul/tfdata/50hz500/sim2_000497', '/lustre/scratch/lul/tfdata/50hz500/sim2_000498', '/lustre/scratch/lul/tfdata/50hz500/sim2_000499']
+/lustre/scratch/lul/tfdata/50hz500/sim2_000000
+sim2_000000
+radius=0.0125, np=37582
+--------------Processing------/lustre/scratch/lul/tfdata/50hz500/sim2_000000 frames=0
+writing /lustre/scratch/lul/tfdata/50hz_data500/sim2_000000_00.msgpack.zst
+/lustre/scratch/lul/tfdata/50hz500/sim2_000001
+sim2_000001
+radius=0.0125, np=38074
+--------------Processing------/lustre/scratch/lul/tfdata/50hz500/sim2_000001 frames=0
+writing /lustre/scratch/lul/tfdata/50hz_data500/sim2_000001_00.msgpack.zst
+/lustre/scratch/lul/tfdata/50hz500/sim2_000002
+sim2_000002
+radius=0.0125, np=38118
+--------------Processing------/lustre/scratch/lul/tfdata/50hz500/sim2_000002 frames=0
+writing /lustre/scratch/lul/tfdata/50hz_data500/sim2_000002_00.msgpack.zst
+/lustre/scratch/lul/tfdata/50hz500/sim2_000003
+sim2_000003
+radius=0.0125, np=28972
+--------------Processing------/lustre/scratch/lul/tfdata/50hz500/sim2_000003 frames=0
+writing /lustre/scratch/lul/tfdata/50hz_data500/sim2_000003_00.msgpack.zst
+/lustre/scratch/lul/tfdata/50hz500/sim2_000004
+sim2_000004
+radius=0.0125, np=28972
+--------------Processing------/lustre/scratch/lul/tfdata/50hz500/sim2_000004 frames=0
+writing /lustre/scratch/lul/tfdata/50hz_data500/sim2_000004_00.msgpack.zst
+/lustre/scratch/lul/tfdata/50hz500/sim2_000005
+sim2_000005
+radius=0.0125, np=41252
+--------------Processing------/lustre/scratch/lul/tfdata/50hz500/sim2_000005 frames=0
+writing /lustre/scratch/lul/tfdata/50hz_data500/sim2_000005_00.msgpack.zst
+/lustre/scratch/lul/tfdata/50hz500/sim2_000006
+sim2_000006
+radius=0.0125, np=28972
+--------------Processing------/lustre/scratch/lul/tfdata/50hz500/sim2_000006 frames=0
+writing /lustre/scratch/lul/tfdata/50hz_data500/sim2_000006_00.msgpack.zst
+/lustre/scratch/lul/tfdata/50hz500/sim2_000007
+sim2_000007
+radius=0.0125, np=32593
+--------------Processing------/lustre/scratch/lul/tfdata/50hz500/sim2_000007 frames=0
+writing /lustre/scratch/lul/tfdata/50hz_data500/sim2_000007_00.msgpack.zst
+/lustre/scratch/lul/tfdata/50hz500/sim2_000008
+sim2_000008
+radius=0.0125, np=29833
+--------------Processing------/lustre/scratch/lul/tfdata/50hz500/sim2_000008 frames=0
+writing /lustre/scratch/lul/tfdata/50hz_data500/sim2_000008_00.msgpack.zst
+/lustre/scratch/lul/tfdata/50hz500/sim2_000009
+sim2_000009
+radius=0.0125, np=29934
+--------------Processing------/lustre/scratch/lul/tfdata/50hz500/sim2_000009 frames=0
+writing /lustre/scratch/lul/tfdata/50hz_data500/sim2_000009_00.msgpack.zst
+/lustre/scratch/lul/tfdata/50hz500/sim2_000010
+sim2_000010
+radius=0.0125, np=29985
+--------------Processing------/lustre/scratch/lul/tfdata/50hz500/sim2_000010 frames=0
+writing /lustre/scratch/lul/tfdata/50hz_data500/sim2_000010_00.msgpack.zst
+/lustre/scratch/lul/tfdata/50hz500/sim2_000011
+sim2_000011
+radius=0.0125, np=31659
+--------------Processing------/lustre/scratch/lul/tfdata/50hz500/sim2_000011 frames=0
+writing /lustre/scratch/lul/tfdata/50hz_data500/sim2_000011_00.msgpack.zst
+/lustre/scratch/lul/tfdata/50hz500/sim2_000012
+sim2_000012
+radius=0.0125, np=28972
+--------------Processing------/lustre/scratch/lul/tfdata/50hz500/sim2_000012 frames=0
+writing /lustre/scratch/lul/tfdata/50hz_data500/sim2_000012_00.msgpack.zst
+/lustre/scratch/lul/tfdata/50hz500/sim2_000013
+sim2_000013
+radius=0.0125, np=29481
+--------------Processing------/lustre/scratch/lul/tfdata/50hz500/sim2_000013 frames=0
+writing /lustre/scratch/lul/tfdata/50hz_data500/sim2_000013_00.msgpack.zst
+/lustre/scratch/lul/tfdata/50hz500/sim2_000014
+sim2_000014
+radius=0.0125, np=30015
+--------------Processing------/lustre/scratch/lul/tfdata/50hz500/sim2_000014 frames=0
+writing /lustre/scratch/lul/tfdata/50hz_data500/sim2_000014_00.msgpack.zst
+/lustre/scratch/lul/tfdata/50hz500/sim2_000015
+sim2_000015
+radius=0.0125, np=35246
+--------------Processing------/lustre/scratch/lul/tfdata/50hz500/sim2_000015 frames=0
+writing /lustre/scratch/lul/tfdata/50hz_data500/sim2_000015_00.msgpack.zst
+/lustre/scratch/lul/tfdata/50hz500/sim2_000016
+sim2_000016
+radius=0.0125, np=28972
+--------------Processing------/lustre/scratch/lul/tfdata/50hz500/sim2_000016 frames=0
+writing /lustre/scratch/lul/tfdata/50hz_data500/sim2_000016_00.msgpack.zst
+/lustre/scratch/lul/tfdata/50hz500/sim2_000017
+sim2_000017
+radius=0.0125, np=28972
+--------------Processing------/lustre/scratch/lul/tfdata/50hz500/sim2_000017 frames=0
+writing /lustre/scratch/lul/tfdata/50hz_data500/sim2_000017_00.msgpack.zst
+/lustre/scratch/lul/tfdata/50hz500/sim2_000018
+sim2_000018
+radius=0.0125, np=30254
+--------------Processing------/lustre/scratch/lul/tfdata/50hz500/sim2_000018 frames=0
+writing /lustre/scratch/lul/tfdata/50hz_data500/sim2_000018_00.msgpack.zst
+/lustre/scratch/lul/tfdata/50hz500/sim2_000019
+sim2_000019
+radius=0.0125, np=28972
+--------------Processing------/lustre/scratch/lul/tfdata/50hz500/sim2_000019 frames=0
+writing /lustre/scratch/lul/tfdata/50hz_data500/sim2_000019_00.msgpack.zst
+/lustre/scratch/lul/tfdata/50hz500/sim2_000020
+sim2_000020
+radius=0.0125, np=30284
+--------------Processing------/lustre/scratch/lul/tfdata/50hz500/sim2_000020 frames=0
+writing /lustre/scratch/lul/tfdata/50hz_data500/sim2_000020_00.msgpack.zst
+/lustre/scratch/lul/tfdata/50hz500/sim2_000021
+sim2_000021
+radius=0.0125, np=30168
+--------------Processing------/lustre/scratch/lul/tfdata/50hz500/sim2_000021 frames=0
+writing /lustre/scratch/lul/tfdata/50hz_data500/sim2_000021_00.msgpack.zst
+/lustre/scratch/lul/tfdata/50hz500/sim2_000022
+sim2_000022
+radius=0.0125, np=36660
+--------------Processing------/lustre/scratch/lul/tfdata/50hz500/sim2_000022 frames=0
+writing /lustre/scratch/lul/tfdata/50hz_data500/sim2_000022_00.msgpack.zst
+/lustre/scratch/lul/tfdata/50hz500/sim2_000023
+sim2_000023
+radius=0.0125, np=28972
+--------------Processing------/lustre/scratch/lul/tfdata/50hz500/sim2_000023 frames=0
+writing /lustre/scratch/lul/tfdata/50hz_data500/sim2_000023_00.msgpack.zst
+/lustre/scratch/lul/tfdata/50hz500/sim2_000024
+sim2_000024
+radius=0.0125, np=30396
+--------------Processing------/lustre/scratch/lul/tfdata/50hz500/sim2_000024 frames=0
+writing /lustre/scratch/lul/tfdata/50hz_data500/sim2_000024_00.msgpack.zst
+/lustre/scratch/lul/tfdata/50hz500/sim2_000025
+sim2_000025
+radius=0.0125, np=28972
+--------------Processing------/lustre/scratch/lul/tfdata/50hz500/sim2_000025 frames=0
+writing /lustre/scratch/lul/tfdata/50hz_data500/sim2_000025_00.msgpack.zst
+/lustre/scratch/lul/tfdata/50hz500/sim2_000026
+sim2_000026
+radius=0.0125, np=32666
+--------------Processing------/lustre/scratch/lul/tfdata/50hz500/sim2_000026 frames=0
+writing /lustre/scratch/lul/tfdata/50hz_data500/sim2_000026_00.msgpack.zst
+/lustre/scratch/lul/tfdata/50hz500/sim2_000027
+sim2_000027
+radius=0.0125, np=28972
+--------------Processing------/lustre/scratch/lul/tfdata/50hz500/sim2_000027 frames=0
+writing /lustre/scratch/lul/tfdata/50hz_data500/sim2_000027_00.msgpack.zst
+/lustre/scratch/lul/tfdata/50hz500/sim2_000028
+sim2_000028
+radius=0.0125, np=33422
+--------------Processing------/lustre/scratch/lul/tfdata/50hz500/sim2_000028 frames=0
+writing /lustre/scratch/lul/tfdata/50hz_data500/sim2_000028_00.msgpack.zst
+/lustre/scratch/lul/tfdata/50hz500/sim2_000029
+sim2_000029
+radius=0.0125, np=28972
+--------------Processing------/lustre/scratch/lul/tfdata/50hz500/sim2_000029 frames=0
+writing /lustre/scratch/lul/tfdata/50hz_data500/sim2_000029_00.msgpack.zst
+/lustre/scratch/lul/tfdata/50hz500/sim2_000030
+sim2_000030
+radius=0.0125, np=30326
+--------------Processing------/lustre/scratch/lul/tfdata/50hz500/sim2_000030 frames=0
+writing /lustre/scratch/lul/tfdata/50hz_data500/sim2_000030_00.msgpack.zst
+/lustre/scratch/lul/tfdata/50hz500/sim2_000031
+sim2_000031
+radius=0.0125, np=30478
+--------------Processing------/lustre/scratch/lul/tfdata/50hz500/sim2_000031 frames=0
+writing /lustre/scratch/lul/tfdata/50hz_data500/sim2_000031_00.msgpack.zst
+/lustre/scratch/lul/tfdata/50hz500/sim2_000032
+sim2_000032
+radius=0.0125, np=28972
+--------------Processing------/lustre/scratch/lul/tfdata/50hz500/sim2_000032 frames=0
+writing /lustre/scratch/lul/tfdata/50hz_data500/sim2_000032_00.msgpack.zst
+/lustre/scratch/lul/tfdata/50hz500/sim2_000033
+sim2_000033
+radius=0.0125, np=33028
+--------------Processing------/lustre/scratch/lul/tfdata/50hz500/sim2_000033 frames=0
+writing /lustre/scratch/lul/tfdata/50hz_data500/sim2_000033_00.msgpack.zst
+/lustre/scratch/lul/tfdata/50hz500/sim2_000034
+sim2_000034
+radius=0.0125, np=43159
+--------------Processing------/lustre/scratch/lul/tfdata/50hz500/sim2_000034 frames=0
+writing /lustre/scratch/lul/tfdata/50hz_data500/sim2_000034_00.msgpack.zst
+/lustre/scratch/lul/tfdata/50hz500/sim2_000035
+sim2_000035
+radius=0.0125, np=40134
+--------------Processing------/lustre/scratch/lul/tfdata/50hz500/sim2_000035 frames=0
+writing /lustre/scratch/lul/tfdata/50hz_data500/sim2_000035_00.msgpack.zst
+/lustre/scratch/lul/tfdata/50hz500/sim2_000036
+sim2_000036
+radius=0.0125, np=28972
+--------------Processing------/lustre/scratch/lul/tfdata/50hz500/sim2_000036 frames=0
+writing /lustre/scratch/lul/tfdata/50hz_data500/sim2_000036_00.msgpack.zst
+/lustre/scratch/lul/tfdata/50hz500/sim2_000037
+sim2_000037
+radius=0.0125, np=28972
+--------------Processing------/lustre/scratch/lul/tfdata/50hz500/sim2_000037 frames=0
+writing /lustre/scratch/lul/tfdata/50hz_data500/sim2_000037_00.msgpack.zst
+/lustre/scratch/lul/tfdata/50hz500/sim2_000038
+sim2_000038
+radius=0.0125, np=36719
+--------------Processing------/lustre/scratch/lul/tfdata/50hz500/sim2_000038 frames=0
+writing /lustre/scratch/lul/tfdata/50hz_data500/sim2_000038_00.msgpack.zst
+/lustre/scratch/lul/tfdata/50hz500/sim2_000039
+sim2_000039
+radius=0.0125, np=35798
+--------------Processing------/lustre/scratch/lul/tfdata/50hz500/sim2_000039 frames=0
+writing /lustre/scratch/lul/tfdata/50hz_data500/sim2_000039_00.msgpack.zst
+/lustre/scratch/lul/tfdata/50hz500/sim2_000040
+sim2_000040
+radius=0.0125, np=30111
+--------------Processing------/lustre/scratch/lul/tfdata/50hz500/sim2_000040 frames=0
+writing /lustre/scratch/lul/tfdata/50hz_data500/sim2_000040_00.msgpack.zst
+/lustre/scratch/lul/tfdata/50hz500/sim2_000041
+sim2_000041
+radius=0.0125, np=30842
+--------------Processing------/lustre/scratch/lul/tfdata/50hz500/sim2_000041 frames=0
+writing /lustre/scratch/lul/tfdata/50hz_data500/sim2_000041_00.msgpack.zst
+/lustre/scratch/lul/tfdata/50hz500/sim2_000042
+sim2_000042
+radius=0.0125, np=28972
+--------------Processing------/lustre/scratch/lul/tfdata/50hz500/sim2_000042 frames=0
+writing /lustre/scratch/lul/tfdata/50hz_data500/sim2_000042_00.msgpack.zst
+/lustre/scratch/lul/tfdata/50hz500/sim2_000043
+sim2_000043
+radius=0.0125, np=28972
+--------------Processing------/lustre/scratch/lul/tfdata/50hz500/sim2_000043 frames=0
+writing /lustre/scratch/lul/tfdata/50hz_data500/sim2_000043_00.msgpack.zst
+/lustre/scratch/lul/tfdata/50hz500/sim2_000044
+sim2_000044
+radius=0.0125, np=28972
+--------------Processing------/lustre/scratch/lul/tfdata/50hz500/sim2_000044 frames=0
+writing /lustre/scratch/lul/tfdata/50hz_data500/sim2_000044_00.msgpack.zst
+/lustre/scratch/lul/tfdata/50hz500/sim2_000045
+sim2_000045
+radius=0.0125, np=32498
+--------------Processing------/lustre/scratch/lul/tfdata/50hz500/sim2_000045 frames=0
+writing /lustre/scratch/lul/tfdata/50hz_data500/sim2_000045_00.msgpack.zst
+/lustre/scratch/lul/tfdata/50hz500/sim2_000046
+sim2_000046
+radius=0.0125, np=28972
+--------------Processing------/lustre/scratch/lul/tfdata/50hz500/sim2_000046 frames=0
+writing /lustre/scratch/lul/tfdata/50hz_data500/sim2_000046_00.msgpack.zst
+/lustre/scratch/lul/tfdata/50hz500/sim2_000047
+sim2_000047
+radius=0.0125, np=33352
+--------------Processing------/lustre/scratch/lul/tfdata/50hz500/sim2_000047 frames=0
+writing /lustre/scratch/lul/tfdata/50hz_data500/sim2_000047_00.msgpack.zst
+/lustre/scratch/lul/tfdata/50hz500/sim2_000048
+sim2_000048
+radius=0.0125, np=28972
+--------------Processing------/lustre/scratch/lul/tfdata/50hz500/sim2_000048 frames=0
+writing /lustre/scratch/lul/tfdata/50hz_data500/sim2_000048_00.msgpack.zst
+/lustre/scratch/lul/tfdata/50hz500/sim2_000049
+sim2_000049
+radius=0.0125, np=39869
+--------------Processing------/lustre/scratch/lul/tfdata/50hz500/sim2_000049 frames=0
+writing /lustre/scratch/lul/tfdata/50hz_data500/sim2_000049_00.msgpack.zst
+/lustre/scratch/lul/tfdata/50hz500/sim2_000050
+sim2_000050
+radius=0.0125, np=30039
+--------------Processing------/lustre/scratch/lul/tfdata/50hz500/sim2_000050 frames=0
+writing /lustre/scratch/lul/tfdata/50hz_data500/sim2_000050_00.msgpack.zst
+/lustre/scratch/lul/tfdata/50hz500/sim2_000051
+sim2_000051
+radius=0.0125, np=28972
+--------------Processing------/lustre/scratch/lul/tfdata/50hz500/sim2_000051 frames=0
+writing /lustre/scratch/lul/tfdata/50hz_data500/sim2_000051_00.msgpack.zst
+/lustre/scratch/lul/tfdata/50hz500/sim2_000052
+sim2_000052
+radius=0.0125, np=28972
+--------------Processing------/lustre/scratch/lul/tfdata/50hz500/sim2_000052 frames=0
+writing /lustre/scratch/lul/tfdata/50hz_data500/sim2_000052_00.msgpack.zst
+/lustre/scratch/lul/tfdata/50hz500/sim2_000053
+sim2_000053
+radius=0.0125, np=28972
+--------------Processing------/lustre/scratch/lul/tfdata/50hz500/sim2_000053 frames=0
+writing /lustre/scratch/lul/tfdata/50hz_data500/sim2_000053_00.msgpack.zst
+/lustre/scratch/lul/tfdata/50hz500/sim2_000054
+sim2_000054
+radius=0.0125, np=28972
+--------------Processing------/lustre/scratch/lul/tfdata/50hz500/sim2_000054 frames=0
+writing /lustre/scratch/lul/tfdata/50hz_data500/sim2_000054_00.msgpack.zst
+/lustre/scratch/lul/tfdata/50hz500/sim2_000055
+sim2_000055
+radius=0.0125, np=35545
+--------------Processing------/lustre/scratch/lul/tfdata/50hz500/sim2_000055 frames=0
+writing /lustre/scratch/lul/tfdata/50hz_data500/sim2_000055_00.msgpack.zst
+/lustre/scratch/lul/tfdata/50hz500/sim2_000056
+sim2_000056
+radius=0.0125, np=33776
+--------------Processing------/lustre/scratch/lul/tfdata/50hz500/sim2_000056 frames=0
+writing /lustre/scratch/lul/tfdata/50hz_data500/sim2_000056_00.msgpack.zst
+/lustre/scratch/lul/tfdata/50hz500/sim2_000057
+sim2_000057
+radius=0.0125, np=29990
+--------------Processing------/lustre/scratch/lul/tfdata/50hz500/sim2_000057 frames=0
+writing /lustre/scratch/lul/tfdata/50hz_data500/sim2_000057_00.msgpack.zst
+/lustre/scratch/lul/tfdata/50hz500/sim2_000058
+sim2_000058
+radius=0.0125, np=32881
+--------------Processing------/lustre/scratch/lul/tfdata/50hz500/sim2_000058 frames=0
+writing /lustre/scratch/lul/tfdata/50hz_data500/sim2_000058_00.msgpack.zst
+/lustre/scratch/lul/tfdata/50hz500/sim2_000059
+sim2_000059
+radius=0.0125, np=28972
+--------------Processing------/lustre/scratch/lul/tfdata/50hz500/sim2_000059 frames=0
+writing /lustre/scratch/lul/tfdata/50hz_data500/sim2_000059_00.msgpack.zst
+/lustre/scratch/lul/tfdata/50hz500/sim2_000060
+sim2_000060
+radius=0.0125, np=33470
+--------------Processing------/lustre/scratch/lul/tfdata/50hz500/sim2_000060 frames=0
+writing /lustre/scratch/lul/tfdata/50hz_data500/sim2_000060_00.msgpack.zst
+/lustre/scratch/lul/tfdata/50hz500/sim2_000061
+sim2_000061
+radius=0.0125, np=28972
+--------------Processing------/lustre/scratch/lul/tfdata/50hz500/sim2_000061 frames=0
+writing /lustre/scratch/lul/tfdata/50hz_data500/sim2_000061_00.msgpack.zst
+/lustre/scratch/lul/tfdata/50hz500/sim2_000062
+sim2_000062
+radius=0.0125, np=32617
+--------------Processing------/lustre/scratch/lul/tfdata/50hz500/sim2_000062 frames=0
+writing /lustre/scratch/lul/tfdata/50hz_data500/sim2_000062_00.msgpack.zst
+/lustre/scratch/lul/tfdata/50hz500/sim2_000063
+sim2_000063
+radius=0.0125, np=37919
+--------------Processing------/lustre/scratch/lul/tfdata/50hz500/sim2_000063 frames=0
+writing /lustre/scratch/lul/tfdata/50hz_data500/sim2_000063_00.msgpack.zst
+/lustre/scratch/lul/tfdata/50hz500/sim2_000064
+sim2_000064
+radius=0.0125, np=28972
+--------------Processing------/lustre/scratch/lul/tfdata/50hz500/sim2_000064 frames=0
+writing /lustre/scratch/lul/tfdata/50hz_data500/sim2_000064_00.msgpack.zst
+/lustre/scratch/lul/tfdata/50hz500/sim2_000065
+sim2_000065
+radius=0.0125, np=30018
+--------------Processing------/lustre/scratch/lul/tfdata/50hz500/sim2_000065 frames=0
+writing /lustre/scratch/lul/tfdata/50hz_data500/sim2_000065_00.msgpack.zst
+/lustre/scratch/lul/tfdata/50hz500/sim2_000066
+sim2_000066
+radius=0.0125, np=28972
+--------------Processing------/lustre/scratch/lul/tfdata/50hz500/sim2_000066 frames=0
+writing /lustre/scratch/lul/tfdata/50hz_data500/sim2_000066_00.msgpack.zst
+/lustre/scratch/lul/tfdata/50hz500/sim2_000067
+sim2_000067
+radius=0.0125, np=30967
+--------------Processing------/lustre/scratch/lul/tfdata/50hz500/sim2_000067 frames=0
+writing /lustre/scratch/lul/tfdata/50hz_data500/sim2_000067_00.msgpack.zst
+/lustre/scratch/lul/tfdata/50hz500/sim2_000068
+sim2_000068
+radius=0.0125, np=28972
+--------------Processing------/lustre/scratch/lul/tfdata/50hz500/sim2_000068 frames=0
+writing /lustre/scratch/lul/tfdata/50hz_data500/sim2_000068_00.msgpack.zst
+/lustre/scratch/lul/tfdata/50hz500/sim2_000069
+sim2_000069
+radius=0.0125, np=32002
+--------------Processing------/lustre/scratch/lul/tfdata/50hz500/sim2_000069 frames=0
+writing /lustre/scratch/lul/tfdata/50hz_data500/sim2_000069_00.msgpack.zst
+/lustre/scratch/lul/tfdata/50hz500/sim2_000070
+sim2_000070
+radius=0.0125, np=30542
+--------------Processing------/lustre/scratch/lul/tfdata/50hz500/sim2_000070 frames=0
+writing /lustre/scratch/lul/tfdata/50hz_data500/sim2_000070_00.msgpack.zst
+/lustre/scratch/lul/tfdata/50hz500/sim2_000071
+sim2_000071
+radius=0.0125, np=29735
+--------------Processing------/lustre/scratch/lul/tfdata/50hz500/sim2_000071 frames=0
+writing /lustre/scratch/lul/tfdata/50hz_data500/sim2_000071_00.msgpack.zst
+/lustre/scratch/lul/tfdata/50hz500/sim2_000072
+sim2_000072
+radius=0.0125, np=28972
+--------------Processing------/lustre/scratch/lul/tfdata/50hz500/sim2_000072 frames=0
+writing /lustre/scratch/lul/tfdata/50hz_data500/sim2_000072_00.msgpack.zst
+/lustre/scratch/lul/tfdata/50hz500/sim2_000073
+sim2_000073
+radius=0.0125, np=28972
+--------------Processing------/lustre/scratch/lul/tfdata/50hz500/sim2_000073 frames=0
+writing /lustre/scratch/lul/tfdata/50hz_data500/sim2_000073_00.msgpack.zst
+/lustre/scratch/lul/tfdata/50hz500/sim2_000074
+sim2_000074
+radius=0.0125, np=36215
+--------------Processing------/lustre/scratch/lul/tfdata/50hz500/sim2_000074 frames=0
+writing /lustre/scratch/lul/tfdata/50hz_data500/sim2_000074_00.msgpack.zst
+/lustre/scratch/lul/tfdata/50hz500/sim2_000075
+sim2_000075
+radius=0.0125, np=28972
+--------------Processing------/lustre/scratch/lul/tfdata/50hz500/sim2_000075 frames=0
+writing /lustre/scratch/lul/tfdata/50hz_data500/sim2_000075_00.msgpack.zst
+/lustre/scratch/lul/tfdata/50hz500/sim2_000076
+sim2_000076
+radius=0.0125, np=28972
+--------------Processing------/lustre/scratch/lul/tfdata/50hz500/sim2_000076 frames=0
+writing /lustre/scratch/lul/tfdata/50hz_data500/sim2_000076_00.msgpack.zst
+/lustre/scratch/lul/tfdata/50hz500/sim2_000077
+sim2_000077
+radius=0.0125, np=30437
+--------------Processing------/lustre/scratch/lul/tfdata/50hz500/sim2_000077 frames=0
+writing /lustre/scratch/lul/tfdata/50hz_data500/sim2_000077_00.msgpack.zst
+/lustre/scratch/lul/tfdata/50hz500/sim2_000078
+sim2_000078
+radius=0.0125, np=28972
+--------------Processing------/lustre/scratch/lul/tfdata/50hz500/sim2_000078 frames=0
+writing /lustre/scratch/lul/tfdata/50hz_data500/sim2_000078_00.msgpack.zst
+/lustre/scratch/lul/tfdata/50hz500/sim2_000079
+sim2_000079
+radius=0.0125, np=37638
+--------------Processing------/lustre/scratch/lul/tfdata/50hz500/sim2_000079 frames=0
+writing /lustre/scratch/lul/tfdata/50hz_data500/sim2_000079_00.msgpack.zst
+/lustre/scratch/lul/tfdata/50hz500/sim2_000080
+sim2_000080

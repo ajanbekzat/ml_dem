@@ -1,0 +1,30 @@
+pid=0, total processes=1
+['/lustre/scratch/lul/tfdata/50hz5cm1geo_data/valid/sim4_000000_00.msgpack.zst'] 
+['/lustre/scratch/lul/tfdata/50hz5cm1geo_data/train/sim4_000001_00.msgpack.zst', '/lustre/scratch/lul/tfdata/50hz5cm1geo_data/train/sim4_000002_00.msgpack.zst', '/lustre/scratch/lul/tfdata/50hz5cm1geo_data/train/sim4_000003_00.msgpack.zst', '/lustre/scratch/lul/tfdata/50hz5cm1geo_data/train/sim4_000004_00.msgpack.zst', '/lustre/scratch/lul/tfdata/50hz5cm1geo_data/train/sim4_000005_00.msgpack.zst', '/lustre/scratch/lul/tfdata/50hz5cm1geo_data/train/sim4_000006_00.msgpack.zst', '/lustre/scratch/lul/tfdata/50hz5cm1geo_data/train/sim4_000007_00.msgpack.zst', '/lustre/scratch/lul/tfdata/50hz5cm1geo_data/train/sim4_000008_00.msgpack.zst', '/lustre/scratch/lul/tfdata/50hz5cm1geo_data/train/sim4_000009_00.msgpack.zst', '/lustre/scratch/lul/tfdata/50hz5cm1geo_data/train/sim4_000010_00.msgpack.zst', '/lustre/scratch/lul/tfdata/50hz5cm1geo_data/train/sim4_000011_00.msgpack.zst', '/lustre/scratch/lul/tfdata/50hz5cm1geo_data/train/sim4_000012_00.msgpack.zst', '/lustre/scratch/lul/tfdata/50hz5cm1geo_data/train/sim4_000013_00.msgpack.zst', '/lustre/scratch/lul/tfdata/50hz5cm1geo_data/train/sim4_000014_00.msgpack.zst', '/lustre/scratch/lul/tfdata/50hz5cm1geo_data/train/sim4_000015_00.msgpack.zst', '/lustre/scratch/lul/tfdata/50hz5cm1geo_data/train/sim4_000016_00.msgpack.zst', '/lustre/scratch/lul/tfdata/50hz5cm1geo_data/train/sim4_000017_00.msgpack.zst', '/lustre/scratch/lul/tfdata/50hz5cm1geo_data/train/sim4_000018_00.msgpack.zst', '/lustre/scratch/lul/tfdata/50hz5cm1geo_data/train/sim4_000019_00.msgpack.zst', '/lustre/scratch/lul/tfdata/50hz5cm1geo_data/train/sim4_000020_00.msgpack.zst'] ...
+Create model with particle radius of: 0.025000 filterExtent of 9.000000 dp timestep=0.020000
+# 2021-01-08 17:09:15        0 n/a ips                 n/a rem | 
+step=0 checkpoint=None
+pid=11528 calling train
+pid=11528 batchi=0
+loss_fn...
+loss_fn...
+Tensor("add_2:0", shape=(), dtype=float32)
+pid=11528 calling train
+pid=11528 batchi=0
+loss_fn...
+loss_fn...
+Tensor("add_2:0", shape=(), dtype=float32)
+after calling train------
+evaluating.. {'err_n1': nan, 'err_n2': nan}
+done
+saving /lustre/scratch/lul/tfdata/50hz5cm1geo_data/results-1GPU-filterScale6-importance1-gamma1-neighbor/checkpoints/ckpt-1
+step=1 checkpoint=/lustre/scratch/lul/tfdata/50hz5cm1geo_data/results-1GPU-filterScale6-importance1-gamma1-neighbor/checkpoints/ckpt-1
+pid=11528 calling train
+pid=11528 batchi=0
+loss_fn...
+loss_fn...
+Tensor("add_2:0", shape=(), dtype=float32)
+after calling train------
+evaluating.. {'err_n1': nan, 'err_n2': nan}
+done
+saving /lustre/scratch/lul/tfdata/50hz5cm1geo_data/results-1GPU-filterScale6-importance1-gamma1-neighbor/checkpoints/ckpt-2

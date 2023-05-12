@@ -1,0 +1,30 @@
+{
+    "walls":[
+        {
+            "path":"/lustre/scratch/lul/tfdata/TestingCases/hopper5cm/geometry.stl",
+            "translation":[
+                0,
+                0,
+                0
+            ]
+        }
+    ],
+    "fluids":[
+        {
+            "path":"/lustre/scratch/lul/tfdata/TestingCases/hopper5cm/PARTIO/PARTICLEDATA_FLUID0_0000.vtp",
+            "velocity":[
+                0,
+                0,
+                0
+            ],
+            "translation":[
+                0,
+                0,
+                0
+            ],
+            "start":0,
+            "stop":1,
+            "step":1
+        }
+    ]
+}

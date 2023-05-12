@@ -1,0 +1,19 @@
+#!/bin/bash -l
+
+##Accounting
+#SBATCH --partition=gpu
+#SBATCH --qos=long
+
+##Submission
+#SBATCH --nodes=1
+#SBATCH --ntasks-per-node=1
+#SBATCH --job-name="lose2gamma2"
+
+##Load Modules
+module load anaconda/3.8 gnu/9.3.0 openmpi/4.0.4_gnu9.3 llvm/9dec2020 cuda/11.0 open3d/9dec2020 cuda/10.1
+source /nfs/apps/Compilers/Python/Anaconda/3.8/bin/activate deepdem
+
+##Run the program
+##mpirun python mfix_train_network_tfDMP.py
+python trainDrumLose2gamma2.py
+#hostname

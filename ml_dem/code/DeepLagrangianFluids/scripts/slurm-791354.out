@@ -1,0 +1,98 @@
+2021-02-08 12:57:09.710080: I tensorflow/stream_executor/platform/default/dso_loader.cc:48] Successfully opened dynamic library libcudart.so.10.1
+2021-02-08 12:57:12.671919: I tensorflow/stream_executor/platform/default/dso_loader.cc:48] Successfully opened dynamic library libcudart.so.10.1
+[0]<stderr>:2021-02-08 12:57:14.904072: I tensorflow/stream_executor/platform/default/dso_loader.cc:48] Successfully opened dynamic library libcudart.so.10.1
+[1]<stderr>:2021-02-08 12:57:14.904100: I tensorflow/stream_executor/platform/default/dso_loader.cc:48] Successfully opened dynamic library libcudart.so.10.1
+[0]<stderr>:2021-02-08 12:57:16.870846: I tensorflow/stream_executor/platform/default/dso_loader.cc:48] Successfully opened dynamic library libcuda.so.1
+[1]<stderr>:2021-02-08 12:57:16.870846: I tensorflow/stream_executor/platform/default/dso_loader.cc:48] Successfully opened dynamic library libcuda.so.1
+[0]<stderr>:2021-02-08 12:57:16.897390: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1716] Found device 0 with properties: 
+[0]<stderr>:pciBusID: 0000:5c:00.0 name: Tesla P100-PCIE-16GB computeCapability: 6.0
+[0]<stderr>:coreClock: 1.3285GHz coreCount: 56 deviceMemorySize: 15.90GiB deviceMemoryBandwidth: 681.88GiB/s
+[1]<stderr>:2021-02-08 12:57:16.897883: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1716] Found device 0 with properties: 
+[1]<stderr>:pciBusID: 0000:5c:00.0 name: Tesla P100-PCIE-16GB computeCapability: 6.0
+[1]<stderr>:coreClock: 1.3285GHz coreCount: 56 deviceMemorySize: 15.90GiB deviceMemoryBandwidth: 681.88GiB/s
+[0]<stderr>:2021-02-08 12:57:16.898359: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1716] Found device 1 with properties: 
+[0]<stderr>:pciBusID: 0000:d8:00.0 name: Tesla P100-PCIE-16GB computeCapability: 6.0
+[0]<stderr>:coreClock: 1.3285GHz coreCount: 56 deviceMemorySize: 15.90GiB deviceMemoryBandwidth: 681.88GiB/s
+[0]<stderr>:2021-02-08 12:57:16.898385: I tensorflow/stream_executor/platform/default/dso_loader.cc:48] Successfully opened dynamic library libcudart.so.10.1
+[1]<stderr>:2021-02-08 12:57:16.898749: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1716] Found device 1 with properties: 
+[1]<stderr>:pciBusID: 0000:d8:00.0 name: Tesla P100-PCIE-16GB computeCapability: 6.0
+[1]<stderr>:coreClock: 1.3285GHz coreCount: 56 deviceMemorySize: 15.90GiB deviceMemoryBandwidth: 681.88GiB/s
+[1]<stderr>:2021-02-08 12:57:16.898772: I tensorflow/stream_executor/platform/default/dso_loader.cc:48] Successfully opened dynamic library libcudart.so.10.1
+[1]<stderr>:2021-02-08 12:57:16.953054: I tensorflow/stream_executor/platform/default/dso_loader.cc:48] Successfully opened dynamic library libcublas.so.10
+[0]<stderr>:2021-02-08 12:57:16.954732: I tensorflow/stream_executor/platform/default/dso_loader.cc:48] Successfully opened dynamic library libcublas.so.10
+[1]<stderr>:2021-02-08 12:57:17.000469: I tensorflow/stream_executor/platform/default/dso_loader.cc:48] Successfully opened dynamic library libcufft.so.10
+[0]<stderr>:2021-02-08 12:57:17.000469: I tensorflow/stream_executor/platform/default/dso_loader.cc:48] Successfully opened dynamic library libcufft.so.10
+[1]<stderr>:2021-02-08 12:57:17.047916: I tensorflow/stream_executor/platform/default/dso_loader.cc:48] Successfully opened dynamic library libcurand.so.10
+[0]<stderr>:2021-02-08 12:57:17.047899: I tensorflow/stream_executor/platform/default/dso_loader.cc:48] Successfully opened dynamic library libcurand.so.10
+[0]<stderr>:2021-02-08 12:57:17.109404: I tensorflow/stream_executor/platform/default/dso_loader.cc:48] Successfully opened dynamic library libcusolver.so.10
+[1]<stderr>:2021-02-08 12:57:17.109405: I tensorflow/stream_executor/platform/default/dso_loader.cc:48] Successfully opened dynamic library libcusolver.so.10
+[0]<stderr>:2021-02-08 12:57:17.141182: I tensorflow/stream_executor/platform/default/dso_loader.cc:48] Successfully opened dynamic library libcusparse.so.10
+[1]<stderr>:2021-02-08 12:57:17.141202: I tensorflow/stream_executor/platform/default/dso_loader.cc:48] Successfully opened dynamic library libcusparse.so.10
+[1]<stderr>:2021-02-08 12:57:17.208722: I tensorflow/stream_executor/platform/default/dso_loader.cc:48] Successfully opened dynamic library libcudnn.so.7
+[0]<stderr>:2021-02-08 12:57:17.208722: I tensorflow/stream_executor/platform/default/dso_loader.cc:48] Successfully opened dynamic library libcudnn.so.7
+[1]<stderr>:2021-02-08 12:57:17.213031: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1858] Adding visible gpu devices: 0, 1
+[0]<stderr>:2021-02-08 12:57:17.213044: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1858] Adding visible gpu devices: 0, 1
+[1]<stdout>:pid=1, total processes=2
+[0]<stdout>:pid=0, total processes=2
+[1]<stdout>:['/lustre/scratch/lul/tfdata/50hzdrummew_data/valid/rd000013_00.msgpack.zst'] 
+[0]<stdout>:['/lustre/scratch/lul/tfdata/50hzdrummew_data/valid/rd000013_00.msgpack.zst'] 
+[1]<stdout>:['/lustre/scratch/lul/tfdata/50hzdrummew_data/train/rd000000_00.msgpack.zst', '/lustre/scratch/lul/tfdata/50hzdrummew_data/train/rd000001_00.msgpack.zst', '/lustre/scratch/lul/tfdata/50hzdrummew_data/train/rd000002_00.msgpack.zst', '/lustre/scratch/lul/tfdata/50hzdrummew_data/train/rd000003_00.msgpack.zst', '/lustre/scratch/lul/tfdata/50hzdrummew_data/train/rd000004_00.msgpack.zst', '/lustre/scratch/lul/tfdata/50hzdrummew_data/train/rd000005_00.msgpack.zst', '/lustre/scratch/lul/tfdata/50hzdrummew_data/train/rd000006_00.msgpack.zst', '/lustre/scratch/lul/tfdata/50hzdrummew_data/train/rd000007_00.msgpack.zst', '/lustre/scratch/lul/tfdata/50hzdrummew_data/train/rd000008_00.msgpack.zst', '/lustre/scratch/lul/tfdata/50hzdrummew_data/train/rd000009_00.msgpack.zst', '/lustre/scratch/lul/tfdata/50hzdrummew_data/train/rd000010_00.msgpack.zst', '/lustre/scratch/lul/tfdata/50hzdrummew_data/train/rd000011_00.msgpack.zst', '/lustre/scratch/lul/tfdata/50hzdrummew_data/train/rd000012_00.msgpack.zst', '/lustre/scratch/lul/tfdata/50hzdrummew_data/train/rd000014_00.msgpack.zst', '/lustre/scratch/lul/tfdata/50hzdrummew_data/train/rd000015_00.msgpack.zst', '/lustre/scratch/lul/tfdata/50hzdrummew_data/train/rd000016_00.msgpack.zst', '/lustre/scratch/lul/tfdata/50hzdrummew_data/train/rd000017_00.msgpack.zst', '/lustre/scratch/lul/tfdata/50hzdrummew_data/train/rd000018_00.msgpack.zst', '/lustre/scratch/lul/tfdata/50hzdrummew_data/train/rd000019_00.msgpack.zst', '/lustre/scratch/lul/tfdata/50hzdrummew_data/train/rd000020_00.msgpack.zst'] ...
+[0]<stdout>:['/lustre/scratch/lul/tfdata/50hzdrummew_data/train/rd000000_00.msgpack.zst', '/lustre/scratch/lul/tfdata/50hzdrummew_data/train/rd000001_00.msgpack.zst', '/lustre/scratch/lul/tfdata/50hzdrummew_data/train/rd000002_00.msgpack.zst', '/lustre/scratch/lul/tfdata/50hzdrummew_data/train/rd000003_00.msgpack.zst', '/lustre/scratch/lul/tfdata/50hzdrummew_data/train/rd000004_00.msgpack.zst', '/lustre/scratch/lul/tfdata/50hzdrummew_data/train/rd000005_00.msgpack.zst', '/lustre/scratch/lul/tfdata/50hzdrummew_data/train/rd000006_00.msgpack.zst', '/lustre/scratch/lul/tfdata/50hzdrummew_data/train/rd000007_00.msgpack.zst', '/lustre/scratch/lul/tfdata/50hzdrummew_data/train/rd000008_00.msgpack.zst', '/lustre/scratch/lul/tfdata/50hzdrummew_data/train/rd000009_00.msgpack.zst', '/lustre/scratch/lul/tfdata/50hzdrummew_data/train/rd000010_00.msgpack.zst', '/lustre/scratch/lul/tfdata/50hzdrummew_data/train/rd000011_00.msgpack.zst', '/lustre/scratch/lul/tfdata/50hzdrummew_data/train/rd000012_00.msgpack.zst', '/lustre/scratch/lul/tfdata/50hzdrummew_data/train/rd000014_00.msgpack.zst', '/lustre/scratch/lul/tfdata/50hzdrummew_data/train/rd000015_00.msgpack.zst', '/lustre/scratch/lul/tfdata/50hzdrummew_data/train/rd000016_00.msgpack.zst', '/lustre/scratch/lul/tfdata/50hzdrummew_data/train/rd000017_00.msgpack.zst', '/lustre/scratch/lul/tfdata/50hzdrummew_data/train/rd000018_00.msgpack.zst', '/lustre/scratch/lul/tfdata/50hzdrummew_data/train/rd000019_00.msgpack.zst', '/lustre/scratch/lul/tfdata/50hzdrummew_data/train/rd000020_00.msgpack.zst'] ...
+[1]<stdout>:[32m[0208 12:57:17 @parallel.py:340][0m [MultiProcessRunnerZMQ] Will fork a dataflow more than one times. This assumes the datapoints are i.i.d.
+[0]<stdout>:[32m[0208 12:57:17 @parallel.py:340][0m [MultiProcessRunnerZMQ] Will fork a dataflow more than one times. This assumes the datapoints are i.i.d.
+[1]<stdout>:[32m[0208 12:57:17 @parallel.py:57][0m [4m[5m[31mERR[0m ZMQError in socket.bind('ipc://@dataflow-pipe-14f657dc'). Perhaps you're using pipes on a non-local file system. See documentation of MultiProcessRunnerZMQ for more information.
+[1]<stderr>:Traceback (most recent call last):
+[1]<stderr>:  File "trainDrumMew1kgpu2RotFalse.py", line 206, in <module>
+[1]<stderr>:    sys.exit(main())
+[1]<stderr>:  File "trainDrumMew1kgpu2RotFalse.py", line 57, in main
+[1]<stderr>:    dataset = read_data_train(files=train_files,
+[1]<stderr>:  File "../datasets/dataset_reader_physics.py", line 91, in read_data_train
+[1]<stderr>:    return read_data(files=files,
+[1]<stderr>:  File "../datasets/dataset_reader_physics.py", line 139, in read_data
+[1]<stderr>:    df.reset_state()
+[1]<stderr>:  File "/nfs/home/6/lul/.local/lib/python3.8/site-packages/dataflow/dataflow/base.py", line 181, in reset_state
+[1]<stderr>:    self.ds.reset_state()
+[1]<stderr>:  File "/nfs/home/6/lul/.local/lib/python3.8/site-packages/dataflow/dataflow/parallel.py", line 372, in reset_state
+[1]<stderr>:    _bind_guard(self.socket, pipename)
+[1]<stderr>:  File "/nfs/home/6/lul/.local/lib/python3.8/site-packages/dataflow/dataflow/parallel.py", line 55, in _bind_guard
+[1]<stderr>:    sock.bind(name)
+[1]<stderr>:  File "/nfs/apps/Compilers/Python/Anaconda/3.8/lib/python3.8/site-packages/zmq/sugar/socket.py", line 173, in bind
+[1]<stderr>:    super().bind(addr)
+[1]<stderr>:  File "zmq/backend/cython/socket.pyx", line 542, in zmq.backend.cython.socket.Socket.bind
+[1]<stderr>:  File "zmq/backend/cython/checkrc.pxd", line 28, in zmq.backend.cython.checkrc._check_rc
+[1]<stderr>:zmq.error.ZMQError: Address already in use
+[1]<stdout>:MultiProcessRunnerZMQ successfully cleaned-up.
+[1]<stdout>:MultiProcessRunnerZMQ successfully cleaned-up.
+[0]<stderr>:2021-02-08 12:57:17.843754: I tensorflow/stream_executor/platform/default/dso_loader.cc:48] Successfully opened dynamic library libcudart.so.10.1
+[0]<stderr>:2021-02-08 12:57:17.843757: I tensorflow/stream_executor/platform/default/dso_loader.cc:48] Successfully opened dynamic library libcudart.so.10.1
+[0]<stderr>:2021-02-08 12:57:20.018274: I tensorflow/stream_executor/platform/default/dso_loader.cc:48] Successfully opened dynamic library libcudart.so.10.1
+[0]<stderr>:2021-02-08 12:57:20.911860: I tensorflow/core/platform/cpu_feature_guard.cc:142] This TensorFlow binary is optimized with oneAPI Deep Neural Network Library (oneDNN)to use the following CPU instructions in performance-critical operations:  AVX2 AVX512F FMA
+[0]<stderr>:To enable them in other operations, rebuild TensorFlow with the appropriate compiler flags.
+[0]<stderr>:2021-02-08 12:57:20.920598: I tensorflow/core/platform/profile_utils/cpu_utils.cc:104] CPU Frequency: 2400000000 Hz
+[0]<stderr>:2021-02-08 12:57:20.922484: I tensorflow/compiler/xla/service/service.cc:168] XLA service 0x562fbcf39650 initialized for platform Host (this does not guarantee that XLA will be used). Devices:
+[0]<stderr>:2021-02-08 12:57:20.922509: I tensorflow/compiler/xla/service/service.cc:176]   StreamExecutor device (0): Host, Default Version
+[0]<stderr>:2021-02-08 12:57:20.925199: I tensorflow/compiler/xla/service/service.cc:168] XLA service 0x562fbcfa5f40 initialized for platform CUDA (this does not guarantee that XLA will be used). Devices:
+[0]<stderr>:2021-02-08 12:57:20.925215: I tensorflow/compiler/xla/service/service.cc:176]   StreamExecutor device (0): Tesla P100-PCIE-16GB, Compute Capability 6.0
+[0]<stderr>:2021-02-08 12:57:20.926112: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1716] Found device 0 with properties: 
+[0]<stderr>:pciBusID: 0000:5c:00.0 name: Tesla P100-PCIE-16GB computeCapability: 6.0
+[0]<stderr>:coreClock: 1.3285GHz coreCount: 56 deviceMemorySize: 15.90GiB deviceMemoryBandwidth: 681.88GiB/s
+[0]<stderr>:2021-02-08 12:57:20.926144: I tensorflow/stream_executor/platform/default/dso_loader.cc:48] Successfully opened dynamic library libcudart.so.10.1
+[0]<stderr>:2021-02-08 12:57:20.926169: I tensorflow/stream_executor/platform/default/dso_loader.cc:48] Successfully opened dynamic library libcublas.so.10
+[0]<stderr>:2021-02-08 12:57:20.926180: I tensorflow/stream_executor/platform/default/dso_loader.cc:48] Successfully opened dynamic library libcufft.so.10
+[0]<stderr>:2021-02-08 12:57:20.926190: I tensorflow/stream_executor/platform/default/dso_loader.cc:48] Successfully opened dynamic library libcurand.so.10
+[0]<stderr>:2021-02-08 12:57:20.926200: I tensorflow/stream_executor/platform/default/dso_loader.cc:48] Successfully opened dynamic library libcusolver.so.10
+[0]<stderr>:2021-02-08 12:57:20.926210: I tensorflow/stream_executor/platform/default/dso_loader.cc:48] Successfully opened dynamic library libcusparse.so.10
+[0]<stderr>:2021-02-08 12:57:20.926222: I tensorflow/stream_executor/platform/default/dso_loader.cc:48] Successfully opened dynamic library libcudnn.so.7
+[0]<stderr>:2021-02-08 12:57:20.927219: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1858] Adding visible gpu devices: 0
+[0]<stderr>:2021-02-08 12:57:22.000876: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1257] Device interconnect StreamExecutor with strength 1 edge matrix:
+[0]<stderr>:2021-02-08 12:57:22.000924: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1263]      0 
+[0]<stderr>:2021-02-08 12:57:22.000931: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1276] 0:   N 
+[0]<stderr>:2021-02-08 12:57:22.002162: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1402] Created TensorFlow device (/job:localhost/replica:0/task:0/device:GPU:0 with 14914 MB memory) -> physical GPU (device: 0, name: Tesla P100-PCIE-16GB, pci bus id: 0000:5c:00.0, compute capability: 6.0)
+Process 1 exit with status code 1.
+[0]<stdout>:Create model with particle radius of: 0.025000 filterExtent of 9.000000 dp timestep=0.020000
+[0]<stdout>:# 2021-02-08 12:57:22        0 n/a ips                 n/a rem | 
+[0]<stderr>:terminate called after throwing an instance of 'gloo::IoException'
+[0]<stderr>:  what():  [/tmp/pip-install-o_fozvls/horovod_5b429c05da934fe8b0640ed77c14eb02/horovod/common/gloo/http_store.cc:54] [/tmp/pip-install-o_fozvls/horovod_5b429c05da934fe8b0640ed77c14eb02/horovod/common/gloo/http_store.cc:54] Wait timeout after 30 seconds for key(s): 1. You may want to increase the timeout via HOROVOD_GLOO_TIMEOUT_SECONDS
+[0]<stderr>:terminate called after throwing an instance of 'gloo::IoException'
+[0]<stderr>:  what():  [/tmp/pip-install-o_fozvls/horovod_5b429c05da934fe8b0640ed77c14eb02/horovod/common/gloo/http_store.cc:54] [/tmp/pip-install-o_fozvls/horovod_5b429c05da934fe8b0640ed77c14eb02/horovod/common/gloo/http_store.cc:54] Wait timeout after 30 seconds for key(s): 1. You may want to increase the timeout via HOROVOD_GLOO_TIMEOUT_SECONDS
+slurmstepd: error: *** JOB 791354 ON n1624 CANCELLED AT 2021-02-08T20:31:03 ***
