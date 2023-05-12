@@ -1,0 +1,5 @@
+outs:
+- md5: a4c5892c392fc5c34e21a614eb1889e6.dir
+  size: 1829619169
+  nfiles: 2311
+  path: data_from_mfix
